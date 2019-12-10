@@ -1377,3 +1377,2156 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-23.33.26:414][104]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Chad_Bottom_OpacityF5EFEF4C4E0C2AB3A83DB99E81F4E63C.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Character/Chad_Bottom_Opacity.uasset'
 [2019.12.10-23.33.26:424][104]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Chad_Skeleton46E69AB347B2A00CBE4175AB5C365E1A.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Character/Chad_Skeleton.uasset'
 [2019.12.10-23.33.26:482][104]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Chad_PhysicsAssetE27D416142D6C1A3E5EB7093C896F0FA.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Character/Chad_PhysicsAsset.uasset'
+[2019.12.10-23.35.37:903][429]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/buttonPressCut.fbx)
+[2019.12.10-23.35.37:924][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/buttonPressCut.fbx
+[2019.12.10-23.35.38:020][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.06:123][429]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-23.36.06:158][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.06:158][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.06:159][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.06:159][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.06:159][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.06:160][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.06:160][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.06:160][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.06:160][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.06:161][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.06:161][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.06:161][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.06:161][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.06:161][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.06:161][429]LogFbx: Valid bind pose for Pose (skinCluster5) - default1
+[2019.12.10-23.36.06:161][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.06:163][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.06:209][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.06:227][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.06:912][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.07:035][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.07:177][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.07:255][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.07:255][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.07:255][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.07:255][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.07:255][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.07:255][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.07:255][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.07:255][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.07:255][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.07:847][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.07:847][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.07:847][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.07:847][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.07:849][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.07:849][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.07:849][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.07:849][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.07:860][429]LogSkeletalMesh: Building Skeletal Mesh buttonPressCut...
+[2019.12.10-23.36.07:895][429]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut.buttonPressCut
+[2019.12.10-23.36.07:907][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.07:908][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.07:921][429]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.07:926][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.07:928][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.07:928][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut_Anim': Can't find file.
+[2019.12.10-23.36.07:928][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut_Anim': Can't find file.
+[2019.12.10-23.36.08:273][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut_Anim.buttonPressCut_Anim
+[2019.12.10-23.36.08:273][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut_Anim.buttonPressCut_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.08:278][429]LogSkeletalMesh: Building Skeletal Mesh buttonPressCut...
+[2019.12.10-23.36.08:313][429]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut.buttonPressCut
+[2019.12.10-23.36.08:334][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.08:341][429]LogSkeletalMesh: Building Skeletal Mesh buttonPressCut...
+[2019.12.10-23.36.08:375][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut.buttonPressCut
+[2019.12.10-23.36.08:915][429]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/coverPeekCut.fbx)
+[2019.12.10-23.36.08:936][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/coverPeekCut.fbx
+[2019.12.10-23.36.09:031][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.09:049][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.09:049][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.09:050][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.09:050][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.09:050][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.09:051][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.09:051][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.09:051][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.09:051][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.09:052][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.09:053][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.09:053][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.09:099][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.09:104][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.09:794][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.09:911][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.10:051][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.10:125][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.10:125][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.10:125][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.10:125][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.10:125][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.10:125][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.10:125][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.10:125][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.10:125][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.10:716][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.10:716][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.10:716][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.10:717][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.10:718][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.10:718][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.10:718][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.10:718][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.10:730][429]LogSkeletalMesh: Building Skeletal Mesh coverPeekCut...
+[2019.12.10-23.36.10:763][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut.coverPeekCut
+[2019.12.10-23.36.10:773][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.10:773][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.10:783][429]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.10:787][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.10:788][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.10:789][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.10:789][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut_Anim': Can't find file.
+[2019.12.10-23.36.10:790][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut_Anim': Can't find file.
+[2019.12.10-23.36.11:643][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut_Anim.coverPeekCut_Anim
+[2019.12.10-23.36.11:643][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut_Anim.coverPeekCut_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.11:650][429]LogSkeletalMesh: Building Skeletal Mesh coverPeekCut...
+[2019.12.10-23.36.11:679][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut.coverPeekCut
+[2019.12.10-23.36.11:701][429]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.36.11:701][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.11:702][429]LogSkeletalMesh: Building Skeletal Mesh coverPeekCut...
+[2019.12.10-23.36.11:734][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut.coverPeekCut
+[2019.12.10-23.36.11:999][429]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/gunDropCutClean.fbx)
+[2019.12.10-23.36.12:014][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/gunDropCutClean.fbx
+[2019.12.10-23.36.12:070][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.12:079][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.12:079][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.12:079][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.12:080][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.12:080][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.12:080][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.12:081][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.12:081][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.12:081][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.12:081][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.12:081][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.12:081][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.12:082][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.12:082][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.12:082][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.12:082][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.12:082][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.12:082][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.12:082][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.12:082][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.12:082][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.12:084][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.12:130][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.12:147][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.12:843][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.12:963][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.13:105][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.13:179][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.13:179][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.13:179][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.13:179][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.13:179][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.13:179][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.13:179][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.13:179][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.13:179][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.13:772][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.13:772][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.13:773][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.13:773][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.13:774][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.13:774][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.13:774][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.13:774][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.13:780][429]LogSkeletalMesh: Building Skeletal Mesh gunDropCutClean...
+[2019.12.10-23.36.13:809][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean.gunDropCutClean
+[2019.12.10-23.36.13:819][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.13:820][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.13:831][429]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.13:835][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.13:836][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.13:837][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean_Anim': Can't find file.
+[2019.12.10-23.36.13:837][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean_Anim': Can't find file.
+[2019.12.10-23.36.14:924][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean_Anim.gunDropCutClean_Anim
+[2019.12.10-23.36.14:924][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean_Anim.gunDropCutClean_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.14:937][429]LogSkeletalMesh: Building Skeletal Mesh gunDropCutClean...
+[2019.12.10-23.36.14:967][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean.gunDropCutClean
+[2019.12.10-23.36.14:980][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.14:981][429]LogSkeletalMesh: Building Skeletal Mesh gunDropCutClean...
+[2019.12.10-23.36.15:012][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean.gunDropCutClean
+[2019.12.10-23.36.15:216][429]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/idleCut.fbx)
+[2019.12.10-23.36.15:229][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/idleCut.fbx
+[2019.12.10-23.36.15:286][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.15:295][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.15:295][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.15:296][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.15:296][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.15:296][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.15:297][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.15:297][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.15:297][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.15:297][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.15:297][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.15:298][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.15:299][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.15:351][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.15:356][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.16:065][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.16:183][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.16:327][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.16:401][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.16:401][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.16:401][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.16:401][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.16:401][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.16:401][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.16:401][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.16:401][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.16:401][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.16:989][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.16:989][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.16:990][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.16:990][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.16:991][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.16:992][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.16:992][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.16:992][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.16:998][429]LogSkeletalMesh: Building Skeletal Mesh idleCut...
+[2019.12.10-23.36.17:026][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/idleCut.idleCut
+[2019.12.10-23.36.17:035][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/idleCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.17:036][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/idleCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.17:047][429]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.17:051][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.17:052][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.17:053][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/idleCut_Anim': Can't find file.
+[2019.12.10-23.36.17:053][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/idleCut_Anim': Can't find file.
+[2019.12.10-23.36.18:540][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/idleCut_Anim.idleCut_Anim
+[2019.12.10-23.36.18:540][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/idleCut_Anim.idleCut_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.18:551][429]LogSkeletalMesh: Building Skeletal Mesh idleCut...
+[2019.12.10-23.36.18:581][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/idleCut.idleCut
+[2019.12.10-23.36.18:596][429]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.36.18:596][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.18:598][429]LogSkeletalMesh: Building Skeletal Mesh idleCut...
+[2019.12.10-23.36.18:628][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/idleCut.idleCut
+[2019.12.10-23.36.18:940][429]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/killMonsterCutClean.fbx)
+[2019.12.10-23.36.18:956][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/killMonsterCutClean.fbx
+[2019.12.10-23.36.19:016][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.19:029][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.19:029][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.19:030][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.19:030][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.19:030][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.19:031][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.19:031][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.19:031][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.19:031][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.19:032][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.19:032][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.19:032][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.19:032][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.19:032][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.19:032][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.19:032][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.19:032][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.19:032][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.19:032][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.19:033][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.19:033][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.19:034][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.19:081][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.19:099][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.19:800][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.19:921][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.20:065][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.20:140][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.20:140][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.20:140][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.20:140][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.20:140][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.20:140][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.20:140][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.20:140][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.20:140][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.20:728][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.20:728][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.20:728][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.20:728][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.20:730][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.20:730][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.20:730][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.20:730][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.20:736][429]LogSkeletalMesh: Building Skeletal Mesh killMonsterCutClean...
+[2019.12.10-23.36.20:766][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean.killMonsterCutClean
+[2019.12.10-23.36.20:775][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.20:776][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.20:783][429]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.20:787][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.20:788][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.20:789][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean_Anim': Can't find file.
+[2019.12.10-23.36.20:789][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean_Anim': Can't find file.
+[2019.12.10-23.36.21:557][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean_Anim.killMonsterCutClean_Anim
+[2019.12.10-23.36.21:557][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean_Anim.killMonsterCutClean_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.21:564][429]LogSkeletalMesh: Building Skeletal Mesh killMonsterCutClean...
+[2019.12.10-23.36.21:593][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean.killMonsterCutClean
+[2019.12.10-23.36.21:610][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.21:611][429]LogSkeletalMesh: Building Skeletal Mesh killMonsterCutClean...
+[2019.12.10-23.36.21:642][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean.killMonsterCutClean
+[2019.12.10-23.36.21:823][429]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/knowckBackCut.fbx)
+[2019.12.10-23.36.21:836][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/knowckBackCut.fbx
+[2019.12.10-23.36.21:892][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.21:901][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.21:901][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.21:902][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.21:902][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.21:902][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.21:903][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.21:903][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.21:903][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.21:904][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.21:905][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.21:905][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.21:906][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.21:953][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.21:957][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.22:664][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.22:784][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.22:929][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.23:006][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.23:006][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.23:006][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.23:006][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.23:006][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.23:006][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.23:006][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.23:006][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.23:006][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.23:600][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.23:600][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.23:600][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.23:601][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.23:602][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.23:602][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.23:602][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.23:602][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.23:608][429]LogSkeletalMesh: Building Skeletal Mesh knowckBackCut...
+[2019.12.10-23.36.23:637][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut.knowckBackCut
+[2019.12.10-23.36.23:647][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.23:648][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.23:654][429]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.23:658][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.23:659][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.23:660][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.23:660][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut_Anim': Can't find file.
+[2019.12.10-23.36.23:660][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut_Anim': Can't find file.
+[2019.12.10-23.36.23:784][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut_Anim.knowckBackCut_Anim
+[2019.12.10-23.36.23:784][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut_Anim.knowckBackCut_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.23:787][429]LogSkeletalMesh: Building Skeletal Mesh knowckBackCut...
+[2019.12.10-23.36.23:817][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut.knowckBackCut
+[2019.12.10-23.36.23:829][429]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.36.23:829][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.23:831][429]LogSkeletalMesh: Building Skeletal Mesh knowckBackCut...
+[2019.12.10-23.36.23:861][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut.knowckBackCut
+[2019.12.10-23.36.24:082][429]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/lookAroundCut.fbx)
+[2019.12.10-23.36.24:099][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/lookAroundCut.fbx
+[2019.12.10-23.36.24:161][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.24:174][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.24:174][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.24:174][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.24:175][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.24:175][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.24:175][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.24:176][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.24:176][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.24:176][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.24:176][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.24:176][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.24:177][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.24:177][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.24:177][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.24:177][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.24:177][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.24:177][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.24:177][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.24:177][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.24:177][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.24:177][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.24:178][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.24:226][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.24:230][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.24:946][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.25:064][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.25:209][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.25:284][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.25:284][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.25:284][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.25:284][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.25:284][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.25:284][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.25:284][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.25:284][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.25:284][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.25:876][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.25:876][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.25:876][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.25:876][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.25:878][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.25:878][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.25:878][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.25:878][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.25:885][429]LogSkeletalMesh: Building Skeletal Mesh lookAroundCut...
+[2019.12.10-23.36.25:915][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut.lookAroundCut
+[2019.12.10-23.36.25:925][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.25:925][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.25:932][429]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.25:936][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.25:937][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.25:938][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut_Anim': Can't find file.
+[2019.12.10-23.36.25:938][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut_Anim': Can't find file.
+[2019.12.10-23.36.26:356][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut_Anim.lookAroundCut_Anim
+[2019.12.10-23.36.26:356][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut_Anim.lookAroundCut_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.26:361][429]LogSkeletalMesh: Building Skeletal Mesh lookAroundCut...
+[2019.12.10-23.36.26:390][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut.lookAroundCut
+[2019.12.10-23.36.26:405][429]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.36.26:405][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.26:406][429]LogSkeletalMesh: Building Skeletal Mesh lookAroundCut...
+[2019.12.10-23.36.26:436][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut.lookAroundCut
+[2019.12.10-23.36.26:639][429]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/reactCut.fbx)
+[2019.12.10-23.36.26:652][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/reactCut.fbx
+[2019.12.10-23.36.26:716][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.26:728][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.26:728][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.26:728][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.26:728][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.26:729][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.26:729][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.26:729][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.26:730][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.26:730][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.26:730][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.26:730][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.26:730][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.26:730][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.26:730][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.26:730][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.26:731][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.26:731][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.26:731][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.26:731][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.26:731][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.26:731][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.26:732][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.26:779][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.26:784][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.27:500][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.27:620][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.27:764][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.27:844][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.27:844][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.27:844][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.27:844][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.27:844][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.27:844][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.27:844][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.27:844][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.27:844][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.28:445][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.28:445][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.28:446][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.28:446][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.28:447][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.28:447][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.28:447][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.28:447][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.28:454][429]LogSkeletalMesh: Building Skeletal Mesh reactCut...
+[2019.12.10-23.36.28:484][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/reactCut.reactCut
+[2019.12.10-23.36.28:493][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/reactCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.28:494][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/reactCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.28:500][429]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.28:504][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.28:505][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.28:505][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.28:505][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.28:505][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.28:505][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.28:505][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.28:505][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.28:505][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.28:505][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.28:505][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.28:505][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.28:506][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/reactCut_Anim': Can't find file.
+[2019.12.10-23.36.28:506][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/reactCut_Anim': Can't find file.
+[2019.12.10-23.36.28:846][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/reactCut_Anim.reactCut_Anim
+[2019.12.10-23.36.28:846][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/reactCut_Anim.reactCut_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.28:855][429]LogSkeletalMesh: Building Skeletal Mesh reactCut...
+[2019.12.10-23.36.28:884][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/reactCut.reactCut
+[2019.12.10-23.36.28:898][429]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.36.28:898][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.28:899][429]LogSkeletalMesh: Building Skeletal Mesh reactCut...
+[2019.12.10-23.36.28:929][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/reactCut.reactCut
+[2019.12.10-23.36.29:055][429]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/runCut.fbx)
+[2019.12.10-23.36.29:067][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/runCut.fbx
+[2019.12.10-23.36.29:123][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.29:132][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.29:132][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.29:132][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.29:132][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.29:133][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.29:133][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.29:133][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.29:134][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.29:134][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.29:134][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.29:134][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.29:134][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.29:134][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.29:134][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.29:135][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.29:135][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.29:135][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.29:135][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.29:135][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.29:135][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.29:135][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.29:136][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.29:182][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.29:186][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.29:899][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.30:030][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.30:176][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.30:251][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.30:251][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.30:251][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.30:251][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.30:251][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.30:251][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.30:251][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.30:251][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.30:251][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.30:861][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.30:861][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.30:861][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.30:861][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.30:863][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.30:863][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.30:863][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.30:863][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.30:869][429]LogSkeletalMesh: Building Skeletal Mesh runCut...
+[2019.12.10-23.36.30:898][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/runCut.runCut
+[2019.12.10-23.36.30:908][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/runCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.30:908][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/runCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.30:915][429]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.30:919][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.30:920][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.30:921][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/runCut_Anim': Can't find file.
+[2019.12.10-23.36.30:921][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/runCut_Anim': Can't find file.
+[2019.12.10-23.36.31:020][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/runCut_Anim.runCut_Anim
+[2019.12.10-23.36.31:020][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/runCut_Anim.runCut_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.31:023][429]LogSkeletalMesh: Building Skeletal Mesh runCut...
+[2019.12.10-23.36.31:053][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/runCut.runCut
+[2019.12.10-23.36.31:065][429]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.36.31:065][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.31:066][429]LogSkeletalMesh: Building Skeletal Mesh runCut...
+[2019.12.10-23.36.31:096][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/runCut.runCut
+[2019.12.10-23.36.31:277][429]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/sneakyCut.fbx)
+[2019.12.10-23.36.31:292][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/sneakyCut.fbx
+[2019.12.10-23.36.31:364][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.31:381][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.31:381][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.31:381][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.31:381][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.31:382][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.31:382][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.31:382][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.31:383][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.31:383][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.31:383][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.31:383][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.31:383][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.31:383][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.31:383][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.31:384][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.31:384][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.31:384][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.31:384][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.31:384][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.31:384][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.31:384][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.31:385][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.31:431][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.31:436][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.32:143][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.32:262][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.32:405][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.32:479][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.32:479][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.32:479][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.32:479][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.32:479][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.32:479][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.32:479][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.32:479][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.32:479][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.33:067][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.33:067][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.33:067][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.33:067][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.33:069][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.33:069][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.33:069][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.33:069][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.33:077][429]LogSkeletalMesh: Building Skeletal Mesh sneakyCut...
+[2019.12.10-23.36.33:107][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/sneakyCut.sneakyCut
+[2019.12.10-23.36.33:117][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/sneakyCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.33:117][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/sneakyCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.33:128][429]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.33:132][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.33:133][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.33:134][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/sneakyCut_Anim': Can't find file.
+[2019.12.10-23.36.33:134][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/sneakyCut_Anim': Can't find file.
+[2019.12.10-23.36.33:469][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/sneakyCut_Anim.sneakyCut_Anim
+[2019.12.10-23.36.33:469][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/sneakyCut_Anim.sneakyCut_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.33:474][429]LogSkeletalMesh: Building Skeletal Mesh sneakyCut...
+[2019.12.10-23.36.33:503][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/sneakyCut.sneakyCut
+[2019.12.10-23.36.33:518][429]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.36.33:518][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.33:519][429]LogSkeletalMesh: Building Skeletal Mesh sneakyCut...
+[2019.12.10-23.36.33:548][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/sneakyCut.sneakyCut
+[2019.12.10-23.36.33:769][429]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:/Animation/ChadMocapAnimations/MotionsOnCharacter/walkCut.fbx)
+[2019.12.10-23.36.33:788][429]LogFbx: Loading FBX Scene from D:/Animation/ChadMocapAnimations/MotionsOnCharacter/walkCut.fbx
+[2019.12.10-23.36.33:868][429]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.36.33:891][429]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.36.33:891][429]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.36.33:892][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.33:892][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.33:892][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.33:893][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.33:893][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.33:893][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.33:893][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.33:894][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.33:894][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.33:894][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.33:894][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.33:894][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.33:894][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.36.33:894][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.36.33:894][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.36.33:894][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.36.33:894][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.36.33:895][429]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.36.33:895][429]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.36.33:895][429]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.36.33:942][429]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.36.33:946][429]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.36.34:668][429]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.36.34:789][429]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.36.34:933][429]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.36.35:009][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or PreviewMaterial /Engine/Transient.Bodymat
+[2019.12.10-23.36.35:009][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.36.35:009][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or PreviewMaterial /Engine/Transient.Topmat
+[2019.12.10-23.36.35:009][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.36.35:009][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or PreviewMaterial /Engine/Transient.Hairmat
+[2019.12.10-23.36.35:009][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.36.35:009][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or PreviewMaterial /Engine/Transient.Bottommat
+[2019.12.10-23.36.35:009][429]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.36.35:009][429]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.36.35:609][429]LogSkeletalMesh: Section 0: 13224 vertices, 48 active bones
+[2019.12.10-23.36.35:609][429]LogSkeletalMesh: Section 1: 2312 vertices, 17 active bones
+[2019.12.10-23.36.35:609][429]LogSkeletalMesh: Section 2: 3673 vertices, 7 active bones
+[2019.12.10-23.36.35:609][429]LogSkeletalMesh: Section 3: 1140 vertices, 6 active bones
+[2019.12.10-23.36.35:611][429]LogSkeletalMesh: Section 0: Material=0, 23649 triangles
+[2019.12.10-23.36.35:611][429]LogSkeletalMesh: Section 1: Material=1, 4098 triangles
+[2019.12.10-23.36.35:611][429]LogSkeletalMesh: Section 2: Material=2, 4445 triangles
+[2019.12.10-23.36.35:611][429]LogSkeletalMesh: Section 3: Material=3, 1668 triangles
+[2019.12.10-23.36.35:621][429]LogSkeletalMesh: Building Skeletal Mesh walkCut...
+[2019.12.10-23.36.35:651][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/walkCut.walkCut
+[2019.12.10-23.36.35:660][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/walkCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.35:661][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/walkCut_PhysicsAsset': Can't find file.
+[2019.12.10-23.36.35:667][429]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(10) LeftHandThumb1
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(11) LeftHandThumb2
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(12) LeftHandThumb3
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(13) LeftHandIndex1
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(14) LeftHandIndex2
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(15) LeftHandIndex3
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(16) LeftHandMiddle1
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(17) LeftHandMiddle2
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(18) LeftHandMiddle3
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(29) RightHandThumb1
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(30) RightHandThumb2
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(31) RightHandThumb3
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(32) RightHandIndex1
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(33) RightHandIndex2
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(34) RightHandIndex3
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.36.35:671][429]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.36.35:672][429]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.36.35:672][429]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.36.35:672][429]LogFbx: SortedLinks :(44) LeftUpLeg
+[2019.12.10-23.36.35:672][429]LogFbx: SortedLinks :(45) LeftLeg
+[2019.12.10-23.36.35:672][429]LogFbx: SortedLinks :(46) LeftFoot
+[2019.12.10-23.36.35:672][429]LogFbx: SortedLinks :(47) LeftToeBase
+[2019.12.10-23.36.35:672][429]LogFbx: SortedLinks :(48) RightUpLeg
+[2019.12.10-23.36.35:672][429]LogFbx: SortedLinks :(49) RightLeg
+[2019.12.10-23.36.35:672][429]LogFbx: SortedLinks :(50) RightFoot
+[2019.12.10-23.36.35:672][429]LogFbx: SortedLinks :(51) RightToeBase
+[2019.12.10-23.36.35:672][429]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.36.35:673][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/walkCut_Anim': Can't find file.
+[2019.12.10-23.36.35:673][429]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Duke/Animations/walkCut_Anim': Can't find file.
+[2019.12.10-23.36.35:817][429]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/walkCut_Anim.walkCut_Anim
+[2019.12.10-23.36.35:817][429]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Duke/Animations/walkCut_Anim.walkCut_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.36.35:821][429]LogSkeletalMesh: Building Skeletal Mesh walkCut...
+[2019.12.10-23.36.35:850][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/walkCut.walkCut
+[2019.12.10-23.36.35:869][429]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.36.35:869][429]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:LeftFoot  
+mixamorig:LeftToeBase  
+mixamorig:RightFoot  
+mixamorig:RightToeBase  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.36.35:869][429]LogSkeletalMesh: Building Skeletal Mesh walkCut...
+[2019.12.10-23.36.35:900][429]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/ThirdPersonBP/Characters/Duke/Animations/walkCut.walkCut
+[2019.12.10-23.36.44:553][405]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.36.44:557][405]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.37.11:828][810]Cmd: DELETE
+[2019.12.10-23.37.11:828][810]Cmd: ACTOR DELETE
+[2019.12.10-23.37.11:866][810]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.12.10-23.37.11:893][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.12.10-23.37.11:894][810]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.12.10-23.37.23:237][730]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-23.37.24:700][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.12.10-23.37.24:725][902]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-23.37.24:752][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.12.10-23.37.24:889][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/ThirdPersonExampleMapF03E84AB4FEAFC2A08916DB30BA32020.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.10-23.37.24:903][902]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.175
+[2019.12.10-23.37.24:985][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/buttonPressCut104686A04BD834B198D8E6B6EF4330B4.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut.uasset'
+[2019.12.10-23.37.25:041][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/buttonPressCut_PhysicsAssetCB76190B45386D508C927E9A030FB971.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut_PhysicsAsset.uasset'
+[2019.12.10-23.37.25:086][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/buttonPressCut_AnimB81AB3294F70B7606793178D2BF7BF7D.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/buttonPressCut_Anim.uasset'
+[2019.12.10-23.37.25:162][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/coverPeekCut0B90D5C14DE54AC6EA6466B97D99FB55.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut.uasset'
+[2019.12.10-23.37.25:213][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/coverPeekCut_PhysicsAsset608C27484D263269396078AC1AF39BE2.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut_PhysicsAsset.uasset'
+[2019.12.10-23.37.25:258][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/coverPeekCut_Anim3190F51149BF7E117D1DA28F3F1140F0.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/coverPeekCut_Anim.uasset'
+[2019.12.10-23.37.25:338][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/gunDropCutCleanA69342944E4D55AF1A157198B35DA6F8.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean.uasset'
+[2019.12.10-23.37.25:394][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/gunDropCutClean_PhysicsAssetC5E9A55145B3BE4693A33AB5CBC7C1B7.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean_PhysicsAsset.uasset'
+[2019.12.10-23.37.25:439][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/gunDropCutClean_AnimC091984D4425ECFE382BEBAADA762595.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/gunDropCutClean_Anim.uasset'
+[2019.12.10-23.37.25:514][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/idleCut40AF935941DEA25DC302DFB8E373282D.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/idleCut.uasset'
+[2019.12.10-23.37.25:568][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/idleCut_PhysicsAsset7230A77D4BBE6B0E3A6367840E995276.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/idleCut_PhysicsAsset.uasset'
+[2019.12.10-23.37.25:613][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/idleCut_Anim8ACE09C64588CDADAB7196979E27B1C6.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/idleCut_Anim.uasset'
+[2019.12.10-23.37.25:695][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/killMonsterCutCleanCFA4726F4D39085CEE0D4F936223F5FA.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean.uasset'
+[2019.12.10-23.37.25:755][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/killMonsterCutClean_PhysicsAssetDEA406CD4D64E98048C9059CF6E4DC16.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean_PhysicsAsset.uasset'
+[2019.12.10-23.37.25:802][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/killMonsterCutClean_Anim163B20A544687DC746324E93B2805F8E.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/killMonsterCutClean_Anim.uasset'
+[2019.12.10-23.37.25:879][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/knowckBackCut07B684854C32E47C2F01A689DEBB4091.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut.uasset'
+[2019.12.10-23.37.25:935][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/knowckBackCut_PhysicsAsset847F8E0A45C479F21941E2A7CB727561.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut_PhysicsAsset.uasset'
+[2019.12.10-23.37.25:980][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/knowckBackCut_AnimC16FFA5F46C99A791D959AB8AE41A247.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/knowckBackCut_Anim.uasset'
+[2019.12.10-23.37.26:055][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/lookAroundCut3298D29549AA6446212FADB11050CAC3.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut.uasset'
+[2019.12.10-23.37.26:108][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/lookAroundCut_PhysicsAsset21EC50CE40A745B0821D829567DFC8B2.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut_PhysicsAsset.uasset'
+[2019.12.10-23.37.26:154][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/lookAroundCut_Anim7EF11ABB46D2C84FEF1D0D95E3DD7BC8.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/lookAroundCut_Anim.uasset'
+[2019.12.10-23.37.26:229][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/reactCutA61F343742738CCCC624EF870071CBE0.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/reactCut.uasset'
+[2019.12.10-23.37.26:282][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/reactCut_PhysicsAssetCEAFF67C45BA5432DAC2B09BFA92449D.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/reactCut_PhysicsAsset.uasset'
+[2019.12.10-23.37.26:327][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/reactCut_Anim209C423D4659E5E3AA976581E12FEEEA.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/reactCut_Anim.uasset'
+[2019.12.10-23.37.26:402][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/runCut835FC5B44D884726A63AFFA0CD01A590.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/runCut.uasset'
+[2019.12.10-23.37.26:455][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/runCut_PhysicsAsset5998F49A4A51A7193E6126BF822FEEE2.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/runCut_PhysicsAsset.uasset'
+[2019.12.10-23.37.26:499][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/runCut_AnimC171002B41169A1CF00C18BF8D5B85D8.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/runCut_Anim.uasset'
+[2019.12.10-23.37.26:574][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/sneakyCut305C048E454EEF92033412A1B3BDD75E.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/sneakyCut.uasset'
+[2019.12.10-23.37.26:627][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/sneakyCut_PhysicsAsset395A51BE47047BC6B4B5E6926305142D.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/sneakyCut_PhysicsAsset.uasset'
+[2019.12.10-23.37.26:671][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/sneakyCut_Anim88FA08B6467B4A09803AAB9AE9E8955B.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/sneakyCut_Anim.uasset'
+[2019.12.10-23.37.26:746][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/walkCut32636E9347576FE730AFC49B78B80786.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/walkCut.uasset'
+[2019.12.10-23.37.26:803][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/walkCut_PhysicsAsset37AF8B4F408D7CDBACB468A0CB0936AD.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/walkCut_PhysicsAsset.uasset'
+[2019.12.10-23.37.26:847][902]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/walkCut_Anim097535FF4C174A16DD21D5B5EF2ED4AD.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Content/ThirdPersonBP/Characters/Duke/Animations/walkCut_Anim.uasset'
+[2019.12.10-23.37.36:129][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.37.36:320][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.12.10-23.37.36:350][991]LogSlate: Window 'TheLab - Unreal Editor' being destroyed
+[2019.12.10-23.37.36:351][991]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.10-23.37.36:451][992]Cmd: QUIT_EDITOR
+[2019.12.10-23.37.36:495][992]LogExit: Preparing to exit.
+[2019.12.10-23.37.36:940][992]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.37.36:940][992]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.37.36:940][992]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.37.36:940][992]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.37.36:953][992]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.10-23.37.36:962][992]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.37.36:962][992]LogExit: Editor shut down
+[2019.12.10-23.37.36:962][992]LogExit: Transaction tracking system shut down
+[2019.12.10-23.37.37:208][992]LogExit: Object subsystem successfully closed.
+[2019.12.10-23.37.37:235][992]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.10-23.37.37:283][992]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.12.10-23.37.37:283][992]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.12.10-23.37.37:283][992]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.10-23.37.37:283][992]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.10-23.37.37:283][992]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.10-23.37.37:283][992]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.10-23.37.37:284][992]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.10-23.37.37:284][992]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.10-23.37.37:284][992]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.10-23.37.37:284][992]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module SmartSnapping (630)
+[2019.12.10-23.37.37:285][992]LogModuleManager: Shutting down and abandoning module CharacterAI (628)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (626)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (624)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (622)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (620)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (618)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (616)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (614)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (612)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (610)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (608)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (606)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.10-23.37.37:286][992]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (602)
+[2019.12.10-23.37.37:287][992]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (600)
+[2019.12.10-23.37.37:287][992]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (598)
+[2019.12.10-23.37.37:287][992]LogModuleManager: Shutting down and abandoning module WebMMedia (596)
+[2019.12.10-23.37.37:287][992]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.12.10-23.37.37:287][992]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.12.10-23.37.37:287][992]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (590)
+[2019.12.10-23.37.37:288][992]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (588)
+[2019.12.10-23.37.37:288][992]LogModuleManager: Shutting down and abandoning module PlacementMode (587)
+[2019.12.10-23.37.37:288][992]LogModuleManager: Shutting down and abandoning module MaterialEditor (586)
+[2019.12.10-23.37.37:288][992]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (582)
+[2019.12.10-23.37.37:288][992]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (580)
+[2019.12.10-23.37.37:288][992]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.12.10-23.37.37:288][992]LogModuleManager: Shutting down and abandoning module OculusMR (576)
+[2019.12.10-23.37.37:288][992]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.10-23.37.37:288][992]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.10-23.37.37:289][992]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.10-23.37.37:289][992]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.10-23.37.37:289][992]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.10-23.37.37:289][992]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.10-23.37.37:290][992]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.10-23.37.37:291][992]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.10-23.37.37:291][992]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.10-23.37.37:291][992]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (556)
+[2019.12.10-23.37.37:291][992]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2019.12.10-23.37.37:291][992]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (552)
+[2019.12.10-23.37.37:291][992]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (550)
+[2019.12.10-23.37.37:292][992]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.10-23.37.37:595][992]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.10-23.37.37:595][992]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (544)
+[2019.12.10-23.37.37:595][992]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.10-23.37.37:595][992]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (540)
+[2019.12.10-23.37.37:595][992]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.10-23.37.37:595][992]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.10-23.37.37:597][992]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.10-23.37.37:597][992]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.10-23.37.37:598][992]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.10-23.37.37:598][992]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.10-23.37.37:598][992]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.10-23.37.37:598][992]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.10-23.37.37:598][992]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.10-23.37.37:598][992]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.10-23.37.37:598][992]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.10-23.37.37:598][992]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.10-23.37.37:598][992]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.10-23.37.37:599][992]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.10-23.37.37:599][992]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.10-23.37.37:600][992]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.10-23.37.37:600][992]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.10-23.37.37:600][992]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.10-23.37.37:600][992]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.10-23.37.37:654][992]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.10-23.37.37:654][992]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.10-23.37.37:656][992]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.10-23.37.37:663][992]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.10-23.37.37:663][992]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.10-23.37.37:663][992]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.10-23.37.37:663][992]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.10-23.37.37:665][992]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.10-23.37.37:665][992]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.10-23.37.37:665][992]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.10-23.37.37:665][992]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.10-23.37.37:667][992]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.10-23.37.37:667][992]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.10-23.37.37:667][992]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.10-23.37.37:667][992]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.10-23.37.37:667][992]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.10-23.37.37:667][992]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.10-23.37.37:667][992]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.10-23.37.37:667][992]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.10-23.37.37:668][992]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.10-23.37.37:669][992]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.10-23.37.37:669][992]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.10-23.37.37:669][992]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.10-23.37.37:669][992]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.10-23.37.37:669][992]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.10-23.37.37:669][992]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.10-23.37.37:669][992]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.10-23.37.37:671][992]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.10-23.37.37:756][992]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.10-23.37.37:757][992]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (422)
+[2019.12.10-23.37.37:757][992]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (420)
+[2019.12.10-23.37.37:757][992]LogModuleManager: Shutting down and abandoning module Paper2DEditor (418)
+[2019.12.10-23.37.37:757][992]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (416)
+[2019.12.10-23.37.37:757][992]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (414)
+[2019.12.10-23.37.37:757][992]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (412)
+[2019.12.10-23.37.37:757][992]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (410)
+[2019.12.10-23.37.37:757][992]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (408)
+[2019.12.10-23.37.37:757][992]LogModuleManager: Shutting down and abandoning module GitSourceControl (406)
+[2019.12.10-23.37.37:758][992]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (404)
+[2019.12.10-23.37.37:759][992]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (402)
+[2019.12.10-23.37.37:759][992]LogModuleManager: Shutting down and abandoning module SourceControl (401)
+[2019.12.10-23.37.37:759][992]LogModuleManager: Shutting down and abandoning module UObjectPlugin (398)
+[2019.12.10-23.37.37:759][992]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2019.12.10-23.37.37:759][992]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (394)
+[2019.12.10-23.37.37:759][992]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (392)
+[2019.12.10-23.37.37:759][992]LogModuleManager: Shutting down and abandoning module CryptoKeys (390)
+[2019.12.10-23.37.37:759][992]LogModuleManager: Shutting down and abandoning module CurveEditorTools (388)
+[2019.12.10-23.37.37:759][992]LogModuleManager: Shutting down and abandoning module CurveEditor (387)
+[2019.12.10-23.37.37:761][992]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (384)
+[2019.12.10-23.37.37:761][992]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (382)
+[2019.12.10-23.37.37:761][992]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (378)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (376)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module VariantManagerContent (374)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module AlembicImporter (372)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module AlembicLibrary (371)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (368)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module AutomationUtils (366)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module GeometryCache (360)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (356)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module HTML5Networking (354)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (352)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (350)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (348)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module ImgMedia (346)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (342)
+[2019.12.10-23.37.37:762][992]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (341)
+[2019.12.10-23.37.37:763][992]LogModuleManager: Shutting down and abandoning module AndroidPermission (338)
+[2019.12.10-23.37.37:763][992]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (336)
+[2019.12.10-23.37.37:763][992]LogModuleManager: Shutting down and abandoning module AppleImageUtils (334)
+[2019.12.10-23.37.37:763][992]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2019.12.10-23.37.37:763][992]LogModuleManager: Shutting down and abandoning module AudioCapture (330)
+[2019.12.10-23.37.37:763][992]LogModuleManager: Shutting down and abandoning module CableComponent (328)
+[2019.12.10-23.37.37:763][992]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (326)
+[2019.12.10-23.37.37:763][992]LogModuleManager: Shutting down and abandoning module EditableMesh (324)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module OculusEditor (320)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module OculusInput (318)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (316)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (314)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module SteamVRController (312)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module ScreenshotTools (310)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module Paper2D (308)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (306)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module AnimationSharing (304)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2019.12.10-23.37.37:764][992]LogModuleManager: Shutting down and abandoning module TreeMap (301)
+[2019.12.10-23.37.37:765][992]LogModuleManager: Shutting down and abandoning module DataValidation (298)
+[2019.12.10-23.37.37:765][992]LogModuleManager: Shutting down and abandoning module LevelEditor (297)
+[2019.12.10-23.37.37:765][992]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (296)
+[2019.12.10-23.37.37:765][992]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (294)
+[2019.12.10-23.37.37:765][992]LogModuleManager: Shutting down and abandoning module MainFrame (292)
+[2019.12.10-23.37.37:765][992]LogModuleManager: Shutting down and abandoning module HotReload (291)
+[2019.12.10-23.37.37:766][992]LogModuleManager: Shutting down and abandoning module ContentBrowser (287)
+[2019.12.10-23.37.37:766][992]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (284)
+[2019.12.10-23.37.37:766][992]LogModuleManager: Shutting down and abandoning module FacialAnimation (282)
+[2019.12.10-23.37.37:766][992]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2019.12.10-23.37.37:767][992]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.12.10-23.37.37:767][992]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.12.10-23.37.37:767][992]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.12.10-23.37.37:767][992]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.12.10-23.37.37:767][992]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.12.10-23.37.37:767][992]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.10-23.37.37:767][992]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.12.10-23.37.37:767][992]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.12.10-23.37.37:767][992]LogModuleManager: Shutting down and abandoning module TcpMessaging (264)
+[2019.12.10-23.37.37:868][992]LogModuleManager: Shutting down and abandoning module UdpMessaging (262)
+[2019.12.10-23.37.37:968][992]LogModuleManager: Shutting down and abandoning module ActorSequence (260)
+[2019.12.10-23.37.37:968][992]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (258)
+[2019.12.10-23.37.37:968][992]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (256)
+[2019.12.10-23.37.37:968][992]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (252)
+[2019.12.10-23.37.37:968][992]LogModuleManager: Shutting down and abandoning module SignificanceManager (250)
+[2019.12.10-23.37.37:968][992]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (248)
+[2019.12.10-23.37.37:968][992]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.12.10-23.37.37:970][992]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.10-23.37.37:970][992]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.10-23.37.37:970][992]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.10-23.37.37:970][992]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.10-23.37.37:971][992]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.10-23.37.37:971][992]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.10-23.37.37:971][992]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.10-23.37.37:971][992]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.10-23.37.37:971][992]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.10-23.37.37:972][992]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.10-23.37.37:972][992]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.10-23.37.37:973][992]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.10-23.37.37:973][992]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.10-23.37.37:974][992]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.10-23.37.37:974][992]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.10-23.37.37:975][992]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.10-23.37.37:975][992]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.10-23.37.37:978][992]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.10-23.37.37:978][992]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.10-23.37.37:978][992]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.10-23.37.37:978][992]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.10-23.37.37:978][992]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.10-23.37.37:979][992]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2019.12.10-23.37.37:980][992]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (177)
+[2019.12.10-23.37.37:980][992]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.10-23.37.37:980][992]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.10-23.37.37:980][992]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.10-23.37.37:980][992]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.10-23.37.38:067][992]LogDerivedDataCache: Shutdown
+[2019.12.10-23.37.38:067][992]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.10-23.37.38:067][992]LogXGEController: Cleaning working directory: C:/Users/u1047856/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.10-23.37.38:068][992]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.10-23.37.38:068][992]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.10-23.37.38:068][992]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.10-23.37.38:069][992]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.10-23.37.38:069][992]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.10-23.37.38:070][992]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.10-23.37.38:071][992]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (129)
+[2019.12.10-23.37.38:076][992]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (127)
+[2019.12.10-23.37.38:076][992]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (125)
+[2019.12.10-23.37.38:077][992]LogModuleManager: Shutting down and abandoning module Messaging (123)
+[2019.12.10-23.37.38:077][992]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (121)
+[2019.12.10-23.37.38:078][992]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.12.10-23.37.38:078][992]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (111)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.10-23.37.38:079][992]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.10-23.37.38:080][992]LogModuleManager: Shutting down and abandoning module AISupportModule (78)
+[2019.12.10-23.37.38:080][992]LogModuleManager: Shutting down and abandoning module DatasmithContent (76)
+[2019.12.10-23.37.38:080][992]LogModuleManager: Shutting down and abandoning module MagicLeap (74)
+[2019.12.10-23.37.38:081][992]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2019.12.10-23.37.38:086][992]LogModuleManager: Shutting down and abandoning module Media (71)
+[2019.12.10-23.37.38:086][992]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.12.10-23.37.38:089][992]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.12.10-23.37.38:089][992]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.12.10-23.37.38:120][992]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.12.10-23.37.38:120][992]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.10-23.37.38:120][992]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B93697235-4EE3-0050-E858-F6836025C56E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=665b343f40113e0966e3c494b8562251%7C318f51f9dfab4f0982a8f6966176573e%7Ccc73a094-fd69-4e44-af7a-075bd032da36&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.10-23.37.38:128][992]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.12.10-23.37.38:129][992]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2019.12.10-23.37.38:129][992]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (50)
+[2019.12.10-23.37.38:129][992]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (48)
+[2019.12.10-23.37.38:129][992]LogModuleManager: Shutting down and abandoning module OculusHMD (46)
+[2019.12.10-23.37.38:129][992]LogModuleManager: Shutting down and abandoning module SteamVR (44)
+[2019.12.10-23.37.38:129][992]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.10-23.37.38:129][992]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.10-23.37.38:131][992]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.10-23.37.38:131][992]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.10-23.37.38:132][992]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.10-23.37.38:132][992]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.10-23.37.38:133][992]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.10-23.37.38:133][992]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.10-23.37.38:133][992]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.10-23.37.38:133][992]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.10-23.37.38:133][992]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.10-23.37.38:133][992]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.10-23.37.38:133][992]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.10-23.37.38:133][992]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.10-23.37.38:134][992]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.10-23.37.38:134][992]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.10-23.37.38:134][992]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.10-23.37.38:134][992]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.10-23.37.38:134][992]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.10-23.37.38:134][992]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.10-23.37.38:134][992]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.10-23.37.38:134][992]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.10-23.37.38:137][992]LogD3D11RHI: Shutdown
+[2019.12.10-23.37.38:137][992]LogD3D11RHI: CleanupD3DDevice
+[2019.12.10-23.37.38:138][992]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.10-23.37.38:138][992]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.10-23.37.38:138][992]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.10-23.37.38:246][992]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.10-23.37.38:252][992]LogExit: Exiting.
+[2019.12.10-23.37.38:269][992]Log file closed, 12/10/19 16:37:38
