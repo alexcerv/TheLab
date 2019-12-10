@@ -2774,3 +2774,417 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.10-05.29.27:197][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_sneaking_PhysicsAsset1EE0565F409D862648FEAAA8525F02F7.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_PhysicsAsset.uasset'
 [2019.12.10-05.29.27:245][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_sneaking_AnimC7EC1860463576DA636CD88F1CBB4874.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_Anim.uasset'
 [2019.12.10-05.30.41:542][802]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_sneaking0C39BCE64E41032873A8F89B90F55787.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking.uasset'
+[2019.12.10-05.32.49:143][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.10-05.32.49:144][894]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.029
+[2019.12.10-05.37.33:510][406]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_phone.fbx)
+[2019.12.10-05.37.33:528][406]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_phone.fbx
+[2019.12.10-05.37.33:605][406]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-05.37.36:906][406]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-05.37.36:939][406]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-05.37.36:939][406]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-05.37.36:939][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-05.37.36:939][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-05.37.36:940][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-05.37.36:940][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-05.37.36:940][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-05.37.36:941][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2019.12.10-05.37.36:941][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-05.37.36:941][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-05.37.36:942][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-05.37.36:942][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-05.37.36:942][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-05.37.36:942][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-05.37.36:942][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2019.12.10-05.37.36:943][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-05.37.36:943][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-05.37.36:943][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-05.37.36:943][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-05.37.36:943][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-05.37.36:943][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-05.37.36:943][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Shoes : The relative matrices do not match
+[2019.12.10-05.37.36:943][406]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-05.37.36:943][406]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-05.37.36:943][406]LogFbx: Valid bind pose for Pose (skinCluster7) - default1
+[2019.12.10-05.37.36:946][406]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.37.36:953][406]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-05.37.36:984][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Diffuse': Can't find file.
+[2019.12.10-05.37.36:984][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Diffuse': Can't find file.
+[2019.12.10-05.37.37:029][406]LogTexture: Display: Building textures: DrSchmeer_Body_Diffuse (AutoDXT, 1024X1024)
+[2019.12.10-05.37.37:879][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Specular': Can't find file.
+[2019.12.10-05.37.37:880][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Specular': Can't find file.
+[2019.12.10-05.37.37:901][406]LogTexture: Display: Building textures: DrSchmeer_Body_Specular (AutoDXT, 1024X1024)
+[2019.12.10-05.37.38:065][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Gloss': Can't find file.
+[2019.12.10-05.37.38:065][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Gloss': Can't find file.
+[2019.12.10-05.37.38:088][406]LogTexture: Display: Building textures: DrSchmeer_Body_Gloss (AutoDXT, 1024X1024)
+[2019.12.10-05.37.38:322][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Normal': Can't find file.
+[2019.12.10-05.37.38:322][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Normal': Can't find file.
+[2019.12.10-05.37.38:357][406]LogTexture: Display: Building textures: DrSchmeer_Body_Normal (BC5, 1024X1024)
+[2019.12.10-05.37.38:463][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Opacity': Can't find file.
+[2019.12.10-05.37.38:464][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Opacity': Can't find file.
+[2019.12.10-05.37.38:479][406]LogTexture: Display: Building textures: DrSchmeer_Body_Opacity (AutoDXT, 1024X1024)
+[2019.12.10-05.37.38:540][406]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-05.37.38:595][406]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-05.37.38:666][406]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.37.38:669][406]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2019.12.10-05.37.38:704][406]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2019.12.10-05.37.38:740][406]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-05.37.38:748][406]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat_1.Bodymat_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.37.38:752][406]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-05.37.38:821][406]LogTexture: Display: Building textures: DrSchmeer_Body_Diffuse (AutoDXT, 1024X1024)
+[2019.12.10-05.37.39:672][406]LogTexture: Display: Building textures: DrSchmeer_Body_Specular (AutoDXT, 1024X1024)
+[2019.12.10-05.37.39:859][406]LogTexture: Display: Building textures: DrSchmeer_Body_Gloss (AutoDXT, 1024X1024)
+[2019.12.10-05.37.40:089][406]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for DrSchmeer_Body_Normal
+[2019.12.10-05.37.40:127][406]LogTexture: Display: Building textures: DrSchmeer_Body_Normal (BC5, 1024X1024)
+[2019.12.10-05.37.40:251][406]LogTexture: Display: Building textures: DrSchmeer_Body_Opacity (AutoDXT, 1024X1024)
+[2019.12.10-05.37.40:310][406]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-05.37.40:361][406]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-05.37.40:967][406]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.37.40:970][406]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-05.37.41:005][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Diffuse': Can't find file.
+[2019.12.10-05.37.41:005][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Diffuse': Can't find file.
+[2019.12.10-05.37.41:015][406]LogTexture: Display: Building textures: DrSchmeer_Top_Diffuse (AutoDXT, 512X512)
+[2019.12.10-05.37.41:139][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Specular': Can't find file.
+[2019.12.10-05.37.41:140][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Specular': Can't find file.
+[2019.12.10-05.37.41:155][406]LogTexture: Display: Building textures: DrSchmeer_Top_Specular (AutoDXT, 512X512)
+[2019.12.10-05.37.41:281][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Gloss': Can't find file.
+[2019.12.10-05.37.41:281][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Gloss': Can't find file.
+[2019.12.10-05.37.41:289][406]LogTexture: Display: Building textures: DrSchmeer_Top_Gloss (AutoDXT, 512X512)
+[2019.12.10-05.37.41:430][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Normal': Can't find file.
+[2019.12.10-05.37.41:430][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Normal': Can't find file.
+[2019.12.10-05.37.41:443][406]LogTexture: Display: Building textures: DrSchmeer_Top_Normal (BC5, 512X512)
+[2019.12.10-05.37.41:473][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Opacity': Can't find file.
+[2019.12.10-05.37.41:473][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Opacity': Can't find file.
+[2019.12.10-05.37.41:477][406]LogTexture: Display: Building textures: DrSchmeer_Top_Opacity (AutoDXT, 512X512)
+[2019.12.10-05.37.41:495][406]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-05.37.41:546][406]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-05.37.41:642][406]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.37.41:645][406]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-05.37.41:675][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Diffuse': Can't find file.
+[2019.12.10-05.37.41:675][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Diffuse': Can't find file.
+[2019.12.10-05.37.41:684][406]LogTexture: Display: Building textures: DrSchmeer_Bottom_Diffuse (AutoDXT, 512X512)
+[2019.12.10-05.37.41:847][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Specular': Can't find file.
+[2019.12.10-05.37.41:848][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Specular': Can't find file.
+[2019.12.10-05.37.41:854][406]LogTexture: Display: Building textures: DrSchmeer_Bottom_Specular (AutoDXT, 512X512)
+[2019.12.10-05.37.41:874][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Gloss': Can't find file.
+[2019.12.10-05.37.41:874][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Gloss': Can't find file.
+[2019.12.10-05.37.41:884][406]LogTexture: Display: Building textures: DrSchmeer_Bottom_Gloss (AutoDXT, 512X512)
+[2019.12.10-05.37.41:954][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Normal': Can't find file.
+[2019.12.10-05.37.41:954][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Normal': Can't find file.
+[2019.12.10-05.37.41:966][406]LogTexture: Display: Building textures: DrSchmeer_Bottom_Normal (BC5, 512X512)
+[2019.12.10-05.37.41:996][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Opacity': Can't find file.
+[2019.12.10-05.37.41:996][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Opacity': Can't find file.
+[2019.12.10-05.37.42:002][406]LogTexture: Display: Building textures: DrSchmeer_Bottom_Opacity (AutoDXT, 512X512)
+[2019.12.10-05.37.42:019][406]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-05.37.42:073][406]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-05.37.42:219][406]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.37.42:222][406]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-05.37.42:252][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Diffuse': Can't find file.
+[2019.12.10-05.37.42:252][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Diffuse': Can't find file.
+[2019.12.10-05.37.42:262][406]LogTexture: Display: Building textures: DrSchmeer_Shoes_Diffuse (AutoDXT, 512X512)
+[2019.12.10-05.37.42:393][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Specular': Can't find file.
+[2019.12.10-05.37.42:394][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Specular': Can't find file.
+[2019.12.10-05.37.42:400][406]LogTexture: Display: Building textures: DrSchmeer_Shoes_Specular (AutoDXT, 512X512)
+[2019.12.10-05.37.42:423][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Gloss': Can't find file.
+[2019.12.10-05.37.42:423][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Gloss': Can't find file.
+[2019.12.10-05.37.42:431][406]LogTexture: Display: Building textures: DrSchmeer_Shoes_Gloss (AutoDXT, 512X512)
+[2019.12.10-05.37.42:485][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Normal': Can't find file.
+[2019.12.10-05.37.42:486][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Normal': Can't find file.
+[2019.12.10-05.37.42:499][406]LogTexture: Display: Building textures: DrSchmeer_Shoes_Normal (BC5, 512X512)
+[2019.12.10-05.37.42:531][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Opacity': Can't find file.
+[2019.12.10-05.37.42:531][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Opacity': Can't find file.
+[2019.12.10-05.37.42:536][406]LogTexture: Display: Building textures: DrSchmeer_Shoes_Opacity (AutoDXT, 512X512)
+[2019.12.10-05.37.42:553][406]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-05.37.42:604][406]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.10-05.37.42:819][406]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.37.42:823][406]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-05.37.42:853][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Diffuse': Can't find file.
+[2019.12.10-05.37.42:853][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Diffuse': Can't find file.
+[2019.12.10-05.37.42:860][406]LogTexture: Display: Building textures: DrSchmeer_Hair_Diffuse (AutoDXT, 512X512)
+[2019.12.10-05.37.42:930][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Specular': Can't find file.
+[2019.12.10-05.37.42:931][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Specular': Can't find file.
+[2019.12.10-05.37.42:937][406]LogTexture: Display: Building textures: DrSchmeer_Hair_Specular (AutoDXT, 512X512)
+[2019.12.10-05.37.43:001][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Gloss': Can't find file.
+[2019.12.10-05.37.43:001][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Gloss': Can't find file.
+[2019.12.10-05.37.43:007][406]LogTexture: Display: Building textures: DrSchmeer_Hair_Gloss (AutoDXT, 512X512)
+[2019.12.10-05.37.43:074][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Normal': Can't find file.
+[2019.12.10-05.37.43:074][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Normal': Can't find file.
+[2019.12.10-05.37.43:080][406]LogTexture: Display: Building textures: DrSchmeer_Hair_Normal (BC5, 512X512)
+[2019.12.10-05.37.43:105][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Opacity': Can't find file.
+[2019.12.10-05.37.43:106][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Opacity': Can't find file.
+[2019.12.10-05.37.43:112][406]LogTexture: Display: Building textures: DrSchmeer_Hair_Opacity (AutoDXT, 512X512)
+[2019.12.10-05.37.43:217][406]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-05.37.43:268][406]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-05.37.43:469][406]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-05.37.44:215][406]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.10-05.37.44:215][406]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.10-05.37.44:216][406]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.10-05.37.44:216][406]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.10-05.37.44:216][406]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.10-05.37.44:216][406]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.10-05.37.44:217][406]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.10-05.37.44:219][406]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.10-05.37.44:219][406]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.10-05.37.44:219][406]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.10-05.37.44:219][406]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.10-05.37.44:219][406]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.10-05.37.44:219][406]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.10-05.37.44:219][406]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.10-05.37.44:228][406]LogSkeletalMesh: Building Skeletal Mesh dr_phone...
+[2019.12.10-05.37.44:273][406]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone.dr_phone
+[2019.12.10-05.37.44:287][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_PhysicsAsset': Can't find file.
+[2019.12.10-05.37.44:300][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_PhysicsAsset': Can't find file.
+[2019.12.10-05.37.44:312][406]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(5) Head
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-05.37.44:316][406]LogFbx: SortedLinks :(10) LeftHandMiddle1
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(11) LeftHandMiddle2
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(12) LeftHandMiddle3
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(16) LeftHandIndex1
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(17) LeftHandIndex2
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(18) LeftHandIndex3
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(29) RightHandMiddle1
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(30) RightHandMiddle2
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(31) RightHandMiddle3
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(32) RightHandThumb1
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(33) RightHandThumb2
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(34) RightHandThumb3
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(45) RightLeg
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(46) RightFoot
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(47) RightToeBase
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(48) LeftUpLeg
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(49) LeftLeg
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(50) LeftFoot
+[2019.12.10-05.37.44:317][406]LogFbx: SortedLinks :(51) LeftToeBase
+[2019.12.10-05.37.44:318][406]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-05.37.44:318][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim': Can't find file.
+[2019.12.10-05.37.44:318][406]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim': Can't find file.
+[2019.12.10-05.37.49:391][406]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim.dr_phone_Anim
+[2019.12.10-05.37.49:391][406]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim.dr_phone_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-05.37.49:439][406]LogSkeletalMesh: Building Skeletal Mesh dr_phone...
+[2019.12.10-05.37.49:502][406]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone.dr_phone
+[2019.12.10-05.37.49:522][406]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-05.37.49:522][406]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-05.37.49:529][406]LogSkeletalMesh: Building Skeletal Mesh dr_phone...
+[2019.12.10-05.37.49:576][406]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone.dr_phone
+[2019.12.10-05.38.14:643][ 79]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-05.38.14:646][ 79]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-05.42.11:554][402]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone.dr_phone
+[2019.12.10-05.42.11:654][402]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0058 seconds. Added 1 classes and 2 folders.
+[2019.12.10-05.42.12:010][402]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.10-05.42.12:026][402]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0014 seconds. Added 1 classes and 0 folders.
+[2019.12.10-05.42.12:165][402]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.10-05.42.16:185][746]LogSlate: Window 'dr_phone' being destroyed
+[2019.12.10-05.42.16:188][746]LogSlate: Window 'dr_phone' being destroyed
+[2019.12.10-05.42.16:189][746]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-05.43.11:782][388]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_phoneC43CD0AE4B621A90169F47A066480F3C.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone.uasset'
+[2019.12.10-05.43.18:398][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.12.10-05.43.18:398][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.034
+[2019.12.10-05.43.18:401][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat] ([1] browsable assets)...
+[2019.12.10-05.43.18:435][689]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat.Bodymat]
+[2019.12.10-05.43.18:435][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat]
+[2019.12.10-05.43.18:448][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat_Auto4B00BF907493278A72885D7BE1A34462B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat_Auto4.uasset'
+[2019.12.10-05.43.18:449][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Diffuse] ([1] browsable assets)...
+[2019.12.10-05.43.18:455][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Diffuse.DrSchmeer_Body_Diffuse]
+[2019.12.10-05.43.18:455][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Diffuse]
+[2019.12.10-05.43.18:465][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Diffuse_Auto45CD5F6264D181CC42218C190C3EFB4B8.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Diffuse_Auto4.uasset'
+[2019.12.10-05.43.18:466][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Specular] ([1] browsable assets)...
+[2019.12.10-05.43.18:472][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Specular.DrSchmeer_Body_Specular]
+[2019.12.10-05.43.18:472][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Specular]
+[2019.12.10-05.43.18:480][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Specular_Auto4333062804B35208A79CC218E3FC0C993.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Specular_Auto4.uasset'
+[2019.12.10-05.43.18:486][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Gloss] ([1] browsable assets)...
+[2019.12.10-05.43.18:495][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Gloss.DrSchmeer_Body_Gloss]
+[2019.12.10-05.43.18:495][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Gloss]
+[2019.12.10-05.43.18:505][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Gloss_Auto47B7488D04411F8446DE853887C160168.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Gloss_Auto4.uasset'
+[2019.12.10-05.43.18:506][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Normal] ([1] browsable assets)...
+[2019.12.10-05.43.18:512][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Normal.DrSchmeer_Body_Normal]
+[2019.12.10-05.43.18:512][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Normal]
+[2019.12.10-05.43.18:524][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Normal_Auto453B96E7A4906205DE1A12E9832E79136.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Normal_Auto4.uasset'
+[2019.12.10-05.43.18:525][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Opacity] ([1] browsable assets)...
+[2019.12.10-05.43.18:532][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Opacity.DrSchmeer_Body_Opacity]
+[2019.12.10-05.43.18:532][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Opacity]
+[2019.12.10-05.43.18:540][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Opacity_Auto4E4C2C9E8459F9576C1F2878FDFB2327A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Opacity_Auto4.uasset'
+[2019.12.10-05.43.18:540][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/lambert2] ([1] browsable assets)...
+[2019.12.10-05.43.18:571][689]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/lambert2.lambert2]
+[2019.12.10-05.43.18:571][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/lambert2]
+[2019.12.10-05.43.18:581][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/lambert2_Auto4458719804D184CACA86319B54624894B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/lambert2_Auto4.uasset'
+[2019.12.10-05.43.18:582][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat_1] ([1] browsable assets)...
+[2019.12.10-05.43.18:614][689]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat_1.Bodymat_1]
+[2019.12.10-05.43.18:614][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat_1]
+[2019.12.10-05.43.18:629][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat_1_Auto4681C3F2D4A4F77A7673CB68ACE778D88.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat_1_Auto4.uasset'
+[2019.12.10-05.43.18:630][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Topmat] ([1] browsable assets)...
+[2019.12.10-05.43.18:660][689]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Topmat.Topmat]
+[2019.12.10-05.43.18:660][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Topmat]
+[2019.12.10-05.43.18:672][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Topmat_Auto4F2BBB97440C4D0E925EA67AF2C392580.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Topmat_Auto4.uasset'
+[2019.12.10-05.43.18:673][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Diffuse] ([1] browsable assets)...
+[2019.12.10-05.43.18:681][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Diffuse.DrSchmeer_Top_Diffuse]
+[2019.12.10-05.43.18:681][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Diffuse]
+[2019.12.10-05.43.18:689][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Diffuse_Auto4C33DC2A54CA0B1D66C00DA82BBA5B30E.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Diffuse_Auto4.uasset'
+[2019.12.10-05.43.18:690][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Specular] ([1] browsable assets)...
+[2019.12.10-05.43.18:697][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Specular.DrSchmeer_Top_Specular]
+[2019.12.10-05.43.18:697][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Specular]
+[2019.12.10-05.43.18:707][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Specular_Auto41A58D5E148BE875E9E0F66BE39459E69.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Specular_Auto4.uasset'
+[2019.12.10-05.43.18:708][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Gloss] ([1] browsable assets)...
+[2019.12.10-05.43.18:713][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Gloss.DrSchmeer_Top_Gloss]
+[2019.12.10-05.43.18:713][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Gloss]
+[2019.12.10-05.43.18:724][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Gloss_Auto49278B5894C5B1A9302011F98B73F1585.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Gloss_Auto4.uasset'
+[2019.12.10-05.43.18:725][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Normal] ([1] browsable assets)...
+[2019.12.10-05.43.18:731][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Normal.DrSchmeer_Top_Normal]
+[2019.12.10-05.43.18:731][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Normal]
+[2019.12.10-05.43.18:743][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Normal_Auto48125D94643F49C4EE2BA68B7833058C3.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Normal_Auto4.uasset'
+[2019.12.10-05.43.18:744][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Opacity] ([1] browsable assets)...
+[2019.12.10-05.43.18:750][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Opacity.DrSchmeer_Top_Opacity]
+[2019.12.10-05.43.18:750][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Opacity]
+[2019.12.10-05.43.18:755][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Opacity_Auto4200BB7AB412DB2C6E786799AD7F2B40C.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Opacity_Auto4.uasset'
+[2019.12.10-05.43.18:757][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bottommat] ([1] browsable assets)...
+[2019.12.10-05.43.18:784][689]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bottommat.Bottommat]
+[2019.12.10-05.43.18:785][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bottommat]
+[2019.12.10-05.43.18:796][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bottommat_Auto4F881AA7D40A9816E541C8F9DDEA536A4.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bottommat_Auto4.uasset'
+[2019.12.10-05.43.18:797][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Diffuse] ([1] browsable assets)...
+[2019.12.10-05.43.18:802][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Diffuse.DrSchmeer_Bottom_Diffuse]
+[2019.12.10-05.43.18:802][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Diffuse]
+[2019.12.10-05.43.18:810][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Diffuse_Auto4118C8EED4C33AB359E470A924EB224CA.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Diffuse_Auto4.uasset'
+[2019.12.10-05.43.18:811][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Specular] ([1] browsable assets)...
+[2019.12.10-05.43.18:815][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Specular.DrSchmeer_Bottom_Specular]
+[2019.12.10-05.43.18:815][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Specular]
+[2019.12.10-05.43.18:825][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Specular_Auto42A29D3EC45B9C1C0F82A548E12D9936A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Specular_Auto4.uasset'
+[2019.12.10-05.43.18:826][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Gloss] ([1] browsable assets)...
+[2019.12.10-05.43.18:832][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Gloss.DrSchmeer_Bottom_Gloss]
+[2019.12.10-05.43.18:832][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Gloss]
+[2019.12.10-05.43.18:840][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Gloss_Auto422764B0F4F510AAE50B1398DF7ACBE87.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Gloss_Auto4.uasset'
+[2019.12.10-05.43.18:842][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Normal] ([1] browsable assets)...
+[2019.12.10-05.43.18:848][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Normal.DrSchmeer_Bottom_Normal]
+[2019.12.10-05.43.18:848][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Normal]
+[2019.12.10-05.43.18:859][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Normal_Auto42B7A8E2F4CEE76A6AFA35391CE08BD82.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Normal_Auto4.uasset'
+[2019.12.10-05.43.18:861][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Opacity] ([1] browsable assets)...
+[2019.12.10-05.43.18:868][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Opacity.DrSchmeer_Bottom_Opacity]
+[2019.12.10-05.43.18:868][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Opacity]
+[2019.12.10-05.43.18:873][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Opacity_Auto482DAEE3549B562FA664AE890EE7F2F41.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Opacity_Auto4.uasset'
+[2019.12.10-05.43.18:875][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Shoesmat] ([1] browsable assets)...
+[2019.12.10-05.43.18:904][689]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Shoesmat.Shoesmat]
+[2019.12.10-05.43.18:904][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Shoesmat]
+[2019.12.10-05.43.18:917][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Shoesmat_Auto4491A83F04FAA729C5A9E45864A550611.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Shoesmat_Auto4.uasset'
+[2019.12.10-05.43.18:918][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Diffuse] ([1] browsable assets)...
+[2019.12.10-05.43.18:924][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Diffuse.DrSchmeer_Shoes_Diffuse]
+[2019.12.10-05.43.18:924][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Diffuse]
+[2019.12.10-05.43.18:932][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Diffuse_Auto4BA7748804AF47E22EA5FA4BABB3E600B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Diffuse_Auto4.uasset'
+[2019.12.10-05.43.18:934][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Specular] ([1] browsable assets)...
+[2019.12.10-05.43.18:938][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Specular.DrSchmeer_Shoes_Specular]
+[2019.12.10-05.43.18:938][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Specular]
+[2019.12.10-05.43.18:945][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Specular_Auto4147F99D94825912998793E90D4F68F59.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Specular_Auto4.uasset'
+[2019.12.10-05.43.18:946][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Gloss] ([1] browsable assets)...
+[2019.12.10-05.43.18:952][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Gloss.DrSchmeer_Shoes_Gloss]
+[2019.12.10-05.43.18:952][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Gloss]
+[2019.12.10-05.43.18:961][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Gloss_Auto447BDEBE943F7881046A1C0BD2D9E1E62.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Gloss_Auto4.uasset'
+[2019.12.10-05.43.18:962][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Normal] ([1] browsable assets)...
+[2019.12.10-05.43.18:968][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Normal.DrSchmeer_Shoes_Normal]
+[2019.12.10-05.43.18:968][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Normal]
+[2019.12.10-05.43.18:983][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Normal_Auto4947FEABA4FDAB0270B96158E08028FD5.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Normal_Auto4.uasset'
+[2019.12.10-05.43.18:984][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Opacity] ([1] browsable assets)...
+[2019.12.10-05.43.18:990][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Opacity.DrSchmeer_Shoes_Opacity]
+[2019.12.10-05.43.18:990][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Opacity]
+[2019.12.10-05.43.18:996][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Opacity_Auto47EF4D31E4BD605899552CF844AF1C33F.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Opacity_Auto4.uasset'
+[2019.12.10-05.43.18:997][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Hairmat] ([1] browsable assets)...
+[2019.12.10-05.43.19:026][689]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Hairmat.Hairmat]
+[2019.12.10-05.43.19:026][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Hairmat]
+[2019.12.10-05.43.19:039][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Hairmat_Auto47B62B51143A61C567731538A3FAF0C50.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Hairmat_Auto4.uasset'
+[2019.12.10-05.43.19:041][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Diffuse] ([1] browsable assets)...
+[2019.12.10-05.43.19:047][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Diffuse.DrSchmeer_Hair_Diffuse]
+[2019.12.10-05.43.19:047][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Diffuse]
+[2019.12.10-05.43.19:054][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Diffuse_Auto4DB103FBE4F78A6EF801C93A9D2B82827.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Diffuse_Auto4.uasset'
+[2019.12.10-05.43.19:056][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Specular] ([1] browsable assets)...
+[2019.12.10-05.43.19:061][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Specular.DrSchmeer_Hair_Specular]
+[2019.12.10-05.43.19:061][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Specular]
+[2019.12.10-05.43.19:069][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Specular_Auto497E1E3B340B41506BD4ACC9581B9F494.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Specular_Auto4.uasset'
+[2019.12.10-05.43.19:069][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Gloss] ([1] browsable assets)...
+[2019.12.10-05.43.19:076][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Gloss.DrSchmeer_Hair_Gloss]
+[2019.12.10-05.43.19:076][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Gloss]
+[2019.12.10-05.43.19:083][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Gloss_Auto4929E669E4F63CD626E99809F42010170.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Gloss_Auto4.uasset'
+[2019.12.10-05.43.19:084][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Normal] ([1] browsable assets)...
+[2019.12.10-05.43.19:091][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Normal.DrSchmeer_Hair_Normal]
+[2019.12.10-05.43.19:091][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Normal]
+[2019.12.10-05.43.19:102][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Normal_Auto438A3229A4E8F701D39A17AA21B6921F5.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Normal_Auto4.uasset'
+[2019.12.10-05.43.19:103][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Opacity] ([1] browsable assets)...
+[2019.12.10-05.43.19:108][689]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Opacity.DrSchmeer_Hair_Opacity]
+[2019.12.10-05.43.19:108][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Opacity]
+[2019.12.10-05.43.19:117][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Opacity_Auto42F71889546BD2D9DC19B8E87A9CBC362.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Opacity_Auto4.uasset'
+[2019.12.10-05.43.19:118][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_PhysicsAsset] ([1] browsable assets)...
+[2019.12.10-05.43.19:148][689]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_PhysicsAsset.dr_phone_PhysicsAsset]
+[2019.12.10-05.43.19:148][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_PhysicsAsset]
+[2019.12.10-05.43.19:166][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_phone_PhysicsAsset_Auto48C8255384806B441B6BC13B2DFB0BDF7.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_PhysicsAsset_Auto4.uasset'
+[2019.12.10-05.43.19:168][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim] ([1] browsable assets)...
+[2019.12.10-05.43.19:198][689]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim.dr_phone_Anim]
+[2019.12.10-05.43.19:198][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim]
+[2019.12.10-05.43.19:214][689]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_phone_Anim_Auto47430D820458735F77C5D9DB5F4442EA9.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim_Auto4.uasset'
+[2019.12.10-05.43.19:215][689]LogFileHelpers: Auto-saving content packages took 0.816
