@@ -2441,3 +2441,336 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.10-05.16.18:419][452]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Opacity92B28953416906932D3250B6EA8F2089.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/DrSchmeer_Hair_Opacity.uasset'
 [2019.12.10-05.16.18:475][452]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_walk_PhysicsAssetF62F978D4E5D5249134AA380D96CD1C3.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk_PhysicsAsset.uasset'
 [2019.12.10-05.16.18:529][452]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_walk_Anim5AF95C124BD12BDD90D7DD9F471406E8.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk_Anim.uasset'
+[2019.12.10-05.16.55:770][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-05.16.55:853][  3]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-05.16.55:860][  3]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-05.16.55:860][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-05.16.55:860][  3]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 9, 2019, 3:16:55 PM)
+[2019.12.10-05.16.55:860][  3]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-05.16.55:873][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012700s)
+[2019.12.10-05.16.55:874][  3]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-05.16.55:874][  3]LogPlayLevel: PIE: World Init took: (0.001625s)
+[2019.12.10-05.16.55:875][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014575s)
+[2019.12.10-05.16.55:897][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.12.10-05.16.55:901][  3]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.10-05.16.55:913][  3]LogInit: FAudioDevice initialized.
+[2019.12.10-05.16.55:921][  3]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-05.16.55:923][  3]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.09-22.16.55
+[2019.12.10-05.16.55:923][  3]LogWorld: Bringing up level for play took: 0.001643
+[2019.12.10-05.16.55:923][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.10-05.16.55:925][  3]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.446
+[2019.12.10-05.16.55:925][  3]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-05.16.59:821][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-05.16.59:822][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-05.16.59:822][468]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-05.16.59:822][468]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-05.16.59:831][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-05.16.59:831][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-05.16.59:859][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-05.16.59:861][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.10-05.16.59:923][475]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.10-05.17.02:628][797]Cmd: TRANSACTION UNDO
+[2019.12.10-05.17.02:628][797]LogEditorTransaction: Undo Create Actors
+[2019.12.10-05.22.48:492][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.12.10-05.22.48:492][997]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.029
+[2019.12.10-05.25.26:198][ 67]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_sneaking.fbx)
+[2019.12.10-05.25.26:214][ 67]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_sneaking.fbx
+[2019.12.10-05.25.26:277][ 67]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-05.25.29:301][ 67]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-05.25.29:329][ 67]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-05.25.29:329][ 67]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-05.25.29:329][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-05.25.29:330][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-05.25.29:330][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-05.25.29:330][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-05.25.29:331][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-05.25.29:331][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2019.12.10-05.25.29:331][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-05.25.29:332][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-05.25.29:332][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-05.25.29:332][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-05.25.29:332][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-05.25.29:332][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-05.25.29:333][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2019.12.10-05.25.29:333][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-05.25.29:333][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-05.25.29:333][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-05.25.29:333][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-05.25.29:333][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-05.25.29:333][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-05.25.29:333][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Shoes : The relative matrices do not match
+[2019.12.10-05.25.29:333][ 67]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-05.25.29:333][ 67]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-05.25.29:333][ 67]LogFbx: Valid bind pose for Pose (skinCluster7) - default1
+[2019.12.10-05.25.29:336][ 67]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.25.29:339][ 67]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-05.25.29:371][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Diffuse': Can't find file.
+[2019.12.10-05.25.29:372][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Diffuse': Can't find file.
+[2019.12.10-05.25.29:419][ 67]LogTexture: Display: Building textures: DrSchmeer_Body_Diffuse (AutoDXT, 1024X1024)
+[2019.12.10-05.25.30:269][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Specular': Can't find file.
+[2019.12.10-05.25.30:269][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Specular': Can't find file.
+[2019.12.10-05.25.30:291][ 67]LogTexture: Display: Building textures: DrSchmeer_Body_Specular (AutoDXT, 1024X1024)
+[2019.12.10-05.25.30:456][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Gloss': Can't find file.
+[2019.12.10-05.25.30:456][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Gloss': Can't find file.
+[2019.12.10-05.25.30:480][ 67]LogTexture: Display: Building textures: DrSchmeer_Body_Gloss (AutoDXT, 1024X1024)
+[2019.12.10-05.25.30:723][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Normal': Can't find file.
+[2019.12.10-05.25.30:723][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Normal': Can't find file.
+[2019.12.10-05.25.30:760][ 67]LogTexture: Display: Building textures: DrSchmeer_Body_Normal (BC5, 1024X1024)
+[2019.12.10-05.25.30:869][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Opacity': Can't find file.
+[2019.12.10-05.25.30:869][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Opacity': Can't find file.
+[2019.12.10-05.25.30:883][ 67]LogTexture: Display: Building textures: DrSchmeer_Body_Opacity (AutoDXT, 1024X1024)
+[2019.12.10-05.25.30:946][ 67]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-05.25.31:003][ 67]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-05.25.31:060][ 67]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.25.31:064][ 67]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2019.12.10-05.25.31:103][ 67]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2019.12.10-05.25.31:137][ 67]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-05.25.31:144][ 67]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Bodymat_1.Bodymat_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.25.31:147][ 67]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-05.25.31:223][ 67]LogTexture: Display: Building textures: DrSchmeer_Body_Diffuse (AutoDXT, 1024X1024)
+[2019.12.10-05.25.32:065][ 67]LogTexture: Display: Building textures: DrSchmeer_Body_Specular (AutoDXT, 1024X1024)
+[2019.12.10-05.25.32:256][ 67]LogTexture: Display: Building textures: DrSchmeer_Body_Gloss (AutoDXT, 1024X1024)
+[2019.12.10-05.25.32:487][ 67]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for DrSchmeer_Body_Normal
+[2019.12.10-05.25.32:529][ 67]LogTexture: Display: Building textures: DrSchmeer_Body_Normal (BC5, 1024X1024)
+[2019.12.10-05.25.32:661][ 67]LogTexture: Display: Building textures: DrSchmeer_Body_Opacity (AutoDXT, 1024X1024)
+[2019.12.10-05.25.32:725][ 67]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-05.25.32:787][ 67]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-05.25.33:432][ 67]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.25.33:435][ 67]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-05.25.33:470][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Diffuse': Can't find file.
+[2019.12.10-05.25.33:470][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Diffuse': Can't find file.
+[2019.12.10-05.25.33:484][ 67]LogTexture: Display: Building textures: DrSchmeer_Top_Diffuse (AutoDXT, 512X512)
+[2019.12.10-05.25.33:605][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Specular': Can't find file.
+[2019.12.10-05.25.33:605][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Specular': Can't find file.
+[2019.12.10-05.25.33:612][ 67]LogTexture: Display: Building textures: DrSchmeer_Top_Specular (AutoDXT, 512X512)
+[2019.12.10-05.25.33:716][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Gloss': Can't find file.
+[2019.12.10-05.25.33:716][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Gloss': Can't find file.
+[2019.12.10-05.25.33:723][ 67]LogTexture: Display: Building textures: DrSchmeer_Top_Gloss (AutoDXT, 512X512)
+[2019.12.10-05.25.33:864][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Normal': Can't find file.
+[2019.12.10-05.25.33:865][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Normal': Can't find file.
+[2019.12.10-05.25.33:877][ 67]LogTexture: Display: Building textures: DrSchmeer_Top_Normal (BC5, 512X512)
+[2019.12.10-05.25.33:906][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Opacity': Can't find file.
+[2019.12.10-05.25.33:906][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Opacity': Can't find file.
+[2019.12.10-05.25.33:911][ 67]LogTexture: Display: Building textures: DrSchmeer_Top_Opacity (AutoDXT, 512X512)
+[2019.12.10-05.25.33:928][ 67]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-05.25.33:990][ 67]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-05.25.34:084][ 67]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.25.34:087][ 67]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-05.25.34:118][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Diffuse': Can't find file.
+[2019.12.10-05.25.34:124][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Diffuse': Can't find file.
+[2019.12.10-05.25.34:134][ 67]LogTexture: Display: Building textures: DrSchmeer_Bottom_Diffuse (AutoDXT, 512X512)
+[2019.12.10-05.25.34:281][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Specular': Can't find file.
+[2019.12.10-05.25.34:281][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Specular': Can't find file.
+[2019.12.10-05.25.34:288][ 67]LogTexture: Display: Building textures: DrSchmeer_Bottom_Specular (AutoDXT, 512X512)
+[2019.12.10-05.25.34:310][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Gloss': Can't find file.
+[2019.12.10-05.25.34:310][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Gloss': Can't find file.
+[2019.12.10-05.25.34:319][ 67]LogTexture: Display: Building textures: DrSchmeer_Bottom_Gloss (AutoDXT, 512X512)
+[2019.12.10-05.25.34:390][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Normal': Can't find file.
+[2019.12.10-05.25.34:390][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Normal': Can't find file.
+[2019.12.10-05.25.34:403][ 67]LogTexture: Display: Building textures: DrSchmeer_Bottom_Normal (BC5, 512X512)
+[2019.12.10-05.25.34:434][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Opacity': Can't find file.
+[2019.12.10-05.25.34:434][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Opacity': Can't find file.
+[2019.12.10-05.25.34:440][ 67]LogTexture: Display: Building textures: DrSchmeer_Bottom_Opacity (AutoDXT, 512X512)
+[2019.12.10-05.25.34:478][ 67]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-05.25.34:543][ 67]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-05.25.34:687][ 67]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.25.34:690][ 67]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-05.25.34:723][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Diffuse': Can't find file.
+[2019.12.10-05.25.34:723][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Diffuse': Can't find file.
+[2019.12.10-05.25.34:733][ 67]LogTexture: Display: Building textures: DrSchmeer_Shoes_Diffuse (AutoDXT, 512X512)
+[2019.12.10-05.25.34:865][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Specular': Can't find file.
+[2019.12.10-05.25.34:865][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Specular': Can't find file.
+[2019.12.10-05.25.34:871][ 67]LogTexture: Display: Building textures: DrSchmeer_Shoes_Specular (AutoDXT, 512X512)
+[2019.12.10-05.25.34:893][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Gloss': Can't find file.
+[2019.12.10-05.25.34:893][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Gloss': Can't find file.
+[2019.12.10-05.25.34:900][ 67]LogTexture: Display: Building textures: DrSchmeer_Shoes_Gloss (AutoDXT, 512X512)
+[2019.12.10-05.25.34:950][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Normal': Can't find file.
+[2019.12.10-05.25.34:950][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Normal': Can't find file.
+[2019.12.10-05.25.34:963][ 67]LogTexture: Display: Building textures: DrSchmeer_Shoes_Normal (BC5, 512X512)
+[2019.12.10-05.25.34:994][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Opacity': Can't find file.
+[2019.12.10-05.25.34:995][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Opacity': Can't find file.
+[2019.12.10-05.25.34:999][ 67]LogTexture: Display: Building textures: DrSchmeer_Shoes_Opacity (AutoDXT, 512X512)
+[2019.12.10-05.25.35:015][ 67]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-05.25.35:070][ 67]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.10-05.25.35:287][ 67]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-05.25.35:290][ 67]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-05.25.35:324][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Diffuse': Can't find file.
+[2019.12.10-05.25.35:324][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Diffuse': Can't find file.
+[2019.12.10-05.25.35:331][ 67]LogTexture: Display: Building textures: DrSchmeer_Hair_Diffuse (AutoDXT, 512X512)
+[2019.12.10-05.25.35:400][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Specular': Can't find file.
+[2019.12.10-05.25.35:401][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Specular': Can't find file.
+[2019.12.10-05.25.35:406][ 67]LogTexture: Display: Building textures: DrSchmeer_Hair_Specular (AutoDXT, 512X512)
+[2019.12.10-05.25.35:469][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Gloss': Can't find file.
+[2019.12.10-05.25.35:469][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Gloss': Can't find file.
+[2019.12.10-05.25.35:474][ 67]LogTexture: Display: Building textures: DrSchmeer_Hair_Gloss (AutoDXT, 512X512)
+[2019.12.10-05.25.35:543][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Normal': Can't find file.
+[2019.12.10-05.25.35:543][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Normal': Can't find file.
+[2019.12.10-05.25.35:550][ 67]LogTexture: Display: Building textures: DrSchmeer_Hair_Normal (BC5, 512X512)
+[2019.12.10-05.25.35:576][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Opacity': Can't find file.
+[2019.12.10-05.25.35:576][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Opacity': Can't find file.
+[2019.12.10-05.25.35:583][ 67]LogTexture: Display: Building textures: DrSchmeer_Hair_Opacity (AutoDXT, 512X512)
+[2019.12.10-05.25.35:690][ 67]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-05.25.35:745][ 67]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-05.25.35:950][ 67]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-05.25.36:681][ 67]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.10-05.25.36:682][ 67]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.10-05.25.36:683][ 67]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.10-05.25.36:683][ 67]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.10-05.25.36:683][ 67]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.10-05.25.36:683][ 67]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.10-05.25.36:684][ 67]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.10-05.25.36:686][ 67]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.10-05.25.36:686][ 67]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.10-05.25.36:686][ 67]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.10-05.25.36:686][ 67]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.10-05.25.36:686][ 67]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.10-05.25.36:686][ 67]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.10-05.25.36:686][ 67]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.10-05.25.36:693][ 67]LogSkeletalMesh: Building Skeletal Mesh dr_sneaking...
+[2019.12.10-05.25.36:737][ 67]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking.dr_sneaking
+[2019.12.10-05.25.36:751][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_PhysicsAsset': Can't find file.
+[2019.12.10-05.25.36:751][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_PhysicsAsset': Can't find file.
+[2019.12.10-05.25.36:765][ 67]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(5) Head
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(10) LeftHandMiddle1
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(11) LeftHandMiddle2
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(12) LeftHandMiddle3
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(16) LeftHandIndex1
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(17) LeftHandIndex2
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(18) LeftHandIndex3
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-05.25.36:769][ 67]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(29) RightHandMiddle1
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(30) RightHandMiddle2
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(31) RightHandMiddle3
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(32) RightHandThumb1
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(33) RightHandThumb2
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(34) RightHandThumb3
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(45) RightLeg
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(46) RightFoot
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(47) RightToeBase
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(48) LeftUpLeg
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(49) LeftLeg
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(50) LeftFoot
+[2019.12.10-05.25.36:770][ 67]LogFbx: SortedLinks :(51) LeftToeBase
+[2019.12.10-05.25.36:775][ 67]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-05.25.36:775][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_Anim': Can't find file.
+[2019.12.10-05.25.36:775][ 67]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_Anim': Can't find file.
+[2019.12.10-05.25.38:839][ 67]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_Anim.dr_sneaking_Anim
+[2019.12.10-05.25.38:839][ 67]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_Anim.dr_sneaking_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-05.25.38:861][ 67]LogSkeletalMesh: Building Skeletal Mesh dr_sneaking...
+[2019.12.10-05.25.38:907][ 67]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking.dr_sneaking
+[2019.12.10-05.25.38:923][ 67]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-05.25.38:923][ 67]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-05.25.38:932][ 67]LogSkeletalMesh: Building Skeletal Mesh dr_sneaking...
+[2019.12.10-05.25.38:986][ 67]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking.dr_sneaking
+[2019.12.10-05.25.52:031][558]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-05.25.52:034][558]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-05.25.55:341][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.12.10-05.25.55:424][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_sneaking2EA72D1542ADE3E042243F8D88C78962.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking.uasset'
+[2019.12.10-05.26.13:476][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat96759B794C514C5ECEC06DA119EFDBAA.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Bodymat.uasset'
+[2019.12.10-05.26.13:636][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Diffuse8F5D620E40BA059D571D449FF21B06A3.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Diffuse.uasset'
+[2019.12.10-05.26.13:732][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Specular5A331BCD4C3046458794A3B63FBF6931.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Specular.uasset'
+[2019.12.10-05.26.13:834][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Gloss6AE3DA84450265E61A72FCA19D2ADF0C.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Gloss.uasset'
+[2019.12.10-05.26.13:970][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_NormalC5EE497E40A0ABAAF738B492D318E45C.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Normal.uasset'
+[2019.12.10-05.26.14:019][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_OpacityB19B5DB047201D1368BC708FAC4D0DE2.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Body_Opacity.uasset'
+[2019.12.10-05.26.24:742][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/lambert249D0C68B49002EF8A3F14E989B76EE5A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/lambert2.uasset'
+[2019.12.10-05.27.01:501][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat_1120C5B5049E7030B71C4E8B4B6B76CE1.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Bodymat_1.uasset'
+[2019.12.10-05.27.37:942][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Topmat2D677AAE41FBE25DBC6230BD510AE4E2.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Topmat.uasset'
+[2019.12.10-05.27.37:995][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Diffuse7F9A03F5448237FB1C6FB1997EF216C5.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Diffuse.uasset'
+[2019.12.10-05.27.38:037][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Specular1C3AF0CB4E2410E291576A966610C2A1.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Specular.uasset'
+[2019.12.10-05.27.38:080][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Gloss167DD4DE42DDE892E9C2E0B977681BCA.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Gloss.uasset'
+[2019.12.10-05.27.38:138][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Normal82B3E77141E4033563F6F38735B41881.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Normal.uasset'
+[2019.12.10-05.27.38:161][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Opacity59F24F3D4CAA09314867E0844226C8BF.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Top_Opacity.uasset'
+[2019.12.10-05.28.14:285][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bottommat5CA550E24BC5461E31DE38A54FD9337C.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Bottommat.uasset'
+[2019.12.10-05.28.14:334][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Diffuse8F18600E4DB876BE011642904C5CCAD9.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Diffuse.uasset'
+[2019.12.10-05.28.14:362][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Specular3873686A45A8C918C1AA1FAAB0FF5E87.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Specular.uasset'
+[2019.12.10-05.28.14:405][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_GlossB86B61ED4E48926532963D8EC887F0DC.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Gloss.uasset'
+[2019.12.10-05.28.14:462][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Normal363C60CB4968811351E42B82645FEEAF.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Normal.uasset'
+[2019.12.10-05.28.14:486][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Opacity529DF5D54753200EAA9F21BE6B9404D1.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Bottom_Opacity.uasset'
+[2019.12.10-05.28.50:733][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Shoesmat5BF97EDF4813F3B92EDD519C457CD086.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Shoesmat.uasset'
+[2019.12.10-05.28.50:786][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_DiffuseE0D6ACB643E3D719150FB7AD1A26F565.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Diffuse.uasset'
+[2019.12.10-05.28.50:820][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Specular51C340CF448102347042A39A3DAEB8E6.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Specular.uasset'
+[2019.12.10-05.28.50:860][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Gloss5ABF4A3148CE469DF32120AF8330BE39.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Gloss.uasset'
+[2019.12.10-05.28.50:929][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Normal00988E2A415C5716ED314F9C73BB9D71.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Normal.uasset'
+[2019.12.10-05.28.50:954][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Opacity3296FD3742B6CF6618AB5291BF110B9B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Shoes_Opacity.uasset'
+[2019.12.10-05.29.26:963][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Hairmat62BDFC3D4C9296CB62B88CB6A81A9F42.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/Hairmat.uasset'
+[2019.12.10-05.29.27:005][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_DiffuseCD27945041117C018396A99B4BE8748D.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Diffuse.uasset'
+[2019.12.10-05.29.27:036][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_SpecularCB30FA2A42DF9CAB9C4891B3DE422A73.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Specular.uasset'
+[2019.12.10-05.29.27:066][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_GlossBFF00CFF472597DF56243AB5A79ADFAE.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Gloss.uasset'
+[2019.12.10-05.29.27:109][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_NormalC64F914B4F71705B68FE38858E6F2487.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Normal.uasset'
+[2019.12.10-05.29.27:141][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_OpacityCABF44F843749B8E931C29946CE91DB0.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/DrSchmeer_Hair_Opacity.uasset'
+[2019.12.10-05.29.27:197][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_sneaking_PhysicsAsset1EE0565F409D862648FEAAA8525F02F7.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_PhysicsAsset.uasset'
+[2019.12.10-05.29.27:245][937]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_sneaking_AnimC7EC1860463576DA636CD88F1CBB4874.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_Anim.uasset'
+[2019.12.10-05.30.41:542][802]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_sneaking0C39BCE64E41032873A8F89B90F55787.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking.uasset'
