@@ -1938,3 +1938,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-23.53.08:806][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2019.12.10-23.53.08:835][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
 [2019.12.10-23.53.08:860][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.12.10-23.54.37:834][472]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (dr_lecture_Anim)
+[2019.12.10-23.54.38:831][567]Cmd: DELETE
+[2019.12.10-23.54.38:831][567]Cmd: ACTOR DELETE
+[2019.12.10-23.54.38:840][567]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.12.10-23.54.38:863][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.54.38:863][567]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.12.10-23.54.40:011][705]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (dr_instruct_Anim)
+[2019.12.10-23.54.40:744][788]Cmd: DELETE
+[2019.12.10-23.54.40:744][788]Cmd: ACTOR DELETE
+[2019.12.10-23.54.40:746][788]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.12.10-23.54.40:768][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.10-23.54.40:768][788]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.12.10-23.54.45:309][192]LogSlate: FSceneViewport::OnFocusLost() reason 5
