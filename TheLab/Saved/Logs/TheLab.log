@@ -1782,3 +1782,159 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-23.52.21:958][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
 [2019.12.10-23.52.21:980][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2019.12.10-23.52.22:420][ 48]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={98230FA7-4164-2727-F872-A5A5738A7C7B}
+[2019.12.10-23.52.52:223][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.52.57:210][288]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.10-23.53.04:632][288]LogUObjectGlobals: Force Deleting 35 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/DrSchmeer_Body_Diffuse.DrSchmeer_Body_Diffuse
+	Asset Name: /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/DrSchmeer_Body_Gloss.DrSchmeer_Body_Gloss
+	Asset Name: /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/DrSchmeer_Body_Normal.DrSchmeer_Body_Normal
+	Asset Name: /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/DrSchmeer_Body_Opacity.DrSchmeer_Body_Opacity
+	Asset Name: /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/DrSchmeer_Body_Specular.DrSchmeer_Body_Specular
+	Asset Name: /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/Bodymat.Bodymat
+	Asset Name: /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/Bodymat_1.Bodymat_1
+	Asset Name: /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/DrSchmeer_Bottom_Diffuse.DrSchmeer_Bottom_Diffuse
+	Asset Name: /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/DrSchmeer_Bottom_Gloss.DrSchmeer_Bottom_Gloss
+	Asset Name: /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/DrSchmeer_Bottom_Normal.DrSchmeer_Bottom_Normal
+[2019.12.10-23.53.04:899][288]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-23.53.04:900][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:900][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:903][288]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-23.53.04:903][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:903][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:906][288]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-23.53.04:906][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:906][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:909][288]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-23.53.04:909][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:910][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:912][288]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-23.53.04:913][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:913][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:916][288]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-23.53.04:916][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bodymat_1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:916][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:919][288]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-23.53.04:919][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bodymat_1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:919][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:922][288]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-23.53.04:923][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bodymat_1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:923][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:925][288]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-23.53.04:926][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bodymat_1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:926][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:928][288]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-23.53.04:929][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bodymat_1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:929][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:932][288]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-23.53.04:932][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:932][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:935][288]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-23.53.04:936][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:936][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:938][288]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-23.53.04:939][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:939][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:942][288]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-23.53.04:942][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:942][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:945][288]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-23.53.04:945][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:945][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:948][288]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-23.53.04:948][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Hairmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:948][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:951][288]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-23.53.04:952][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Hairmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:952][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:955][288]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-23.53.04:955][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Hairmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:955][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:958][288]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-23.53.04:959][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Hairmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:959][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:961][288]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-23.53.04:962][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Hairmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:962][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:965][288]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-23.53.04:965][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:965][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:968][288]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-23.53.04:968][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:968][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:971][288]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-23.53.04:971][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:971][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:974][288]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-23.53.04:975][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:975][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:977][288]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-23.53.04:978][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:978][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:981][288]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-23.53.04:981][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:981][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:984][288]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-23.53.04:984][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:984][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:987][288]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-23.53.04:987][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:987][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:990][288]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-23.53.04:990][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:990][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:993][288]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-23.53.04:993][288]LogMaterial: Warning: C:\Users\u1101109\Desktop\GitHub\TheLab\Content\ThirdPersonBP\Characters\Dr_Schemeer_Animations\Dr_Walk_002\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.10-23.53.04:993][288]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.10-23.53.04:994][288]LogSkeletalMesh: Building Skeletal Mesh dr_walk...
+[2019.12.10-23.53.05:033][288]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk.dr_walk
+[2019.12.10-23.53.05:039][288]LogSkeletalMesh: Building Skeletal Mesh dr_walk...
+[2019.12.10-23.53.05:076][288]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk.dr_walk
+[2019.12.10-23.53.05:084][288]LogSkeletalMesh: Building Skeletal Mesh dr_walk...
+[2019.12.10-23.53.05:121][288]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk.dr_walk
+[2019.12.10-23.53.05:129][288]LogSkeletalMesh: Building Skeletal Mesh dr_walk...
+[2019.12.10-23.53.05:165][288]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk.dr_walk
+[2019.12.10-23.53.05:173][288]LogSkeletalMesh: Building Skeletal Mesh dr_walk...
+[2019.12.10-23.53.05:210][288]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk.dr_walk
+[2019.12.10-23.53.05:217][288]LogSkeletalMesh: Building Skeletal Mesh dr_walk...
+[2019.12.10-23.53.05:253][288]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk.dr_walk
+[2019.12.10-23.53.05:260][288]LogSkeletalMesh: Building Skeletal Mesh dr_walk...
+[2019.12.10-23.53.05:296][288]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk.dr_walk
+[2019.12.10-23.53.05:303][288]LogSkeletalMesh: Building Skeletal Mesh dr_walk...
+[2019.12.10-23.53.05:339][288]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk.dr_walk
+[2019.12.10-23.53.08:052][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.12.10-23.53.08:075][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.12.10-23.53.08:096][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.10-23.53.08:118][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.12.10-23.53.08:140][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.10-23.53.08:162][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.12.10-23.53.08:184][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.10-23.53.08:206][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.10-23.53.08:228][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.12.10-23.53.08:255][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.53.08:277][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.10-23.53.08:298][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.12.10-23.53.08:320][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.12.10-23.53.08:342][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.12.10-23.53.08:364][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.12.10-23.53.08:387][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.12.10-23.53.08:409][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.53.08:430][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.53.08:455][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.12.10-23.53.08:477][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.12.10-23.53.08:498][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.53.08:520][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.12.10-23.53.08:540][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.53.08:562][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.53.08:584][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.53.08:606][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.53.08:628][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.53.08:650][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.53.08:672][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.53.08:694][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.53.08:716][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.53.08:738][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.53.08:760][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.53.08:782][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.10-23.53.08:806][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.12.10-23.53.08:835][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.12.10-23.53.08:860][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
