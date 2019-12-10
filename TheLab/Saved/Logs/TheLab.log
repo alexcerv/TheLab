@@ -4054,3 +4054,506 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.10-06.08.20:679][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
 [2019.12.10-06.08.20:825][997]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap70B13360483C46576B4A4C9D4C0033E8.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.12.10-06.08.20:953][997]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap_BuiltData7AFADD51485280F51969B9A566DBFC38.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.10-06.08.43:426][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.12.10-06.08.44:804][362]LogSlate: Window 'Save Content' being destroyed
+[2019.12.10-06.08.44:862][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat7011F38E40DEF6FE6C6BE89FE52CC7F9.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/Bodymat.uasset'
+[2019.12.10-06.08.44:888][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat_1865136674F0F39235B1C29A0A57B73D4.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/Bodymat_1.uasset'
+[2019.12.10-06.08.44:914][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bottommat281F8A784B5ED5C369F8BA860ABB9B64.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/Bottommat.uasset'
+[2019.12.10-06.08.44:976][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_idleC496B5D14829CBBA5C2D2C9EF36AE29F.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/dr_idle.uasset'
+[2019.12.10-06.08.45:008][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_idle_AnimB0D75EA74E68EFD89CE5F9BDBF8A8E70.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/dr_idle_Anim.uasset'
+[2019.12.10-06.08.45:038][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_idle_PhysicsAsset1BD359D541060F3EEC7AD3A1E4F818A5.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/dr_idle_PhysicsAsset.uasset'
+[2019.12.10-06.08.45:205][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Diffuse8DBB35B24BE96E7AC2011F97FF6E326B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Body_Diffuse.uasset'
+[2019.12.10-06.08.45:318][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Gloss197FB553487EEA20199591BDABFD1B75.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Body_Gloss.uasset'
+[2019.12.10-06.08.45:447][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Normal59388FC34282E4E40E43B4A129092D3D.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Body_Normal.uasset'
+[2019.12.10-06.08.45:492][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Opacity1B12469842656AC10B5A469EB4955D60.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Body_Opacity.uasset'
+[2019.12.10-06.08.45:582][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Specular0E9F13D9418FDF7C3455F1BE899E98DB.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Body_Specular.uasset'
+[2019.12.10-06.08.45:625][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Diffuse96C82F05433F520EBAA5E1A4E2F3FF42.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Bottom_Diffuse.uasset'
+[2019.12.10-06.08.45:661][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Gloss6B75CED94CB6CA91EA215D885B827204.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Bottom_Gloss.uasset'
+[2019.12.10-06.08.45:717][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_NormalC6636543485B21831B745886D97CFE33.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Bottom_Normal.uasset'
+[2019.12.10-06.08.45:739][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_OpacityF1F5E7C64A4AF7F6F3D67691EAA4F772.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Bottom_Opacity.uasset'
+[2019.12.10-06.08.45:768][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_SpecularDFC30C1F4620B782B473C3A07E4E7673.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Bottom_Specular.uasset'
+[2019.12.10-06.08.45:805][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_DiffuseC13C87D6486BF65411E45AB049203B95.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Hair_Diffuse.uasset'
+[2019.12.10-06.08.45:836][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Gloss0D080842438716D5267F3D8CBDA1B90E.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Hair_Gloss.uasset'
+[2019.12.10-06.08.45:878][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Normal3B66171C42EC3133D4F968A3775002F7.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Hair_Normal.uasset'
+[2019.12.10-06.08.45:909][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Opacity7E7BB55D443A895A28AA99BF43A43C35.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Hair_Opacity.uasset'
+[2019.12.10-06.08.45:939][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_SpecularD8998C6346563C11BCBED6981015D694.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Hair_Specular.uasset'
+[2019.12.10-06.08.45:984][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Diffuse371951014847B67E360CE99C467C435E.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Shoes_Diffuse.uasset'
+[2019.12.10-06.08.46:019][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_GlossD61D88DA41EE5336175D3DBCFD8A7413.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Shoes_Gloss.uasset'
+[2019.12.10-06.08.46:090][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Normal508720BA421456759F6CBC8D075B9403.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Shoes_Normal.uasset'
+[2019.12.10-06.08.46:112][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_OpacityEDB6932E45B0790CD5F718A4116DEC51.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Shoes_Opacity.uasset'
+[2019.12.10-06.08.46:139][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Specular2E50118F414DB973B3237D9D7BAA8DE0.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Shoes_Specular.uasset'
+[2019.12.10-06.08.46:184][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_DiffuseDD9C96F7433260A68ED5CA8C12B21549.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Top_Diffuse.uasset'
+[2019.12.10-06.08.46:224][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Gloss17667EBB414E6561CA156CA9E6D36372.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Top_Gloss.uasset'
+[2019.12.10-06.08.46:280][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Normal619E3FBD4DC0F00693E3EABCACECA1D7.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Top_Normal.uasset'
+[2019.12.10-06.08.46:301][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_OpacityCC3061234BB1D8187E7EB79D0AD35929.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Top_Opacity.uasset'
+[2019.12.10-06.08.46:345][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Specular5CB75D974B48DF1A3085A0A7C2A3879F.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/DrSchmeer_Top_Specular.uasset'
+[2019.12.10-06.08.46:374][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/HairmatD6F6F809493E1556E8C948BBBE3933E5.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/Hairmat.uasset'
+[2019.12.10-06.08.46:408][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/lambert2C48123AC476ECE12EB5FD4B5CFB3C900.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/lambert2.uasset'
+[2019.12.10-06.08.46:438][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Shoesmat033ECA0743B876398579BDA066E47BB5.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/Shoesmat.uasset'
+[2019.12.10-06.08.46:466][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Topmat3313166243E5D48E254B71BCD7662A67.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_idle/Topmat.uasset'
+[2019.12.10-06.08.46:498][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat40DC804C4246D579E4CD54BBA50FB8C3.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Bodymat.uasset'
+[2019.12.10-06.08.46:527][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat_120EDA01244236D102FFD20A5B7C6200F.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Bodymat_1.uasset'
+[2019.12.10-06.08.46:558][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bottommat5FE7A5E84D890E17C7507FAFCA9CFC5E.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Bottommat.uasset'
+[2019.12.10-06.08.46:624][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_instructACDE543547D2C107C5A9029AE3CA9486.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct.uasset'
+[2019.12.10-06.08.46:657][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_instruct_AnimC62969BF42C934BC5A0703BB01AD49B2.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim.uasset'
+[2019.12.10-06.08.46:691][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_instruct_PhysicsAsset05F14A3540CA192973E596B787023C74.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_PhysicsAsset.uasset'
+[2019.12.10-06.08.46:841][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_DiffuseF698A0EE44987411087C6B91FA42744E.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Diffuse.uasset'
+[2019.12.10-06.08.46:939][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Gloss2A96FED34DF90B87E54AC68701A0F3E9.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Gloss.uasset'
+[2019.12.10-06.08.47:067][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Normal30B5CFA04BC086903AD25EADF413D77B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Normal.uasset'
+[2019.12.10-06.08.47:120][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_OpacityD7AE6C564152D8E0687982A801FA8C8A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Opacity.uasset'
+[2019.12.10-06.08.47:244][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Specular1D4659D047691ACEBD40C3A743DCAFA9.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Specular.uasset'
+[2019.12.10-06.08.47:296][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Diffuse2627152741F2C8F7CF71B9A3322487B2.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Diffuse.uasset'
+[2019.12.10-06.08.47:334][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Gloss14789E0D4BDAA4725C4369957E96477A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Gloss.uasset'
+[2019.12.10-06.08.47:389][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_NormalB1B7D36942D63F26558E01BEB61E4944.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Normal.uasset'
+[2019.12.10-06.08.47:412][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Opacity7996ECCE48F85C275AF47BB76AED3A27.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Opacity.uasset'
+[2019.12.10-06.08.47:440][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_SpecularC35DE6A746D7D5F71DAF71AF9B552EC0.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Specular.uasset'
+[2019.12.10-06.08.47:477][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Diffuse177057F940EE6B5CB0907C9078C82A0B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Diffuse.uasset'
+[2019.12.10-06.08.47:507][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_GlossFC11C5054EF1BE3BB6E75A8FA3825C1F.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Gloss.uasset'
+[2019.12.10-06.08.47:548][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Normal4F1199D244D3652571848881BD361221.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Normal.uasset'
+[2019.12.10-06.08.47:579][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Opacity473E578F42F771C3C5B99881AE252364.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Opacity.uasset'
+[2019.12.10-06.08.47:610][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Specular11A565B14EB20C0D96B447AD03A6E220.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Specular.uasset'
+[2019.12.10-06.08.47:656][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_DiffuseB6543FAA4CF37BA1E9A5E78191B39E7B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Diffuse.uasset'
+[2019.12.10-06.08.47:693][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_GlossEE9886724218FD1E593B56A594F833DB.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Gloss.uasset'
+[2019.12.10-06.08.47:774][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_NormalBA6DD85D4CCEBF2571B99ABE778119EF.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Normal.uasset'
+[2019.12.10-06.08.47:812][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Opacity3728F9044CA13EEB140FC389EF096BCB.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Opacity.uasset'
+[2019.12.10-06.08.47:844][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_SpecularED995BCC4C478938A7E75D9B24C250AE.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Specular.uasset'
+[2019.12.10-06.08.47:890][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Diffuse834CC0274BC79AEA2DB24FA8606213C2.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Diffuse.uasset'
+[2019.12.10-06.08.47:932][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_GlossE58BA2DA49B6DF4F75C36ABCB04BEC2E.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Gloss.uasset'
+[2019.12.10-06.08.47:988][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_NormalD9AD0F784E7D19488AB9DA82BEABC31C.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Normal.uasset'
+[2019.12.10-06.08.48:016][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Opacity4552BF66472DA30AB79E8398EADA2A15.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Opacity.uasset'
+[2019.12.10-06.08.48:056][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_SpecularCCEA848A4E1AE26BDBCD76B33BD4A2E0.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Specular.uasset'
+[2019.12.10-06.08.48:085][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Hairmat0665F73642FA4CF2398BAB9A11556A59.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Hairmat.uasset'
+[2019.12.10-06.08.48:112][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/lambert243E8D05E41D3CB733CACF18C7B607E34.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/lambert2.uasset'
+[2019.12.10-06.08.48:143][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ShoesmatCD8C31B64C3264754FE9D3B59E8AAA16.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Shoesmat.uasset'
+[2019.12.10-06.08.48:172][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/TopmatB13EE0A044028830A9DB688A151E5BD5.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Topmat.uasset'
+[2019.12.10-06.08.48:205][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/BodymatB3A5F9A244B1BF1D596A68BC2D5F0A31.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/Bodymat.uasset'
+[2019.12.10-06.08.48:235][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat_1CB187B6A49DE83B51C54B4996CCAA03A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/Bodymat_1.uasset'
+[2019.12.10-06.08.48:264][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/BottommatAC1D9B7244EC9A8872C2BC89DDDAC363.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/Bottommat.uasset'
+[2019.12.10-06.08.48:341][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_lectureB8D0E97144BB4E79D8D9FFA4D5C78368.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture.uasset'
+[2019.12.10-06.08.48:383][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_lecture_AnimA507691C468ECD26A52A7E999C1A8929.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture_Anim.uasset'
+[2019.12.10-06.08.48:415][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_lecture_PhysicsAssetD8C21A384D0C98F830CBBEA2374E67B7.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture_PhysicsAsset.uasset'
+[2019.12.10-06.08.48:573][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Diffuse4DC965674C4C96F6574AD6A5D867F505.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Body_Diffuse.uasset'
+[2019.12.10-06.08.48:676][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_GlossFD217AEC4A0DA91F29997994F39E115A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Body_Gloss.uasset'
+[2019.12.10-06.08.48:814][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Normal8D09BA5E4B1F047583ACC68B0035A4B6.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Body_Normal.uasset'
+[2019.12.10-06.08.48:867][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_OpacityE0694B5D48B9E2B932FB5F84817F4727.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Body_Opacity.uasset'
+[2019.12.10-06.08.48:965][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_SpecularF688832E4892E2C8DC2401A73568D97B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Body_Specular.uasset'
+[2019.12.10-06.08.49:011][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Diffuse28CB5B084870432D88166097348609EF.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Bottom_Diffuse.uasset'
+[2019.12.10-06.08.49:048][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Gloss5C7AFB3A46969FB16A2EF39F27BA1E37.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Bottom_Gloss.uasset'
+[2019.12.10-06.08.49:110][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Normal162657ED4016F3A65937AAA56E12A161.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Bottom_Normal.uasset'
+[2019.12.10-06.08.49:134][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_OpacityDA6091004C5F51BCC7349EA502966A0C.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Bottom_Opacity.uasset'
+[2019.12.10-06.08.49:162][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Specular404A1FF447705A5E5BB3C3A203160E83.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Bottom_Specular.uasset'
+[2019.12.10-06.08.49:200][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Diffuse034E855C4F6AEC751C18A780B2D9D6CB.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Hair_Diffuse.uasset'
+[2019.12.10-06.08.49:232][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Gloss748FAB3D42F344F6CB5DF5A3DCA30ED0.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Hair_Gloss.uasset'
+[2019.12.10-06.08.49:277][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Normal7B6936194264002D356269AD72F724AC.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Hair_Normal.uasset'
+[2019.12.10-06.08.49:310][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Opacity8A27C28D41102ECCB2B7FD998E6A44DB.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Hair_Opacity.uasset'
+[2019.12.10-06.08.49:342][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_SpecularFE4551894050EEF8199281B13F126448.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Hair_Specular.uasset'
+[2019.12.10-06.08.49:389][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Diffuse6A80E01D47B1C47F3CF3ED837E97FCA3.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Shoes_Diffuse.uasset'
+[2019.12.10-06.08.49:426][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_GlossBE2EC5F54196B575447F9DBC7BF5980B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Shoes_Gloss.uasset'
+[2019.12.10-06.08.49:496][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Normal85D23E5B46D680D4084B10989302DC5D.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Shoes_Normal.uasset'
+[2019.12.10-06.08.49:520][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Opacity7AF17F7644123389688961980E6EFA76.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Shoes_Opacity.uasset'
+[2019.12.10-06.08.49:550][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Specular668EC9C94358B62983E4EEA68E7A7F27.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Shoes_Specular.uasset'
+[2019.12.10-06.08.49:597][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Diffuse5EF4C3614A9F13CD6ECC108D6DA9C7A2.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Top_Diffuse.uasset'
+[2019.12.10-06.08.49:640][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Gloss7F93304E4342A552F01D94AE6359D375.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Top_Gloss.uasset'
+[2019.12.10-06.08.49:698][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Normal83D04EFD47A38F3DF01DF9AE60E4F63D.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Top_Normal.uasset'
+[2019.12.10-06.08.49:722][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Opacity1D883F03470DB760317E8CABD7EC79E5.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Top_Opacity.uasset'
+[2019.12.10-06.08.49:786][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_SpecularA4D0F6284A2F03DFB317FCB16082026D.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/DrSchmeer_Top_Specular.uasset'
+[2019.12.10-06.08.49:834][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Hairmat1942160945577BD7ADD05D877ACFABD9.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/Hairmat.uasset'
+[2019.12.10-06.08.49:883][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/lambert2CE78176C44B9406CF5F587B8D8C1CFAF.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/lambert2.uasset'
+[2019.12.10-06.08.49:932][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ShoesmatC79DFE304FEB0A22540A8584145BF297.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/Shoesmat.uasset'
+[2019.12.10-06.08.49:979][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/TopmatB5C17FE84B3E23AA8F95EAAD8B77C7C1.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Lecture_002/Topmat.uasset'
+[2019.12.10-06.08.49:987][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat891824D04177534EF63780952C109D61.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat.uasset'
+[2019.12.10-06.08.49:997][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bodymat_1CD97995148B6E14748DEDEAB633E81FB.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bodymat_1.uasset'
+[2019.12.10-06.08.50:005][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Bottommat77BB63F44BBC1894B518BFBA11A21A25.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Bottommat.uasset'
+[2019.12.10-06.08.50:023][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_phone_Anim7643864A41735F9BB2D1598DEB2C30C4.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim.uasset'
+[2019.12.10-06.08.50:037][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_phone_PhysicsAssetDCD79A9D433CAC1B25B4A1A6D0991759.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_PhysicsAsset.uasset'
+[2019.12.10-06.08.50:190][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_DiffuseC2B175EE417E355E604F448BDB88FB7F.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Diffuse.uasset'
+[2019.12.10-06.08.50:285][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Gloss2302095641AE72C7B2EA0999C1D1A7FA.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Gloss.uasset'
+[2019.12.10-06.08.50:441][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Normal8687860C45D2C5738F075EB60EE8D01A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Normal.uasset'
+[2019.12.10-06.08.50:484][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Opacity0729966A48CBE5E11B867588BA6FF5FD.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Opacity.uasset'
+[2019.12.10-06.08.50:571][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Body_Specular352544DB421AAA1E5C269590ED49CDD1.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Body_Specular.uasset'
+[2019.12.10-06.08.50:612][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Diffuse5C67E76647A4406D6A69D1BBA60E5D1A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Diffuse.uasset'
+[2019.12.10-06.08.50:639][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Gloss350CC56145DDBF21ADA21693A6021698.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Gloss.uasset'
+[2019.12.10-06.08.50:682][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Normal5D18134E46C396E3933F71A5DDE65CAE.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Normal.uasset'
+[2019.12.10-06.08.50:697][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_OpacityA4AC97474A9B8D8F944CD9A1E271084A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Opacity.uasset'
+[2019.12.10-06.08.50:723][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Bottom_Specular058E6976427B320D99D57DA7B9A5DBF6.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Bottom_Specular.uasset'
+[2019.12.10-06.08.50:752][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_DiffuseF95D72C045671380A8C1DA9D14D189C1.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Diffuse.uasset'
+[2019.12.10-06.08.50:775][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_GlossF9062F4F4D80BC3BB09334983A2AABA5.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Gloss.uasset'
+[2019.12.10-06.08.50:808][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_NormalCEC50B224D4BB6FFFB7A2FBCB011AD4C.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Normal.uasset'
+[2019.12.10-06.08.50:834][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_OpacityCE1B1DBA40984DEA41A44AABEFF9AF47.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Opacity.uasset'
+[2019.12.10-06.08.50:857][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Hair_Specular4B39DF7643C174910B88E3A254D37CE1.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Hair_Specular.uasset'
+[2019.12.10-06.08.50:895][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Diffuse5B95C1974CE1D172C260848772576870.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Diffuse.uasset'
+[2019.12.10-06.08.50:921][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_Gloss9D9D54824D7EC630E86E45A7B251D06F.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Gloss.uasset'
+[2019.12.10-06.08.50:974][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_NormalA4E893F0468D9D1DE74951A595BD8CD9.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Normal.uasset'
+[2019.12.10-06.08.50:990][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_OpacityCEBE99614067C5C1183AD0A9EA94798E.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Opacity.uasset'
+[2019.12.10-06.08.51:018][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Shoes_SpecularB66C7C9E44E37406816E83AFAD81004E.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Shoes_Specular.uasset'
+[2019.12.10-06.08.51:055][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Diffuse03E6735042C21E0B224DF6A426C890F0.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Diffuse.uasset'
+[2019.12.10-06.08.51:086][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Gloss2A0D0EA84993A7631752DD8486E6EB61.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Gloss.uasset'
+[2019.12.10-06.08.51:136][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Normal384D26D04CBBAC2E4ECEA088F397EC0A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Normal.uasset'
+[2019.12.10-06.08.51:152][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_Opacity0DBDD2AA44C833DA7F84E18E9D9C757A.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Opacity.uasset'
+[2019.12.10-06.08.51:182][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_Top_SpecularA15342E542AE72F5BF34D1B02934A9DB.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/DrSchmeer_Top_Specular.uasset'
+[2019.12.10-06.08.51:189][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Hairmat1C5FDE7D400212466E11BC834FBA449D.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Hairmat.uasset'
+[2019.12.10-06.08.51:196][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/lambert28E385DD6466CA5730178F78F2297BE45.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/lambert2.uasset'
+[2019.12.10-06.08.51:203][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ShoesmatE5772980439A2231DE69E9AB752549C5.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Shoesmat.uasset'
+[2019.12.10-06.08.51:211][362]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/TopmatF24A78A542DE886968D0BD948A1E74CF.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_phone_003/Topmat.uasset'
+[2019.12.10-06.08.51:256][362]LogSlate: Window 'TheLab - Unreal Editor' being destroyed
+[2019.12.10-06.08.51:259][362]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.10-06.08.51:866][363]Cmd: QUIT_EDITOR
+[2019.12.10-06.08.52:630][363]LogExit: Preparing to exit.
+[2019.12.10-06.08.53:464][363]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-06.08.53:464][363]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-06.08.53:464][363]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-06.08.53:465][363]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-06.08.53:465][363]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-06.08.53:509][363]LogDirectoryWatcher: A directory notification failed for 'C:/Users/u1101109/Desktop/GitHub/TheLab/Content/', and we were unable to create a new request.
+[2019.12.10-06.08.53:556][363]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.10-06.08.53:619][363]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-06.08.53:621][363]LogExit: Editor shut down
+[2019.12.10-06.08.53:623][363]LogExit: Transaction tracking system shut down
+[2019.12.10-06.08.54:713][363]LogExit: Object subsystem successfully closed.
+[2019.12.10-06.08.54:775][363]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.10-06.08.54:941][363]LogModuleManager: Shutting down and abandoning module PinnedCommandList (676)
+[2019.12.10-06.08.54:941][363]LogModuleManager: Shutting down and abandoning module SkeletonEditor (674)
+[2019.12.10-06.08.54:941][363]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2019.12.10-06.08.54:942][363]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2019.12.10-06.08.54:942][363]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.12.10-06.08.54:942][363]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.12.10-06.08.54:942][363]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.10-06.08.54:980][363]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.10-06.08.54:980][363]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.10-06.08.54:980][363]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.10-06.08.54:982][363]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.10-06.08.54:984][363]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.10-06.08.54:984][363]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.10-06.08.54:984][363]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.10-06.08.54:990][363]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.10-06.08.54:990][363]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.10-06.08.54:990][363]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.10-06.08.54:990][363]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.10-06.08.54:991][363]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.10-06.08.54:991][363]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.10-06.08.54:991][363]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.10-06.08.54:992][363]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.10-06.08.54:992][363]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.10-06.08.54:993][363]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.10-06.08.54:993][363]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.10-06.08.54:994][363]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.10-06.08.54:995][363]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.10-06.08.55:001][363]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.10-06.08.55:001][363]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.10-06.08.55:003][363]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.10-06.08.55:005][363]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.10-06.08.55:005][363]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.10-06.08.55:005][363]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.10-06.08.55:005][363]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.10-06.08.55:005][363]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.10-06.08.55:006][363]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.10-06.08.55:007][363]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.10-06.08.55:011][363]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.10-06.08.55:011][363]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.10-06.08.55:011][363]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.10-06.08.55:011][363]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.10-06.08.55:011][363]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.10-06.08.55:011][363]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.10-06.08.55:011][363]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.10-06.08.55:011][363]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.10-06.08.55:011][363]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.10-06.08.55:011][363]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.10-06.08.55:012][363]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.10-06.08.55:012][363]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.10-06.08.55:012][363]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.10-06.08.55:012][363]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.10-06.08.55:012][363]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.10-06.08.55:012][363]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.10-06.08.55:013][363]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.10-06.08.55:013][363]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.10-06.08.55:013][363]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.10-06.08.55:014][363]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.10-06.08.55:014][363]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.10-06.08.55:017][363]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.10-06.08.55:018][363]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.10-06.08.55:019][363]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.10-06.08.55:019][363]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.10-06.08.55:020][363]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.10-06.08.55:020][363]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.10-06.08.55:020][363]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.10-06.08.56:557][363]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.10-06.08.56:557][363]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.10-06.08.56:557][363]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.10-06.08.56:557][363]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.10-06.08.56:557][363]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.10-06.08.56:557][363]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.10-06.08.56:558][363]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.10-06.08.56:560][363]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.10-06.08.56:561][363]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.10-06.08.56:561][363]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.10-06.08.56:561][363]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.10-06.08.56:562][363]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.10-06.08.56:563][363]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.10-06.08.56:563][363]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.10-06.08.56:563][363]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.10-06.08.56:563][363]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.10-06.08.56:564][363]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.10-06.08.56:565][363]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.10-06.08.56:566][363]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.10-06.08.56:567][363]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.10-06.08.56:567][363]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.10-06.08.56:568][363]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.10-06.08.56:569][363]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.10-06.08.56:624][363]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.10-06.08.56:625][363]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.10-06.08.56:626][363]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.10-06.08.56:628][363]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.10-06.08.56:629][363]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.10-06.08.56:629][363]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.10-06.08.56:629][363]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.10-06.08.56:632][363]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.10-06.08.56:632][363]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.10-06.08.56:632][363]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.10-06.08.56:633][363]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.10-06.08.56:637][363]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.10-06.08.56:637][363]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.10-06.08.56:639][363]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.10-06.08.56:639][363]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.10-06.08.56:640][363]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.10-06.08.56:640][363]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.10-06.08.56:640][363]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.10-06.08.56:643][363]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.10-06.08.56:651][363]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.10-06.08.56:652][363]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.10-06.08.56:652][363]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.10-06.08.56:653][363]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.10-06.08.56:653][363]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.10-06.08.56:653][363]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.10-06.08.56:653][363]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.10-06.08.56:654][363]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.10-06.08.56:654][363]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.10-06.08.56:654][363]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.10-06.08.56:654][363]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.10-06.08.56:654][363]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.10-06.08.56:654][363]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.10-06.08.56:655][363]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.10-06.08.56:655][363]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.10-06.08.56:655][363]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.10-06.08.56:655][363]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.10-06.08.56:655][363]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.10-06.08.56:660][363]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.10-06.08.56:752][363]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.10-06.08.56:753][363]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.10-06.08.56:753][363]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.10-06.08.56:753][363]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.10-06.08.56:754][363]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.10-06.08.56:754][363]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.10-06.08.56:754][363]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.10-06.08.56:754][363]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.10-06.08.56:754][363]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.10-06.08.56:755][363]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.10-06.08.56:755][363]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.10-06.08.56:755][363]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.10-06.08.56:755][363]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.10-06.08.56:755][363]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.10-06.08.56:755][363]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.10-06.08.56:755][363]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.10-06.08.56:755][363]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.10-06.08.56:755][363]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.10-06.08.56:757][363]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.10-06.08.56:757][363]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.10-06.08.56:758][363]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.10-06.08.56:758][363]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.10-06.08.56:758][363]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.10-06.08.56:758][363]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.10-06.08.56:758][363]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.10-06.08.56:758][363]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.10-06.08.56:758][363]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.10-06.08.56:758][363]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.10-06.08.56:758][363]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.10-06.08.56:758][363]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.10-06.08.56:759][363]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.10-06.08.56:760][363]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.10-06.08.56:760][363]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.10-06.08.56:760][363]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.10-06.08.56:760][363]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.10-06.08.56:761][363]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.10-06.08.56:761][363]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.10-06.08.56:763][363]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.10-06.08.56:764][363]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.10-06.08.56:765][363]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.10-06.08.56:765][363]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.10-06.08.56:769][363]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.10-06.08.56:769][363]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.10-06.08.56:769][363]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.10-06.08.56:769][363]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.10-06.08.56:769][363]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.10-06.08.56:769][363]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.10-06.08.56:771][363]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.10-06.08.56:773][363]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.10-06.08.56:775][363]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.10-06.08.56:775][363]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.10-06.08.56:775][363]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.10-06.08.56:775][363]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.10-06.08.56:780][363]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.10-06.08.56:780][363]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.10-06.08.56:780][363]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.10-06.08.56:780][363]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.10-06.08.56:780][363]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.10-06.08.56:783][363]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.10-06.08.56:783][363]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.10-06.08.56:783][363]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.10-06.08.56:789][363]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.10-06.08.56:789][363]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.10-06.08.56:789][363]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.10-06.08.57:012][363]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.10-06.08.57:125][363]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.10-06.08.57:125][363]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.10-06.08.57:125][363]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.10-06.08.57:131][363]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.10-06.08.57:131][363]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.10-06.08.57:133][363]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.10-06.08.57:133][363]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.10-06.08.57:134][363]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.10-06.08.57:134][363]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.10-06.08.57:135][363]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.10-06.08.57:135][363]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.10-06.08.57:135][363]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.10-06.08.57:136][363]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.10-06.08.57:137][363]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.10-06.08.57:142][363]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.10-06.08.57:143][363]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.10-06.08.57:143][363]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.10-06.08.57:144][363]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.10-06.08.57:145][363]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.10-06.08.57:162][363]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.10-06.08.57:173][363]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.10-06.08.57:173][363]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.10-06.08.57:173][363]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.10-06.08.57:187][363]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.10-06.08.57:217][363]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.10-06.08.57:218][363]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.10-06.08.57:218][363]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.10-06.08.57:218][363]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.10-06.08.57:218][363]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.10-06.08.57:220][363]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.10-06.08.57:220][363]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.10-06.08.57:220][363]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.10-06.08.57:220][363]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.10-06.08.57:221][363]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.10-06.08.57:222][363]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.10-06.08.57:222][363]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.10-06.08.57:223][363]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.10-06.08.57:224][363]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.10-06.08.57:226][363]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.10-06.08.57:233][363]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.10-06.08.57:233][363]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.10-06.08.57:235][363]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.10-06.08.57:238][363]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.10-06.08.57:238][363]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.10-06.08.57:241][363]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.10-06.08.57:241][363]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.10-06.08.57:241][363]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.10-06.08.57:248][363]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.10-06.08.57:248][363]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.10-06.08.57:248][363]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.10-06.08.57:248][363]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.10-06.08.57:248][363]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.10-06.08.57:248][363]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.10-06.08.57:248][363]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.10-06.08.57:248][363]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.10-06.08.57:248][363]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.10-06.08.57:248][363]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.10-06.08.57:249][363]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.10-06.08.57:249][363]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.10-06.08.57:250][363]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.10-06.08.57:252][363]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.10-06.08.57:252][363]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.10-06.08.57:253][363]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.10-06.08.57:253][363]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.10-06.08.57:253][363]LogDerivedDataCache: Shutdown
+[2019.12.10-06.08.57:253][363]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.10-06.08.57:253][363]LogXGEController: Cleaning working directory: C:/Users/u1101109/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.10-06.08.57:254][363]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.10-06.08.57:255][363]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.10-06.08.57:256][363]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.10-06.08.57:256][363]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.10-06.08.57:257][363]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.10-06.08.57:257][363]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.10-06.08.57:257][363]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.10-06.08.57:258][363]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.10-06.08.57:258][363]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.10-06.08.57:258][363]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.10-06.08.57:259][363]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.10-06.08.57:259][363]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.10-06.08.57:259][363]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.10-06.08.57:259][363]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.10-06.08.57:259][363]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.10-06.08.57:259][363]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.10-06.08.57:260][363]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.10-06.08.57:290][363]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.10-06.08.57:290][363]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.10-06.08.57:290][363]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.10-06.08.57:290][363]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.10-06.08.57:291][363]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.10-06.08.57:299][363]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.10-06.08.57:299][363]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.10-06.08.57:305][363]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.10-06.08.57:305][363]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.10-06.08.57:436][363]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.10-06.08.57:436][363]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.10-06.08.57:436][363]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.10-06.08.57:437][363]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.10-06.08.57:437][363]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.10-06.08.57:437][363]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.10-06.08.57:438][363]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.10-06.08.57:438][363]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.10-06.08.57:439][363]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.10-06.08.57:440][363]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.10-06.08.57:440][363]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.10-06.08.57:440][363]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.10-06.08.57:441][363]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.10-06.08.57:441][363]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.10-06.08.57:441][363]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.10-06.08.57:442][363]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.10-06.08.57:442][363]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.10-06.08.57:442][363]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.10-06.08.57:442][363]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.10-06.08.57:442][363]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.10-06.08.57:442][363]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.10-06.08.57:442][363]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.10-06.08.57:443][363]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.10-06.08.57:444][363]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.10-06.08.57:466][363]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.10-06.08.57:466][363]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.10-06.08.57:466][363]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD7A8630-4BEB-A3A4-0609-A98D03DC1553%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=2d6f4b62494b69270fb5eba7749be53d%7Cc2cbc690b3814641b01dc69df658426e%7C62b87ee1-436e-452d-a396-97c6480aab8c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.10-06.08.57:479][363]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.10-06.08.57:493][363]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.10-06.08.57:525][363]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.10-06.08.57:538][363]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.10-06.08.57:548][363]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.10-06.08.57:567][363]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.10-06.08.57:568][363]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.10-06.08.57:568][363]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.10-06.08.57:568][363]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.10-06.08.57:571][363]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.10-06.08.57:575][363]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.10-06.08.57:579][363]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.10-06.08.57:579][363]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.10-06.08.57:579][363]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.10-06.08.57:579][363]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.10-06.08.57:589][363]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.10-06.08.57:590][363]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.10-06.08.57:590][363]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.10-06.08.57:590][363]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.10-06.08.57:591][363]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.10-06.08.57:591][363]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.10-06.08.57:591][363]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.10-06.08.57:591][363]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.10-06.08.57:591][363]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.10-06.08.57:591][363]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.10-06.08.57:591][363]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.10-06.08.57:593][363]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.10-06.08.57:599][363]LogD3D11RHI: Shutdown
+[2019.12.10-06.08.57:599][363]LogD3D11RHI: CleanupD3DDevice
+[2019.12.10-06.08.57:608][363]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.10-06.08.57:609][363]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.10-06.08.57:609][363]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.10-06.08.57:858][363]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.10-06.08.57:864][363]LogExit: Exiting.
+[2019.12.10-06.08.57:886][363]Log file closed, 12/09/19 23:08:57
