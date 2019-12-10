@@ -3751,3 +3751,306 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.10-06.01.27:513][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
 [2019.12.10-06.01.27:666][533]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap1F9C334A4C856BF8DDBFBD9045E1C5BA.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.12.10-06.01.27:796][533]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap_BuiltData1FA253F1454EED0DDC1126A9CA267CEF.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.10-06.02.45:843][625]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_instruct.fbx)
+[2019.12.10-06.02.45:861][625]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_instruct.fbx
+[2019.12.10-06.02.45:934][625]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-06.02.48:589][625]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-06.02.48:618][625]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-06.02.48:618][625]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-06.02.48:618][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-06.02.48:618][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-06.02.48:619][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-06.02.48:619][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-06.02.48:619][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-06.02.48:620][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2019.12.10-06.02.48:620][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-06.02.48:620][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-06.02.48:620][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Shoes : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-06.02.48:621][625]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-06.02.48:621][625]LogFbx: Valid bind pose for Pose (skinCluster7) - default1
+[2019.12.10-06.02.48:624][625]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-06.02.48:627][625]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-06.02.48:657][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Diffuse': Can't find file.
+[2019.12.10-06.02.48:657][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Diffuse': Can't find file.
+[2019.12.10-06.02.48:700][625]LogTexture: Display: Building textures: DrSchmeer_Body_Diffuse (AutoDXT, 1024X1024)
+[2019.12.10-06.02.49:539][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Specular': Can't find file.
+[2019.12.10-06.02.49:539][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Specular': Can't find file.
+[2019.12.10-06.02.49:562][625]LogTexture: Display: Building textures: DrSchmeer_Body_Specular (AutoDXT, 1024X1024)
+[2019.12.10-06.02.49:730][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Gloss': Can't find file.
+[2019.12.10-06.02.49:730][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Gloss': Can't find file.
+[2019.12.10-06.02.49:754][625]LogTexture: Display: Building textures: DrSchmeer_Body_Gloss (AutoDXT, 1024X1024)
+[2019.12.10-06.02.49:992][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Normal': Can't find file.
+[2019.12.10-06.02.49:992][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Normal': Can't find file.
+[2019.12.10-06.02.50:031][625]LogTexture: Display: Building textures: DrSchmeer_Body_Normal (BC5, 1024X1024)
+[2019.12.10-06.02.50:138][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Opacity': Can't find file.
+[2019.12.10-06.02.50:138][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Body_Opacity': Can't find file.
+[2019.12.10-06.02.50:152][625]LogTexture: Display: Building textures: DrSchmeer_Body_Opacity (AutoDXT, 1024X1024)
+[2019.12.10-06.02.50:213][625]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.12.10-06.02.50:264][625]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-06.02.50:323][625]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-06.02.50:326][625]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2019.12.10-06.02.50:360][625]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2019.12.10-06.02.50:393][625]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-06.02.50:401][625]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Bodymat_1.Bodymat_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-06.02.50:404][625]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-06.02.50:475][625]LogTexture: Display: Building textures: DrSchmeer_Body_Diffuse (AutoDXT, 1024X1024)
+[2019.12.10-06.02.51:356][625]LogTexture: Display: Building textures: DrSchmeer_Body_Specular (AutoDXT, 1024X1024)
+[2019.12.10-06.02.51:548][625]LogTexture: Display: Building textures: DrSchmeer_Body_Gloss (AutoDXT, 1024X1024)
+[2019.12.10-06.02.51:775][625]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for DrSchmeer_Body_Normal
+[2019.12.10-06.02.51:815][625]LogTexture: Display: Building textures: DrSchmeer_Body_Normal (BC5, 1024X1024)
+[2019.12.10-06.02.51:936][625]LogTexture: Display: Building textures: DrSchmeer_Body_Opacity (AutoDXT, 1024X1024)
+[2019.12.10-06.02.51:996][625]LogMaterial: Display: Missing cached shader map for material Bodymat_1, compiling. 
+[2019.12.10-06.02.52:054][625]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-06.02.52:690][625]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-06.02.52:698][625]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-06.02.52:729][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Diffuse': Can't find file.
+[2019.12.10-06.02.52:729][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Diffuse': Can't find file.
+[2019.12.10-06.02.52:740][625]LogTexture: Display: Building textures: DrSchmeer_Top_Diffuse (AutoDXT, 512X512)
+[2019.12.10-06.02.52:865][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Specular': Can't find file.
+[2019.12.10-06.02.52:866][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Specular': Can't find file.
+[2019.12.10-06.02.52:874][625]LogTexture: Display: Building textures: DrSchmeer_Top_Specular (AutoDXT, 512X512)
+[2019.12.10-06.02.52:988][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Gloss': Can't find file.
+[2019.12.10-06.02.52:990][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Gloss': Can't find file.
+[2019.12.10-06.02.52:999][625]LogTexture: Display: Building textures: DrSchmeer_Top_Gloss (AutoDXT, 512X512)
+[2019.12.10-06.02.53:142][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Normal': Can't find file.
+[2019.12.10-06.02.53:143][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Normal': Can't find file.
+[2019.12.10-06.02.53:157][625]LogTexture: Display: Building textures: DrSchmeer_Top_Normal (BC5, 512X512)
+[2019.12.10-06.02.53:187][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Opacity': Can't find file.
+[2019.12.10-06.02.53:187][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Top_Opacity': Can't find file.
+[2019.12.10-06.02.53:193][625]LogTexture: Display: Building textures: DrSchmeer_Top_Opacity (AutoDXT, 512X512)
+[2019.12.10-06.02.53:211][625]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.12.10-06.02.53:263][625]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-06.02.53:363][625]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-06.02.53:366][625]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-06.02.53:397][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Diffuse': Can't find file.
+[2019.12.10-06.02.53:402][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Diffuse': Can't find file.
+[2019.12.10-06.02.53:413][625]LogTexture: Display: Building textures: DrSchmeer_Bottom_Diffuse (AutoDXT, 512X512)
+[2019.12.10-06.02.53:620][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Specular': Can't find file.
+[2019.12.10-06.02.53:620][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Specular': Can't find file.
+[2019.12.10-06.02.53:627][625]LogTexture: Display: Building textures: DrSchmeer_Bottom_Specular (AutoDXT, 512X512)
+[2019.12.10-06.02.53:647][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Gloss': Can't find file.
+[2019.12.10-06.02.53:647][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Gloss': Can't find file.
+[2019.12.10-06.02.53:656][625]LogTexture: Display: Building textures: DrSchmeer_Bottom_Gloss (AutoDXT, 512X512)
+[2019.12.10-06.02.53:734][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Normal': Can't find file.
+[2019.12.10-06.02.53:735][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Normal': Can't find file.
+[2019.12.10-06.02.53:752][625]LogTexture: Display: Building textures: DrSchmeer_Bottom_Normal (BC5, 512X512)
+[2019.12.10-06.02.53:783][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Opacity': Can't find file.
+[2019.12.10-06.02.53:783][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Bottom_Opacity': Can't find file.
+[2019.12.10-06.02.53:789][625]LogTexture: Display: Building textures: DrSchmeer_Bottom_Opacity (AutoDXT, 512X512)
+[2019.12.10-06.02.53:806][625]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.12.10-06.02.53:858][625]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-06.02.54:008][625]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-06.02.54:011][625]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-06.02.54:045][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Diffuse': Can't find file.
+[2019.12.10-06.02.54:046][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Diffuse': Can't find file.
+[2019.12.10-06.02.54:058][625]LogTexture: Display: Building textures: DrSchmeer_Shoes_Diffuse (AutoDXT, 512X512)
+[2019.12.10-06.02.54:187][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Specular': Can't find file.
+[2019.12.10-06.02.54:187][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Specular': Can't find file.
+[2019.12.10-06.02.54:194][625]LogTexture: Display: Building textures: DrSchmeer_Shoes_Specular (AutoDXT, 512X512)
+[2019.12.10-06.02.54:217][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Gloss': Can't find file.
+[2019.12.10-06.02.54:217][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Gloss': Can't find file.
+[2019.12.10-06.02.54:225][625]LogTexture: Display: Building textures: DrSchmeer_Shoes_Gloss (AutoDXT, 512X512)
+[2019.12.10-06.02.54:276][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Normal': Can't find file.
+[2019.12.10-06.02.54:276][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Normal': Can't find file.
+[2019.12.10-06.02.54:289][625]LogTexture: Display: Building textures: DrSchmeer_Shoes_Normal (BC5, 512X512)
+[2019.12.10-06.02.54:322][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Opacity': Can't find file.
+[2019.12.10-06.02.54:322][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Shoes_Opacity': Can't find file.
+[2019.12.10-06.02.54:328][625]LogTexture: Display: Building textures: DrSchmeer_Shoes_Opacity (AutoDXT, 512X512)
+[2019.12.10-06.02.54:345][625]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2019.12.10-06.02.54:398][625]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.10-06.02.54:618][625]LogMaterial: Display: Material /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.10-06.02.54:622][625]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-06.02.54:653][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Diffuse': Can't find file.
+[2019.12.10-06.02.54:653][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Diffuse': Can't find file.
+[2019.12.10-06.02.54:660][625]LogTexture: Display: Building textures: DrSchmeer_Hair_Diffuse (AutoDXT, 512X512)
+[2019.12.10-06.02.54:731][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Specular': Can't find file.
+[2019.12.10-06.02.54:731][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Specular': Can't find file.
+[2019.12.10-06.02.54:737][625]LogTexture: Display: Building textures: DrSchmeer_Hair_Specular (AutoDXT, 512X512)
+[2019.12.10-06.02.54:801][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Gloss': Can't find file.
+[2019.12.10-06.02.54:802][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Gloss': Can't find file.
+[2019.12.10-06.02.54:808][625]LogTexture: Display: Building textures: DrSchmeer_Hair_Gloss (AutoDXT, 512X512)
+[2019.12.10-06.02.54:871][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Normal': Can't find file.
+[2019.12.10-06.02.54:872][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Normal': Can't find file.
+[2019.12.10-06.02.54:879][625]LogTexture: Display: Building textures: DrSchmeer_Hair_Normal (BC5, 512X512)
+[2019.12.10-06.02.54:904][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Opacity': Can't find file.
+[2019.12.10-06.02.54:904][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/DrSchmeer_Hair_Opacity': Can't find file.
+[2019.12.10-06.02.54:911][625]LogTexture: Display: Building textures: DrSchmeer_Hair_Opacity (AutoDXT, 512X512)
+[2019.12.10-06.02.55:013][625]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.12.10-06.02.55:067][625]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-06.02.55:273][625]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-06.02.56:017][625]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.10-06.02.56:017][625]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.10-06.02.56:018][625]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.10-06.02.56:019][625]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.10-06.02.56:019][625]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.10-06.02.56:019][625]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.10-06.02.56:019][625]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.10-06.02.56:022][625]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.10-06.02.56:022][625]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.10-06.02.56:022][625]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.10-06.02.56:022][625]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.10-06.02.56:022][625]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.10-06.02.56:022][625]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.10-06.02.56:022][625]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.10-06.02.56:030][625]LogSkeletalMesh: Building Skeletal Mesh dr_instruct...
+[2019.12.10-06.02.56:085][625]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct.dr_instruct
+[2019.12.10-06.02.56:111][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_PhysicsAsset': Can't find file.
+[2019.12.10-06.02.56:112][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_PhysicsAsset': Can't find file.
+[2019.12.10-06.02.56:120][625]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(5) Head
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(10) LeftHandMiddle1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(11) LeftHandMiddle2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(12) LeftHandMiddle3
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(16) LeftHandIndex1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(17) LeftHandIndex2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(18) LeftHandIndex3
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(29) RightHandMiddle1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(30) RightHandMiddle2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(31) RightHandMiddle3
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(32) RightHandThumb1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(33) RightHandThumb2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(34) RightHandThumb3
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(45) RightLeg
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(46) RightFoot
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(47) RightToeBase
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(48) LeftUpLeg
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(49) LeftLeg
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(50) LeftFoot
+[2019.12.10-06.02.56:125][625]LogFbx: SortedLinks :(51) LeftToeBase
+[2019.12.10-06.02.56:127][625]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-06.02.56:127][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim': Can't find file.
+[2019.12.10-06.02.56:127][625]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim': Can't find file.
+[2019.12.10-06.02.58:131][625]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim.dr_instruct_Anim
+[2019.12.10-06.02.58:131][625]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim.dr_instruct_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-06.02.58:151][625]LogSkeletalMesh: Building Skeletal Mesh dr_instruct...
+[2019.12.10-06.02.58:198][625]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct.dr_instruct
+[2019.12.10-06.02.58:214][625]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-06.02.58:214][625]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-06.02.58:222][625]LogSkeletalMesh: Building Skeletal Mesh dr_instruct...
+[2019.12.10-06.02.58:271][625]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct.dr_instruct
+[2019.12.10-06.03.05:819][191]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-06.03.05:823][191]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-06.06.16:151][720]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton DrSchmeer_EyelashFix_Skeleton, removing AnimBP from actor.
+[2019.12.10-06.06.18:839][ 39]Cmd: TRANSACTION UNDO
+[2019.12.10-06.06.18:839][ 39]LogEditorTransaction: Undo Drop Animation On Object
+[2019.12.10-06.06.20:097][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-06.06.27:708][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-06.06.27:777][949]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-06.06.27:786][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-06.06.27:786][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-06.06.27:786][949]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 9, 2019, 4:06:27 PM)
+[2019.12.10-06.06.27:786][949]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-06.06.27:802][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015515s)
+[2019.12.10-06.06.27:803][949]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.10-06.06.27:803][949]LogPlayLevel: PIE: World Init took: (0.001879s)
+[2019.12.10-06.06.27:804][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017629s)
+[2019.12.10-06.06.27:859][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.12.10-06.06.27:864][949]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.10-06.06.27:880][949]LogInit: FAudioDevice initialized.
+[2019.12.10-06.06.27:896][949]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.10-06.06.27:901][949]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.09-23.06.27
+[2019.12.10-06.06.27:901][949]LogWorld: Bringing up level for play took: 0.004322
+[2019.12.10-06.06.27:901][949]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.12.10-06.06.27:904][949]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.303
+[2019.12.10-06.06.27:904][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-06.06.37:049][ 40]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-06.06.37:050][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-06.06.37:050][ 40]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.10-06.06.37:050][ 40]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-06.06.37:059][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-06.06.37:060][ 40]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.10-06.06.37:091][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-06.06.37:095][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.10-06.06.37:155][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.12.10-06.06.40:083][391]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-06.06.40:115][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.12.10-06.06.40:280][391]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap779CACE64E19D2C7A5F0A2974867F295.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.10-06.06.40:409][391]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap_BuiltDataB6538BA64C021BBBAA4A4CB4AFCA8E61.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.10-06.08.20:679][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.12.10-06.08.20:825][997]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap70B13360483C46576B4A4C9D4C0033E8.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.10-06.08.20:953][997]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap_BuiltData7AFADD51485280F51969B9A566DBFC38.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
