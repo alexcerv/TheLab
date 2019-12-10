@@ -1951,3 +1951,128 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-23.54.40:768][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2019.12.10-23.54.40:768][788]LogEditorActor: Deleted 1 Actors (0.024 secs)
 [2019.12.10-23.54.45:309][192]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-23.55.04:845][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.55.04:988][626]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMapE521926A463C09ACCD15F09C08A48052.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.10-23.55.05:116][626]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap_BuiltDataE1CBD5064E63952521D7CD94BD9E6918.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.10-23.55.16:339][956]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_admire_001_animation.fbx)
+[2019.12.10-23.55.16:384][956]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_admire_001_animation.fbx
+[2019.12.10-23.55.16:466][956]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.55.16:471][956]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'Bodymat' was rename 'Bodymat_ncl1_1' 
+[2019.12.10-23.55.23:107][956]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-23.55.23:150][956]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node DrSchmeer_Animation : The relative matrices do not match
+[2019.12.10-23.55.23:150][956]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.12.10-23.55.23:151][956]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - DrSchmeer_Animation
+[2019.12.10-23.55.23:151][956]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.12.10-23.55.23:197][956]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.55.23:198][956]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.55.23:198][956]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.55.23:198][956]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.55.23:198][956]LogFbx: Warning: Bones digested - 69  Depth of hierarchy - 13
+[2019.12.10-23.55.23:863][956]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.10-23.55.23:863][956]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.10-23.55.23:864][956]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.10-23.55.23:864][956]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.10-23.55.23:864][956]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.10-23.55.23:864][956]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.10-23.55.23:865][956]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.10-23.55.23:867][956]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.10-23.55.23:867][956]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.10-23.55.23:867][956]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.10-23.55.23:867][956]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.10-23.55.23:867][956]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.10-23.55.23:867][956]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.10-23.55.23:867][956]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.10-23.55.23:875][956]LogSkeletalMesh: Building Skeletal Mesh dr_admire_001_animation...
+[2019.12.10-23.55.23:914][956]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_001/dr_admire_001_animation.dr_admire_001_animation
+[2019.12.10-23.55.25:888][956]LogSlate: Window 'Message' being destroyed
+[2019.12.10-23.55.26:881][956]LogSlate: Window 'Message' being destroyed
+[2019.12.10-23.55.28:563][956]LogSlate: Window 'Message' being destroyed
+[2019.12.10-23.55.28:577][956]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_001/dr_admire_001_animation_PhysicsAsset': Can't find file.
+[2019.12.10-23.55.28:577][956]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_001/dr_admire_001_animation_PhysicsAsset': Can't find file.
+[2019.12.10-23.55.28:589][956]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(0) DrSchmeer_EyelashFix
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(1) Hips
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(2) Spine
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(3) Spine1
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(4) Spine2
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(5) Neck
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(6) Head
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(7) HeadTop_End
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(8) RightEye
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(9) LeftEye
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(10) LeftShoulder
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(11) LeftArm
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(12) LeftForeArm
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(13) LeftHand
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(14) LeftHandMiddle1
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(15) LeftHandMiddle2
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(16) LeftHandMiddle3
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(17) LeftHandMiddle4
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(18) LeftHandThumb1
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(19) LeftHandThumb2
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(20) LeftHandThumb3
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(21) LeftHandThumb4
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2019.12.10-23.55.28:596][956]LogFbx: SortedLinks :(26) LeftHandRing1
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(27) LeftHandRing2
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(28) LeftHandRing3
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(29) LeftHandRing4
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(30) LeftHandPinky1
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(31) LeftHandPinky2
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(32) LeftHandPinky3
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(33) LeftHandPinky4
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(34) RightShoulder
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(35) RightArm
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(36) RightForeArm
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(37) RightHand
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(38) RightHandMiddle1
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(39) RightHandMiddle2
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(40) RightHandMiddle3
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(41) RightHandMiddle4
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(42) RightHandThumb1
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(43) RightHandThumb2
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(44) RightHandThumb3
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(45) RightHandThumb4
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(46) RightHandIndex1
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(47) RightHandIndex2
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(48) RightHandIndex3
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(49) RightHandIndex4
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(50) RightHandRing1
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(51) RightHandRing2
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(52) RightHandRing3
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(53) RightHandRing4
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(54) RightHandPinky1
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(55) RightHandPinky2
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(56) RightHandPinky3
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(57) RightHandPinky4
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(58) RightUpLeg
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(59) RightLeg
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(60) RightFoot
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(61) RightToeBase
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(62) RightToe_End
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(63) LeftUpLeg
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(64) LeftLeg
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(65) LeftFoot
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(66) LeftToeBase
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(67) LeftToe_End
+[2019.12.10-23.55.28:597][956]LogFbx: SortedLinks :(68) DrSchmeer_Animation
+[2019.12.10-23.55.28:599][956]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.55.28:599][956]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_001/dr_admire_001_animation_Anim': Can't find file.
+[2019.12.10-23.55.28:599][956]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_001/dr_admire_001_animation_Anim': Can't find file.
+[2019.12.10-23.55.30:612][956]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_001/dr_admire_001_animation_Anim.dr_admire_001_animation_Anim
+[2019.12.10-23.55.30:613][956]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_001/dr_admire_001_animation_Anim.dr_admire_001_animation_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.55.30:628][956]LogSkeletalMesh: Building Skeletal Mesh dr_admire_001_animation...
+[2019.12.10-23.55.30:668][956]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_001/dr_admire_001_animation.dr_admire_001_animation
+[2019.12.10-23.55.30:688][956]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.55.30:690][956]LogSkeletalMesh: Building Skeletal Mesh dr_admire_001_animation...
+[2019.12.10-23.55.30:730][956]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_001/dr_admire_001_animation.dr_admire_001_animation
+[2019.12.10-23.55.30:775][957]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={27B55998-4E8F-2563-AE5B-9F94FF4839BA}
+[2019.12.10-23.55.32:416][144]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.55.32:419][144]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.55.40:280][884]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-23.55.43:044][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.12.10-23.55.43:180][139]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap90DB72A14294EF5B6F91DDB8C149F394.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.10-23.55.43:305][139]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap_BuiltData9F759802478D776A15B0E1A59B097C58.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
