@@ -685,3 +685,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-23.48.06:556][309]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_sneaking_Anim9A53A04E429B780C7DD4F394E691CCE8.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_sneaking/dr_sneaking_Anim.uasset'
 [2019.12.10-23.48.06:765][309]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_walkD02E7FA8494A3D1F02A145A7BA8D2E3C.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk.uasset'
 [2019.12.10-23.48.06:823][309]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_walk_AnimF18C7A4C472A468B1695ACBBE9D37787.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer_Animations/Dr_Walk_002/dr_walk_Anim.uasset'
+[2019.12.10-23.48.58:703][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.12.10-23.49.05:292][922]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.10-23.49.05:456][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.12.10-23.49.05:480][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.12.10-23.49.05:503][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.49.05:529][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.49.05:552][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.49.05:576][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.49.05:598][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.49.05:621][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.10-23.49.05:644][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.12.10-23.49.05:667][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.49.05:689][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.49.05:712][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.49.05:737][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.49.05:761][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.05:783][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.12.10-23.49.05:806][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.05:828][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.05:851][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.49.05:874][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.05:897][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.05:921][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.05:946][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.05:969][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.10-23.49.05:991][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.06:015][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.06:037][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.06:060][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.49.06:084][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.06:107][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.06:129][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.49.06:154][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.10-23.49.06:177][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.06:199][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.10-23.49.06:222][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.10-23.49.06:245][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.12.10-23.49.06:270][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.12.10-23.49.06:292][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
