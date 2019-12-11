@@ -4276,3 +4276,7 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.11-00.07.01:078][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2019.12.11-00.07.01:079][633]LogEditorActor: Deleted 1 Actors (0.024 secs)
 [2019.12.11-00.09.39:066][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-00.16.45:578][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.12.11-00.16.45:760][ 43]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap_Auto1CACC4C4C4EBD7EF3BAB320A82F52FE5D.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.12.11-00.16.45:763][ 43]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.205
+[2019.12.11-00.16.45:763][ 43]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
