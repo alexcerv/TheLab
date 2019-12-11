@@ -2611,3 +2611,1011 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.10-23.57.32:785][367]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_death_01E55E7BD240437DBDF0943C8190744F56.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Death/dr_death_01.uasset'
 [2019.12.10-23.57.32:814][367]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_death_01_PhysicsAssetF8FFDB224D03DC16F295B782AD759A13.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Death/dr_death_01_PhysicsAsset.uasset'
 [2019.12.10-23.57.32:846][367]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_death_01_Anim0AECE821411A666EDA64138A07B81745.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Death/dr_death_01_Anim.uasset'
+[2019.12.10-23.57.51:102][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.57.58:445][133]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-23.57.58:465][133]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_idle.fbx)
+[2019.12.10-23.57.58:480][133]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_idle.fbx
+[2019.12.10-23.57.58:538][133]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.58.03:037][133]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-23.58.03:059][133]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.58.03:059][133]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.58.03:060][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.58.03:060][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.58.03:060][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.58.03:061][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.58.03:061][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.58.03:061][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.58.03:062][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.58.03:062][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.58.03:062][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.58.03:062][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.58.03:062][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.58.03:063][133]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.58.03:063][133]LogFbx: Valid bind pose for Pose (skinCluster7) - default1
+[2019.12.10-23.58.03:065][133]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.58.03:116][133]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.58.03:121][133]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.58.03:742][133]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.58.03:834][133]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.58.03:974][133]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.10-23.58.04:178][133]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.58.04:366][133]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.58.04:367][133]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.58.04:367][133]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.58.04:367][133]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.58.04:367][133]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.58.05:059][133]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.10-23.58.05:059][133]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.10-23.58.05:059][133]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.10-23.58.05:060][133]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.10-23.58.05:060][133]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.10-23.58.05:060][133]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.10-23.58.05:060][133]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.10-23.58.05:062][133]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.10-23.58.05:062][133]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.10-23.58.05:062][133]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.10-23.58.05:062][133]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.10-23.58.05:062][133]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.10-23.58.05:062][133]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.10-23.58.05:062][133]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.10-23.58.05:069][133]LogSkeletalMesh: Building Skeletal Mesh dr_idle...
+[2019.12.10-23.58.05:110][133]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_idle/dr_idle.dr_idle
+[2019.12.10-23.58.05:126][133]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_idle/dr_idle_PhysicsAsset': Can't find file.
+[2019.12.10-23.58.05:126][133]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_idle/dr_idle_PhysicsAsset': Can't find file.
+[2019.12.10-23.58.05:134][133]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(10) LeftHandMiddle1
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(11) LeftHandMiddle2
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(12) LeftHandMiddle3
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.10-23.58.05:138][133]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(16) LeftHandIndex1
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(17) LeftHandIndex2
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(18) LeftHandIndex3
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(29) RightHandMiddle1
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(30) RightHandMiddle2
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(31) RightHandMiddle3
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(32) RightHandThumb1
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(33) RightHandThumb2
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(34) RightHandThumb3
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(45) RightLeg
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(46) RightFoot
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(47) RightToeBase
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(48) LeftUpLeg
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(49) LeftLeg
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(50) LeftFoot
+[2019.12.10-23.58.05:139][133]LogFbx: SortedLinks :(51) LeftToeBase
+[2019.12.10-23.58.05:140][133]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.58.05:140][133]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_idle/dr_idle_Anim': Can't find file.
+[2019.12.10-23.58.05:140][133]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_idle/dr_idle_Anim': Can't find file.
+[2019.12.10-23.58.08:688][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_idle/dr_idle_Anim.dr_idle_Anim
+[2019.12.10-23.58.08:688][133]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_idle/dr_idle_Anim.dr_idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.58.08:712][133]LogSkeletalMesh: Building Skeletal Mesh dr_idle...
+[2019.12.10-23.58.08:753][133]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_idle/dr_idle.dr_idle
+[2019.12.10-23.58.08:773][133]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.58.08:773][133]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.58.08:779][133]LogSkeletalMesh: Building Skeletal Mesh dr_idle...
+[2019.12.10-23.58.08:822][133]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_idle/dr_idle.dr_idle
+[2019.12.10-23.58.10:394][305]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.58.10:397][305]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.58.11:484][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.58.22:217][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-23.58.22:239][ 65]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_instruct.fbx)
+[2019.12.10-23.58.22:254][ 65]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_instruct.fbx
+[2019.12.10-23.58.22:321][ 65]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.58.26:328][ 65]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-23.58.26:356][ 65]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.58.26:356][ 65]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.58.26:357][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.58.26:357][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.58.26:357][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.58.26:358][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.58.26:358][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.58.26:358][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.58.26:359][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.58.26:359][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.58.26:359][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.58.26:359][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.58.26:360][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.58.26:360][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.58.26:360][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.58.26:360][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.58.26:360][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.58.26:360][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.58.26:360][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.58.26:360][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.58.26:360][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.58.26:361][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.58.26:361][ 65]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.58.26:361][ 65]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.58.26:361][ 65]LogFbx: Valid bind pose for Pose (skinCluster7) - default1
+[2019.12.10-23.58.26:362][ 65]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.58.26:418][ 65]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.58.26:423][ 65]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.58.27:000][ 65]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.58.27:087][ 65]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.58.27:221][ 65]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.10-23.58.27:430][ 65]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.58.27:616][ 65]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.58.27:616][ 65]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.58.27:616][ 65]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.58.27:616][ 65]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.58.27:616][ 65]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.58.28:304][ 65]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.10-23.58.28:304][ 65]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.10-23.58.28:304][ 65]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.10-23.58.28:304][ 65]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.10-23.58.28:305][ 65]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.10-23.58.28:305][ 65]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.10-23.58.28:305][ 65]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.10-23.58.28:307][ 65]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.10-23.58.28:307][ 65]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.10-23.58.28:307][ 65]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.10-23.58.28:307][ 65]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.10-23.58.28:307][ 65]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.10-23.58.28:307][ 65]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.10-23.58.28:307][ 65]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.10-23.58.28:315][ 65]LogSkeletalMesh: Building Skeletal Mesh dr_instruct...
+[2019.12.10-23.58.28:356][ 65]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct.dr_instruct
+[2019.12.10-23.58.28:372][ 65]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_PhysicsAsset': Can't find file.
+[2019.12.10-23.58.28:372][ 65]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_PhysicsAsset': Can't find file.
+[2019.12.10-23.58.28:383][ 65]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(10) LeftHandMiddle1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(11) LeftHandMiddle2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(12) LeftHandMiddle3
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(16) LeftHandIndex1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(17) LeftHandIndex2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(18) LeftHandIndex3
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(29) RightHandMiddle1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(30) RightHandMiddle2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(31) RightHandMiddle3
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(32) RightHandThumb1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(33) RightHandThumb2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(34) RightHandThumb3
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(45) RightLeg
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(46) RightFoot
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(47) RightToeBase
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(48) LeftUpLeg
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(49) LeftLeg
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(50) LeftFoot
+[2019.12.10-23.58.28:388][ 65]LogFbx: SortedLinks :(51) LeftToeBase
+[2019.12.10-23.58.28:389][ 65]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.58.28:389][ 65]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim': Can't find file.
+[2019.12.10-23.58.28:389][ 65]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim': Can't find file.
+[2019.12.10-23.58.30:223][ 65]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim.dr_instruct_Anim
+[2019.12.10-23.58.30:223][ 65]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim.dr_instruct_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.58.30:240][ 65]LogSkeletalMesh: Building Skeletal Mesh dr_instruct...
+[2019.12.10-23.58.30:281][ 65]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct.dr_instruct
+[2019.12.10-23.58.30:302][ 65]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.58.30:302][ 65]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.58.30:307][ 65]LogSkeletalMesh: Building Skeletal Mesh dr_instruct...
+[2019.12.10-23.58.30:353][ 65]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct.dr_instruct
+[2019.12.10-23.58.32:021][249]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.58.32:024][249]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.58.33:135][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.58.42:288][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-23.58.42:312][ 10]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_lecture.fbx)
+[2019.12.10-23.58.42:330][ 10]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_lecture.fbx
+[2019.12.10-23.58.42:404][ 10]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.58.45:870][ 10]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-23.58.45:905][ 10]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.58.45:905][ 10]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.58.45:905][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.58.45:906][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.58.45:906][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.58.45:906][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.58.45:907][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.58.45:907][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.58.45:907][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.58.45:908][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.58.45:908][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.58.45:908][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.58.45:908][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.58.45:909][ 10]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.58.45:909][ 10]LogFbx: Valid bind pose for Pose (skinCluster7) - default1
+[2019.12.10-23.58.45:910][ 10]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.58.45:959][ 10]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.58.45:964][ 10]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.58.46:544][ 10]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.58.46:640][ 10]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.58.46:785][ 10]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.10-23.58.46:997][ 10]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.58.47:180][ 10]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.58.47:180][ 10]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.58.47:180][ 10]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.58.47:180][ 10]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.58.47:180][ 10]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.58.47:868][ 10]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.10-23.58.47:868][ 10]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.10-23.58.47:869][ 10]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.10-23.58.47:869][ 10]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.10-23.58.47:869][ 10]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.10-23.58.47:869][ 10]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.10-23.58.47:870][ 10]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.10-23.58.47:872][ 10]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.10-23.58.47:872][ 10]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.10-23.58.47:872][ 10]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.10-23.58.47:872][ 10]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.10-23.58.47:872][ 10]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.10-23.58.47:872][ 10]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.10-23.58.47:872][ 10]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.10-23.58.47:882][ 10]LogSkeletalMesh: Building Skeletal Mesh dr_lecture...
+[2019.12.10-23.58.47:923][ 10]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture.dr_lecture
+[2019.12.10-23.58.47:939][ 10]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture_PhysicsAsset': Can't find file.
+[2019.12.10-23.58.47:939][ 10]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture_PhysicsAsset': Can't find file.
+[2019.12.10-23.58.47:954][ 10]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(10) LeftHandMiddle1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(11) LeftHandMiddle2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(12) LeftHandMiddle3
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(16) LeftHandIndex1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(17) LeftHandIndex2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(18) LeftHandIndex3
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(29) RightHandMiddle1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(30) RightHandMiddle2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(31) RightHandMiddle3
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(32) RightHandThumb1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(33) RightHandThumb2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(34) RightHandThumb3
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(45) RightLeg
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(46) RightFoot
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(47) RightToeBase
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(48) LeftUpLeg
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(49) LeftLeg
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(50) LeftFoot
+[2019.12.10-23.58.47:959][ 10]LogFbx: SortedLinks :(51) LeftToeBase
+[2019.12.10-23.58.47:960][ 10]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.58.47:960][ 10]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture_Anim': Can't find file.
+[2019.12.10-23.58.47:960][ 10]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture_Anim': Can't find file.
+[2019.12.10-23.58.54:525][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture_Anim.dr_lecture_Anim
+[2019.12.10-23.58.54:525][ 10]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture_Anim.dr_lecture_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.58.54:564][ 10]LogSkeletalMesh: Building Skeletal Mesh dr_lecture...
+[2019.12.10-23.58.54:606][ 10]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture.dr_lecture
+[2019.12.10-23.58.54:626][ 10]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.58.54:627][ 10]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.58.54:634][ 10]LogSkeletalMesh: Building Skeletal Mesh dr_lecture...
+[2019.12.10-23.58.54:678][ 10]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Lecture_002/dr_lecture.dr_lecture
+[2019.12.10-23.58.56:161][168]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.58.56:164][168]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.58.57:230][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.59.06:139][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-23.59.06:163][ 86]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_notes_003.fbx)
+[2019.12.10-23.59.06:181][ 86]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_notes_003.fbx
+[2019.12.10-23.59.06:256][ 86]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.59.10:195][ 86]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-23.59.10:230][ 86]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.59.10:230][ 86]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.59.10:230][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.59.10:231][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.59.10:231][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.59.10:231][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.59.10:232][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.59.10:232][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.59.10:233][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.59.10:233][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.59.10:233][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.59.10:233][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.59.10:233][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.59.10:234][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.59.10:234][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.59.10:234][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.59.10:234][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.59.10:234][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.59.10:234][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.59.10:234][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.59.10:234][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.59.10:234][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.59.10:234][ 86]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.59.10:235][ 86]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.59.10:235][ 86]LogFbx: Valid bind pose for Pose (skinCluster7) - default1
+[2019.12.10-23.59.10:236][ 86]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.59.10:289][ 86]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.59.10:293][ 86]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.59.10:866][ 86]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.59.10:951][ 86]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.59.11:086][ 86]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.10-23.59.11:285][ 86]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.59.11:471][ 86]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.59.11:471][ 86]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.59.11:471][ 86]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.59.11:471][ 86]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.59.11:471][ 86]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.59.12:160][ 86]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.10-23.59.12:160][ 86]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.10-23.59.12:161][ 86]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.10-23.59.12:161][ 86]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.10-23.59.12:161][ 86]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.10-23.59.12:161][ 86]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.10-23.59.12:161][ 86]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.10-23.59.12:163][ 86]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.10-23.59.12:163][ 86]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.10-23.59.12:163][ 86]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.10-23.59.12:163][ 86]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.10-23.59.12:164][ 86]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.10-23.59.12:164][ 86]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.10-23.59.12:164][ 86]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.10-23.59.12:173][ 86]LogSkeletalMesh: Building Skeletal Mesh dr_notes_003...
+[2019.12.10-23.59.12:214][ 86]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Notes_003/dr_notes_003.dr_notes_003
+[2019.12.10-23.59.12:234][ 86]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Notes_003/dr_notes_003_PhysicsAsset': Can't find file.
+[2019.12.10-23.59.12:234][ 86]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Notes_003/dr_notes_003_PhysicsAsset': Can't find file.
+[2019.12.10-23.59.12:247][ 86]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(10) LeftHandMiddle1
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(11) LeftHandMiddle2
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(12) LeftHandMiddle3
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(16) LeftHandIndex1
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(17) LeftHandIndex2
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(18) LeftHandIndex3
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.59.12:251][ 86]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(29) RightHandMiddle1
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(30) RightHandMiddle2
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(31) RightHandMiddle3
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(32) RightHandThumb1
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(33) RightHandThumb2
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(34) RightHandThumb3
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(45) RightLeg
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(46) RightFoot
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(47) RightToeBase
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(48) LeftUpLeg
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(49) LeftLeg
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(50) LeftFoot
+[2019.12.10-23.59.12:252][ 86]LogFbx: SortedLinks :(51) LeftToeBase
+[2019.12.10-23.59.12:253][ 86]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.59.12:253][ 86]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Notes_003/dr_notes_003_Anim': Can't find file.
+[2019.12.10-23.59.12:253][ 86]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Notes_003/dr_notes_003_Anim': Can't find file.
+[2019.12.10-23.59.18:713][ 86]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Notes_003/dr_notes_003_Anim.dr_notes_003_Anim
+[2019.12.10-23.59.18:713][ 86]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Notes_003/dr_notes_003_Anim.dr_notes_003_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.59.18:751][ 86]LogSkeletalMesh: Building Skeletal Mesh dr_notes_003...
+[2019.12.10-23.59.18:793][ 86]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Notes_003/dr_notes_003.dr_notes_003
+[2019.12.10-23.59.18:814][ 86]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.59.18:814][ 86]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.59.18:820][ 86]LogSkeletalMesh: Building Skeletal Mesh dr_notes_003...
+[2019.12.10-23.59.18:863][ 86]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Notes_003/dr_notes_003.dr_notes_003
+[2019.12.10-23.59.20:340][229]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.59.20:343][229]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.59.22:763][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.59.30:532][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-23.59.30:555][ 74]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_phone.fbx)
+[2019.12.10-23.59.30:572][ 74]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_phone.fbx
+[2019.12.10-23.59.30:642][ 74]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.59.33:940][ 74]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-23.59.33:971][ 74]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.59.33:971][ 74]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.59.33:971][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.59.33:972][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.59.33:972][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.59.33:972][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.59.33:973][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.59.33:973][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.59.33:973][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.59.33:974][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.59.33:974][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.59.33:974][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.59.33:974][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.59.33:974][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.59.33:975][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.59.33:975][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.59.33:975][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.59.33:975][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.59.33:975][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.59.33:975][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.59.33:975][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.59.33:975][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.59.33:975][ 74]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.59.33:975][ 74]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.59.33:975][ 74]LogFbx: Valid bind pose for Pose (skinCluster7) - default1
+[2019.12.10-23.59.33:976][ 74]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.59.34:026][ 74]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.59.34:031][ 74]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.59.34:598][ 74]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.59.34:682][ 74]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.59.34:821][ 74]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.10-23.59.35:019][ 74]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.59.35:201][ 74]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.59.35:201][ 74]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.59.35:201][ 74]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.59.35:201][ 74]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.59.35:201][ 74]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.59.35:886][ 74]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.10-23.59.35:886][ 74]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.10-23.59.35:887][ 74]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.10-23.59.35:887][ 74]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.10-23.59.35:887][ 74]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.10-23.59.35:887][ 74]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.10-23.59.35:888][ 74]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.10-23.59.35:890][ 74]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.10-23.59.35:890][ 74]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.10-23.59.35:890][ 74]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.10-23.59.35:890][ 74]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.10-23.59.35:890][ 74]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.10-23.59.35:890][ 74]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.10-23.59.35:890][ 74]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.10-23.59.35:899][ 74]LogSkeletalMesh: Building Skeletal Mesh dr_phone...
+[2019.12.10-23.59.35:938][ 74]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone.dr_phone
+[2019.12.10-23.59.35:953][ 74]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_PhysicsAsset': Can't find file.
+[2019.12.10-23.59.35:953][ 74]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_PhysicsAsset': Can't find file.
+[2019.12.10-23.59.35:960][ 74]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(10) LeftHandMiddle1
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(11) LeftHandMiddle2
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(12) LeftHandMiddle3
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(16) LeftHandIndex1
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(17) LeftHandIndex2
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(18) LeftHandIndex3
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.59.35:964][ 74]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(29) RightHandMiddle1
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(30) RightHandMiddle2
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(31) RightHandMiddle3
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(32) RightHandThumb1
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(33) RightHandThumb2
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(34) RightHandThumb3
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(45) RightLeg
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(46) RightFoot
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(47) RightToeBase
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(48) LeftUpLeg
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(49) LeftLeg
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(50) LeftFoot
+[2019.12.10-23.59.35:965][ 74]LogFbx: SortedLinks :(51) LeftToeBase
+[2019.12.10-23.59.35:966][ 74]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.59.35:966][ 74]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim': Can't find file.
+[2019.12.10-23.59.35:966][ 74]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim': Can't find file.
+[2019.12.10-23.59.40:741][ 74]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim.dr_phone_Anim
+[2019.12.10-23.59.40:741][ 74]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim.dr_phone_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.59.40:768][ 74]LogSkeletalMesh: Building Skeletal Mesh dr_phone...
+[2019.12.10-23.59.40:808][ 74]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone.dr_phone
+[2019.12.10-23.59.40:829][ 74]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.59.40:829][ 74]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.59.40:836][ 74]LogSkeletalMesh: Building Skeletal Mesh dr_phone...
+[2019.12.10-23.59.40:879][ 74]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone.dr_phone
+[2019.12.10-23.59.43:506][349]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.59.43:509][349]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-23.59.45:014][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.59.52:599][941]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-23.59.52:614][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_run.fbx)
+[2019.12.10-23.59.52:628][941]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr. Schmeer Complete Animation/dr_run.fbx
+[2019.12.10-23.59.52:679][941]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.10-23.59.56:407][941]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.10-23.59.56:431][941]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2019.12.10-23.59.56:431][941]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2019.12.10-23.59.56:431][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2019.12.10-23.59.56:431][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.59.56:432][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2019.12.10-23.59.56:432][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2019.12.10-23.59.56:433][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.59.56:433][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.59.56:433][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2019.12.10-23.59.56:433][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node default1 : The relative matrices do not match
+[2019.12.10-23.59.56:434][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.59.56:434][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2019.12.10-23.59.56:434][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2019.12.10-23.59.56:434][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.59.56:434][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.59.56:434][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2019.12.10-23.59.56:435][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node default1 : The relative matrices do not match
+[2019.12.10-23.59.56:435][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2019.12.10-23.59.56:435][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2019.12.10-23.59.56:435][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2019.12.10-23.59.56:435][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2019.12.10-23.59.56:435][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Shoes : The relative matrices do not match
+[2019.12.10-23.59.56:435][941]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2019.12.10-23.59.56:435][941]LogFbx: Valid bind pose for Pose (skinCluster6) - default1
+[2019.12.10-23.59.56:435][941]LogFbx: Valid bind pose for Pose (skinCluster7) - default1
+[2019.12.10-23.59.56:436][941]LogFbx: Triangulating skeletal mesh default1
+[2019.12.10-23.59.56:488][941]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.10-23.59.56:493][941]LogFbx: Triangulating skeletal mesh Body
+[2019.12.10-23.59.57:101][941]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.10-23.59.57:187][941]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.10-23.59.57:324][941]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.10-23.59.57:533][941]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.10-23.59.57:721][941]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.10-23.59.57:721][941]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.10-23.59.57:721][941]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.10-23.59.57:721][941]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.10-23.59.57:721][941]LogFbx: Warning: Bones digested - 52  Depth of hierarchy - 11
+[2019.12.10-23.59.58:407][941]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.10-23.59.58:407][941]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.10-23.59.58:407][941]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.10-23.59.58:407][941]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.10-23.59.58:407][941]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.10-23.59.58:408][941]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.10-23.59.58:408][941]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.10-23.59.58:410][941]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.10-23.59.58:410][941]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.10-23.59.58:410][941]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.10-23.59.58:410][941]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.10-23.59.58:410][941]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.10-23.59.58:410][941]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.10-23.59.58:410][941]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.10-23.59.58:415][941]LogSkeletalMesh: Building Skeletal Mesh dr_run...
+[2019.12.10-23.59.58:456][941]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Run/dr_run.dr_run
+[2019.12.10-23.59.58:471][941]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Run/dr_run_PhysicsAsset': Can't find file.
+[2019.12.10-23.59.58:471][941]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Run/dr_run_PhysicsAsset': Can't find file.
+[2019.12.10-23.59.58:478][941]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(0) Hips
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(1) Spine
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(2) Spine1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(3) Spine2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(4) Neck
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(5) Head
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(10) LeftHandMiddle1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(11) LeftHandMiddle2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(12) LeftHandMiddle3
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(16) LeftHandIndex1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(17) LeftHandIndex2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(18) LeftHandIndex3
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(19) LeftHandRing1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(20) LeftHandRing2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(21) LeftHandRing3
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(22) LeftHandPinky1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(23) LeftHandPinky2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(24) LeftHandPinky3
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(25) RightShoulder
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(26) RightArm
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(27) RightForeArm
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(28) RightHand
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(29) RightHandMiddle1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(30) RightHandMiddle2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(31) RightHandMiddle3
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(32) RightHandThumb1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(33) RightHandThumb2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(34) RightHandThumb3
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(38) RightHandRing1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(39) RightHandRing2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(40) RightHandRing3
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(41) RightHandPinky1
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(42) RightHandPinky2
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(43) RightHandPinky3
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(45) RightLeg
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(46) RightFoot
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(47) RightToeBase
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(48) LeftUpLeg
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(49) LeftLeg
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(50) LeftFoot
+[2019.12.10-23.59.58:483][941]LogFbx: SortedLinks :(51) LeftToeBase
+[2019.12.10-23.59.58:484][941]LogFbx: Parsing AnimStack Take 001
+[2019.12.10-23.59.58:484][941]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Run/dr_run_Anim': Can't find file.
+[2019.12.10-23.59.58:484][941]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Run/dr_run_Anim': Can't find file.
+[2019.12.10-23.59.58:605][941]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Run/dr_run_Anim.dr_run_Anim
+[2019.12.10-23.59.58:605][941]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Run/dr_run_Anim.dr_run_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.10-23.59.58:607][941]LogSkeletalMesh: Building Skeletal Mesh dr_run...
+[2019.12.10-23.59.58:647][941]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Run/dr_run.dr_run
+[2019.12.10-23.59.58:661][941]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.10-23.59.58:662][941]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.10-23.59.58:673][941]LogSkeletalMesh: Building Skeletal Mesh dr_run...
+[2019.12.10-23.59.58:713][941]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Run/dr_run.dr_run
+[2019.12.11-00.00.01:033][178]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-00.00.01:037][178]LogSlate: Window 'Message Log' being destroyed
