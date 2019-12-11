@@ -4191,3 +4191,9 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.11-00.05.04:976][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2019.12.11-00.05.05:152][ 86]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap0E5C155A4A4A25D993AC03A1D2165961.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.12.11-00.05.05:277][ 86]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap_BuiltData351AA4B2445F63DB50821B9EB8C9910B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.11-00.05.22:790][345]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-00.05.22:821][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.12.11-00.05.23:005][345]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMapEA84BE5E4D8242DC45EAE297E5D128A9.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.11-00.05.23:136][345]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/ThirdPersonExampleMap_BuiltDataC5ED494A4CF52816A2B56E90BA21AD0E.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.11-00.05.23:893][433]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-00.05.24:807][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
