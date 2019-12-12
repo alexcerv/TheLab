@@ -2192,3 +2192,14 @@ Please see Output Log for details.
 [2019.12.12-22.28.49:352][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2019.12.12-22.28.49:353][445]LogEditorActor: Deleted 1 Actors (0.071 secs)
 [2019.12.12-22.28.57:119][864]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-22.36.16:087][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.12-22.36.19:087][397]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Map1_Auto38CFED30446955263637C88AA9E7F0740.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/StarterBundle/CollectionMaps/Map1_Auto3.umap'
+[2019.12.12-22.36.19:095][397]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterBundle/CollectionMaps/Map1' took 3.032
+[2019.12.12-22.36.19:095][397]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.032
+[2019.12.12-22.50.59:357][398]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-22.51.01:081][453]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-22.51.09:160][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.51.09:590][762]LogClient: High resolution screenshot saved as C:/Users/u1101109/Desktop/GitHub/TheLab/Saved/Screenshots/Windows/HighresScreenshot00000.png
+[2019.12.12-22.51.18:645][901]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.12.12-22.51.19:816][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-23.42.14:297][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
