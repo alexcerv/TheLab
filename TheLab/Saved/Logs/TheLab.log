@@ -1836,3 +1836,359 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.12-21.51.25:085][605]LogFileHelpers: Loading map 'Map1' took 0.770
 [2019.12.12-21.51.25:299][608]LogSlate: Took 0.001301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2019.12.12-21.52.25:193][928]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A5AA500B-426E-D014-D90A-67B6625D259D}
+[2019.12.12-22.15.01:262][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.15.41:790][489]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Dr_admire_headphones.fbx)
+[2019.12.12-22.15.41:851][489]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Dr_admire_headphones.fbx
+[2019.12.12-22.15.41:963][489]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.12-22.15.41:980][489]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'Bodymat' was rename 'Bodymat_ncl1_1' 
+[2019.12.12-22.15.47:196][489]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.12-22.15.47:265][489]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node DrSchmeer_Animation : The relative matrices do not match
+[2019.12.12-22.15.47:265][489]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.12.12-22.15.47:266][489]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - DrSchmeer_Animation
+[2019.12.12-22.15.47:266][489]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.12.12-22.15.47:393][489]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bodymat.Bodymat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bodymat.Bodymat
+[2019.12.12-22.15.47:393][489]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Topmat.Topmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Topmat.Topmat
+[2019.12.12-22.15.47:393][489]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Bottommat.Bottommat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Bottommat.Bottommat
+[2019.12.12-22.15.47:393][489]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/Hairmat.Hairmat or Material /Game/ThirdPersonBP/Characters/Duke/Character/Hairmat.Hairmat
+[2019.12.12-22.15.47:398][489]LogFbx: Warning: Bones digested - 69  Depth of hierarchy - 13
+[2019.12.12-22.15.48:184][489]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2019.12.12-22.15.48:185][489]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2019.12.12-22.15.48:198][489]LogSkeletalMesh: Section 2: 9599 vertices, 45 active bones
+[2019.12.12-22.15.48:198][489]LogSkeletalMesh: Section 3: 1693 vertices, 22 active bones
+[2019.12.12-22.15.48:198][489]LogSkeletalMesh: Section 4: 2296 vertices, 10 active bones
+[2019.12.12-22.15.48:200][489]LogSkeletalMesh: Section 5: 3690 vertices, 6 active bones
+[2019.12.12-22.15.48:201][489]LogSkeletalMesh: Section 6: 4612 vertices, 3 active bones
+[2019.12.12-22.15.48:209][489]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2019.12.12-22.15.48:209][489]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2019.12.12-22.15.48:209][489]LogSkeletalMesh: Section 2: Material=2, 17181 triangles
+[2019.12.12-22.15.48:209][489]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2019.12.12-22.15.48:209][489]LogSkeletalMesh: Section 4: Material=4, 4036 triangles
+[2019.12.12-22.15.48:209][489]LogSkeletalMesh: Section 5: Material=5, 6494 triangles
+[2019.12.12-22.15.48:209][489]LogSkeletalMesh: Section 6: Material=6, 4514 triangles
+[2019.12.12-22.15.48:228][489]LogSkeletalMesh: Building Skeletal Mesh Dr_admire_headphones...
+[2019.12.12-22.15.48:284][489]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones.Dr_admire_headphones
+[2019.12.12-22.15.49:451][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.49:591][489]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim.dr_instruct_Anim
+[2019.12.12-22.15.49:594][489]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim.dr_instruct_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.12-22.15.49:654][489]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim.dr_phone_Anim
+[2019.12.12-22.15.49:654][489]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim.dr_phone_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.12-22.15.51:115][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.51:661][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.52:486][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.53:365][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.56:435][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.56:933][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.57:353][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.57:630][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.57:872][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.58:123][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.58:383][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.58:656][489]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.15.58:673][489]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_PhysicsAsset': Can't find file.
+[2019.12.12-22.15.58:674][489]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_PhysicsAsset': Can't find file.
+[2019.12.12-22.15.58:848][489]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.15.58:874][489]LogFbx: SortedLinks :(0) DrSchmeer_EyelashFix
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(1) Hips
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(2) Spine
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(3) Spine1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(4) Spine2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(5) Neck
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(6) Head
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(7) HeadTop_End
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(8) RightEye
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(9) LeftEye
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(10) LeftShoulder
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(11) LeftArm
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(12) LeftForeArm
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(13) LeftHand
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(14) LeftHandMiddle1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(15) LeftHandMiddle2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(16) LeftHandMiddle3
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(17) LeftHandMiddle4
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(18) LeftHandThumb1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(19) LeftHandThumb2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(20) LeftHandThumb3
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(21) LeftHandThumb4
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(26) LeftHandRing1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(27) LeftHandRing2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(28) LeftHandRing3
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(29) LeftHandRing4
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(30) LeftHandPinky1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(31) LeftHandPinky2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(32) LeftHandPinky3
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(33) LeftHandPinky4
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(34) RightShoulder
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(35) RightArm
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(36) RightForeArm
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(37) RightHand
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(38) RightHandMiddle1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(39) RightHandMiddle2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(40) RightHandMiddle3
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(41) RightHandMiddle4
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(42) RightHandThumb1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(43) RightHandThumb2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(44) RightHandThumb3
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(45) RightHandThumb4
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(46) RightHandIndex1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(47) RightHandIndex2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(48) RightHandIndex3
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(49) RightHandIndex4
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(50) RightHandRing1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(51) RightHandRing2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(52) RightHandRing3
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(53) RightHandRing4
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(54) RightHandPinky1
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(55) RightHandPinky2
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(56) RightHandPinky3
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(57) RightHandPinky4
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(58) RightUpLeg
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(59) RightLeg
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(60) RightFoot
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(61) RightToeBase
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(62) RightToe_End
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(63) LeftUpLeg
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(64) LeftLeg
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(65) LeftFoot
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(66) LeftToeBase
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(67) LeftToe_End
+[2019.12.12-22.15.58:875][489]LogFbx: SortedLinks :(68) DrSchmeer_Animation
+[2019.12.12-22.15.58:877][489]LogFbx: Parsing AnimStack Take 001
+[2019.12.12-22.15.58:900][489]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_Anim': Can't find file.
+[2019.12.12-22.15.58:901][489]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_Anim': Can't find file.
+[2019.12.12-22.16.00:974][489]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_Anim.Dr_admire_headphones_Anim
+[2019.12.12-22.16.00:974][489]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_Anim.Dr_admire_headphones_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.12-22.16.01:053][489]LogSkeletalMesh: Building Skeletal Mesh Dr_admire_headphones...
+[2019.12.12-22.16.01:096][489]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones.Dr_admire_headphones
+[2019.12.12-22.16.01:119][489]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.12-22.16.01:122][489]LogSkeletalMesh: Building Skeletal Mesh Dr_admire_headphones...
+[2019.12.12-22.16.01:167][489]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones.Dr_admire_headphones
+[2019.12.12-22.16.03:720][637]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.16.03:732][637]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.16.04:503][670]LogUObjectHash: Compacting FUObjectHashTables data took  10.13ms
+[2019.12.12-22.16.04:516][670]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterBundle/CollectionMaps/Map1' took 0.121
+[2019.12.12-22.16.04:527][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim] ([1] browsable assets)...
+[2019.12.12-22.16.04:541][670]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim.dr_instruct_Anim]
+[2019.12.12-22.16.04:541][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim]
+[2019.12.12-22.16.04:600][670]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_instruct_Anim_Auto138A766524F0B774BBEBBBC93AE283242.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Instruct_002/dr_instruct_Anim_Auto1.uasset'
+[2019.12.12-22.16.04:603][670]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/DrSchmeer_EyelashFix_Skeleton] ([1] browsable assets)...
+[2019.12.12-22.16.04:603][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/DrSchmeer_EyelashFix_Skeleton]
+[2019.12.12-22.16.04:612][670]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/DrSchmeer_EyelashFix_Skeleton_Au7508EBA14777DE66E7D398A9514DFBAE.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_T_Pose/DrSchmeer_EyelashFix_Skeleton_Auto1.uasset'
+[2019.12.12-22.16.04:614][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim] ([1] browsable assets)...
+[2019.12.12-22.16.04:624][670]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim.dr_phone_Anim]
+[2019.12.12-22.16.04:624][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim]
+[2019.12.12-22.16.04:646][670]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/dr_phone_Anim_Auto197EE15E541D8C788F927A0877DF25EBB.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_phone_003/dr_phone_Anim_Auto1.uasset'
+[2019.12.12-22.16.04:647][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones] ([1] browsable assets)...
+[2019.12.12-22.16.04:657][670]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones.Dr_admire_headphones]
+[2019.12.12-22.16.04:657][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones]
+[2019.12.12-22.16.04:710][670]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Dr_admire_headphones_Auto1D10F3B29483A8E596EA5DAB5968E2A0B.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_Auto1.uasset'
+[2019.12.12-22.16.04:712][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_PhysicsAsset] ([1] browsable assets)...
+[2019.12.12-22.16.04:721][670]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_PhysicsAsset.Dr_admire_headphones_PhysicsAsset]
+[2019.12.12-22.16.04:722][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_PhysicsAsset]
+[2019.12.12-22.16.04:740][670]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Dr_admire_headphones_PhysicsAsse4552EC614B93107B145D43A1BC2B4A94.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_PhysicsAsset_Auto1.uasset'
+[2019.12.12-22.16.04:742][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_Anim] ([1] browsable assets)...
+[2019.12.12-22.16.04:752][670]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_Anim.Dr_admire_headphones_Anim]
+[2019.12.12-22.16.04:752][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_Anim]
+[2019.12.12-22.16.04:764][670]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Dr_admire_headphones_Anim_Auto195A3A39C44862D2E8AA272B985D84C87.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Dr_Schemeer/Dr_Schemeer_Animations/Dr_Admire_WithHeadphones/Dr_admire_headphones_Anim_Auto1.uasset'
+[2019.12.12-22.16.04:765][670]LogFileHelpers: Auto-saving content packages took 0.247
+[2019.12.12-22.16.09:919][944]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-22.16.20:619][487]Cmd: DELETE
+[2019.12.12-22.16.20:619][487]Cmd: ACTOR DELETE
+[2019.12.12-22.16.20:712][487]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.12.12-22.16.20:740][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.12.12-22.16.20:741][487]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2019.12.12-22.20.55:993][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.21.52:776][568]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Vintage_Radio.fbx)
+[2019.12.12-22.21.52:794][568]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Vintage_Radio.fbx
+[2019.12.12-22.21.52:856][568]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.12-22.21.52:871][568]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2019.12.12-22.21.54:778][568]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.21.54:787][568]LogAssetTools: Warning: Failed to import '../../../../../../Users/u1101109/Desktop/Vintage_Radio.fbx'. Failed to create asset '/Game/ThirdPersonBP/Random_Objects/Vintage_Radio'.
+Please see Output Log for details.
+[2019.12.12-22.21.56:427][645]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.21.56:450][645]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.22.08:743][134]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Vintage_Radio.fbx)
+[2019.12.12-22.22.08:755][134]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Vintage_Radio.fbx
+[2019.12.12-22.22.08:813][134]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.12-22.22.08:828][134]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2019.12.12-22.22.13:080][134]LogSlate: Window 'Message' being destroyed
+[2019.12.12-22.22.13:084][134]LogAssetTools: Warning: Failed to import '../../../../../../Users/u1101109/Desktop/Vintage_Radio.fbx'. Failed to create asset '/Game/ThirdPersonBP/Random_Objects/Vintage_Radio'.
+Please see Output Log for details.
+[2019.12.12-22.22.15:302][245]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.22.15:324][245]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.23.29:728][555]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/radio_low.FBX)
+[2019.12.12-22.23.29:741][555]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/radio_low.FBX
+[2019.12.12-22.23.29:751][555]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.12-22.23.31:140][555]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.12-22.23.31:208][555]LogStaticMesh: Building static mesh radio_low_5_low...
+[2019.12.12-22.23.31:217][555]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Random_Objects/radio_low_5_low.radio_low_5_low
+[2019.12.12-22.23.31:250][555]LogFbx: Display: Triangulating static mesh 1_low
+[2019.12.12-22.23.31:257][555]LogStaticMesh: Building static mesh radio_low_1_low...
+[2019.12.12-22.23.31:260][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_1_low.radio_low_1_low
+[2019.12.12-22.23.31:271][555]LogStaticMesh: Building static mesh radio_low_6_low...
+[2019.12.12-22.23.31:275][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_6_low.radio_low_6_low
+[2019.12.12-22.23.31:282][555]LogFbx: Display: Triangulating static mesh 7_low
+[2019.12.12-22.23.31:297][555]LogStaticMesh: Building static mesh radio_low_7_low...
+[2019.12.12-22.23.31:303][555]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Random_Objects/radio_low_7_low.radio_low_7_low
+[2019.12.12-22.23.31:312][555]LogStaticMesh: Building static mesh radio_low_8_low...
+[2019.12.12-22.23.31:314][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_8_low.radio_low_8_low
+[2019.12.12-22.23.31:320][555]LogFbx: Display: Triangulating static mesh 2_low
+[2019.12.12-22.23.31:322][555]LogStaticMesh: Building static mesh radio_low_2_low...
+[2019.12.12-22.23.31:324][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_2_low.radio_low_2_low
+[2019.12.12-22.23.31:331][555]LogFbx: Display: Triangulating static mesh 4_low
+[2019.12.12-22.23.31:333][555]LogStaticMesh: Building static mesh radio_low_4_low...
+[2019.12.12-22.23.31:336][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_4_low.radio_low_4_low
+[2019.12.12-22.23.31:342][555]LogFbx: Display: Triangulating static mesh 3_low
+[2019.12.12-22.23.31:344][555]LogStaticMesh: Building static mesh radio_low_3_low...
+[2019.12.12-22.23.31:346][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_3_low.radio_low_3_low
+[2019.12.12-22.23.31:351][555]LogFbx: Display: Triangulating static mesh 10_low
+[2019.12.12-22.23.31:353][555]LogStaticMesh: Building static mesh radio_low_10_low...
+[2019.12.12-22.23.31:357][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_10_low.radio_low_10_low
+[2019.12.12-22.23.31:366][555]LogStaticMesh: Building static mesh radio_low_9_low...
+[2019.12.12-22.23.31:368][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_9_low.radio_low_9_low
+[2019.12.12-22.23.31:377][555]LogStaticMesh: Building static mesh radio_low_13_low...
+[2019.12.12-22.23.31:384][555]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Random_Objects/radio_low_13_low.radio_low_13_low
+[2019.12.12-22.23.31:392][555]LogFbx: Display: Triangulating static mesh 11_low
+[2019.12.12-22.23.31:394][555]LogStaticMesh: Building static mesh radio_low_11_low...
+[2019.12.12-22.23.31:398][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_11_low.radio_low_11_low
+[2019.12.12-22.23.31:406][555]LogStaticMesh: Building static mesh radio_low_12_low...
+[2019.12.12-22.23.31:411][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_12_low.radio_low_12_low
+[2019.12.12-22.23.31:419][555]LogStaticMesh: Building static mesh radio_low_14_low...
+[2019.12.12-22.23.31:422][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_14_low.radio_low_14_low
+[2019.12.12-22.23.31:429][555]LogStaticMesh: Building static mesh radio_low_15_low...
+[2019.12.12-22.23.31:431][555]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_15_low.radio_low_15_low
+[2019.12.12-22.23.31:461][555]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.12-22.23.33:418][633]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.23.33:439][633]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.23.43:138][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.12.12-22.23.47:267][976]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.12-22.23.47:414][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.12.12-22.25.19:918][330]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/radio_low.FBX)
+[2019.12.12-22.25.19:934][330]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/radio_low.FBX
+[2019.12.12-22.25.19:945][330]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.12-22.25.21:156][330]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.12-22.25.21:179][330]LogStaticMesh: Building static mesh radio_low_5_low...
+[2019.12.12-22.25.21:185][330]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Random_Objects/radio_low_5_low.radio_low_5_low
+[2019.12.12-22.25.21:192][330]LogFbx: Display: Triangulating static mesh 1_low
+[2019.12.12-22.25.21:194][330]LogStaticMesh: Building static mesh radio_low_1_low...
+[2019.12.12-22.25.21:197][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_1_low.radio_low_1_low
+[2019.12.12-22.25.21:205][330]LogStaticMesh: Building static mesh radio_low_6_low...
+[2019.12.12-22.25.21:209][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_6_low.radio_low_6_low
+[2019.12.12-22.25.21:215][330]LogFbx: Display: Triangulating static mesh 7_low
+[2019.12.12-22.25.21:230][330]LogStaticMesh: Building static mesh radio_low_7_low...
+[2019.12.12-22.25.21:237][330]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Random_Objects/radio_low_7_low.radio_low_7_low
+[2019.12.12-22.25.21:245][330]LogStaticMesh: Building static mesh radio_low_8_low...
+[2019.12.12-22.25.21:247][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_8_low.radio_low_8_low
+[2019.12.12-22.25.21:252][330]LogFbx: Display: Triangulating static mesh 2_low
+[2019.12.12-22.25.21:254][330]LogStaticMesh: Building static mesh radio_low_2_low...
+[2019.12.12-22.25.21:256][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_2_low.radio_low_2_low
+[2019.12.12-22.25.21:261][330]LogFbx: Display: Triangulating static mesh 4_low
+[2019.12.12-22.25.21:264][330]LogStaticMesh: Building static mesh radio_low_4_low...
+[2019.12.12-22.25.21:267][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_4_low.radio_low_4_low
+[2019.12.12-22.25.21:272][330]LogFbx: Display: Triangulating static mesh 3_low
+[2019.12.12-22.25.21:274][330]LogStaticMesh: Building static mesh radio_low_3_low...
+[2019.12.12-22.25.21:276][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_3_low.radio_low_3_low
+[2019.12.12-22.25.21:282][330]LogFbx: Display: Triangulating static mesh 10_low
+[2019.12.12-22.25.21:284][330]LogStaticMesh: Building static mesh radio_low_10_low...
+[2019.12.12-22.25.21:287][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_10_low.radio_low_10_low
+[2019.12.12-22.25.21:293][330]LogStaticMesh: Building static mesh radio_low_9_low...
+[2019.12.12-22.25.21:295][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_9_low.radio_low_9_low
+[2019.12.12-22.25.21:303][330]LogStaticMesh: Building static mesh radio_low_13_low...
+[2019.12.12-22.25.21:310][330]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Random_Objects/radio_low_13_low.radio_low_13_low
+[2019.12.12-22.25.21:316][330]LogFbx: Display: Triangulating static mesh 11_low
+[2019.12.12-22.25.21:319][330]LogStaticMesh: Building static mesh radio_low_11_low...
+[2019.12.12-22.25.21:323][330]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Random_Objects/radio_low_11_low.radio_low_11_low
+[2019.12.12-22.25.21:330][330]LogStaticMesh: Building static mesh radio_low_12_low...
+[2019.12.12-22.25.21:335][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_12_low.radio_low_12_low
+[2019.12.12-22.25.21:342][330]LogStaticMesh: Building static mesh radio_low_14_low...
+[2019.12.12-22.25.21:345][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_14_low.radio_low_14_low
+[2019.12.12-22.25.21:352][330]LogStaticMesh: Building static mesh radio_low_15_low...
+[2019.12.12-22.25.21:353][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/Random_Objects/radio_low_15_low.radio_low_15_low
+[2019.12.12-22.25.21:385][330]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.12-22.25.24:485][440]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.25.24:510][440]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.25.28:533][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.12-22.25.33:072][574]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.12-22.25.33:203][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.12.12-22.26.12:013][768]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1101109/Desktop/Radio.fbx)
+[2019.12.12-22.26.12:024][768]LogFbx: Loading FBX Scene from ../../../../../../Users/u1101109/Desktop/Radio.fbx
+[2019.12.12-22.26.12:036][768]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.12-22.26.13:107][768]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.12-22.26.13:121][768]LogFbx: Display: Triangulating static mesh 7_low1
+[2019.12.12-22.26.13:157][768]LogStaticMesh: Building static mesh Radio...
+[2019.12.12-22.26.13:192][768]LogStaticMesh: Built static mesh [0.03s] /Game/ThirdPersonBP/Random_Objects/Radio.Radio
+[2019.12.12-22.26.13:206][768]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.12-22.26.13:519][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.12.12-22.26.15:564][769]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Map1_Auto259323ACB47273C1FD50A6D93B868D69E.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/StarterBundle/CollectionMaps/Map1_Auto2.umap'
+[2019.12.12-22.26.15:568][769]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterBundle/CollectionMaps/Map1' took 2.075
+[2019.12.12-22.26.15:568][769]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.075
+[2019.12.12-22.26.15:572][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Random_Objects/Radio] ([1] browsable assets)...
+[2019.12.12-22.26.15:601][769]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/Random_Objects/Radio.Radio]
+[2019.12.12-22.26.15:601][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Random_Objects/Radio]
+[2019.12.12-22.26.15:618][769]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Radio_Auto297425E844EEF5550745654BFE3979EAD.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Random_Objects/Radio_Auto2.uasset'
+[2019.12.12-22.26.15:619][769]LogFileHelpers: Auto-saving content packages took 0.048
+[2019.12.12-22.26.17:617][861]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.26.17:641][861]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.26.19:231][931]LogActorFactory: Actor Factory created Radio
+[2019.12.12-22.26.20:530][986]LogActorFactory: Actor Factory created Radio
+[2019.12.12-22.26.21:961][ 54]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.12-22.26.32:386][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-22.26.38:548][892]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Random_Objects/NewMaterial.NewMaterial
+[2019.12.12-22.26.38:564][892]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.26.39:050][892]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.26.39:078][892]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.26.39:174][892]LogSlate: Took 0.004703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.12-22.26.52:419][416]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.12.12-22.26.52:419][416]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.12.12-22.26.52:419][416]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-22.26.52:419][416]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-22.27.20:842][645]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.20:860][645]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.12-22.27.20:869][645]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.20:897][645]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.12-22.27.30:378][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.12-22.27.30:389][ 75]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.34:713][226]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.12-22.27.34:724][226]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.36:251][278]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.12-22.27.36:260][278]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.38:855][388]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.12-22.27.38:865][388]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.42:050][507]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.42:075][507]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.12-22.27.42:093][507]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.12-22.27.42:104][507]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.42:125][507]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.12-22.27.42:136][507]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.42:152][507]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.12-22.27.46:386][684]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2019.12.12-22.27.47:038][684]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.47:112][684]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.47:173][684]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.12.12-22.27.47:356][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.12.12-22.27.47:368][684]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.12-22.28.29:985][684]TextureStreamingBuild: Display: Compiling optional shaders took 42.628 seconds.
+[2019.12.12-22.28.30:011][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.12.12-22.28.30:333][684]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/NewMaterialAC179DD14BEFB82F25788A8E5D7AE080.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Random_Objects/NewMaterial.uasset'
+[2019.12.12-22.28.30:352][684]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.12.12-22.28.30:352][684]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2019.12.12-22.28.30:352][684]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.12-22.28.30:352][684]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.12-22.28.36:048][919]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2019.12.12-22.28.36:085][919]LogSavePackage: Moving '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Saved/NewMaterial50B0E0B949FAF51FDBDE7CAE9AFDFE54.tmp' to '../../../../../../Users/u1101109/Desktop/GitHub/TheLab/Content/ThirdPersonBP/Random_Objects/NewMaterial.uasset'
+[2019.12.12-22.28.37:430][980]LogSlate: Window 'NewMaterial' being destroyed
+[2019.12.12-22.28.37:460][980]LogSlate: Window 'NewMaterial' being destroyed
+[2019.12.12-22.28.37:477][980]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.28.44:647][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.12.12-22.28.46:498][302]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.12-22.28.47:397][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio)
+[2019.12.12-22.28.48:358][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio)
+[2019.12.12-22.28.49:281][445]Cmd: DELETE
+[2019.12.12-22.28.49:281][445]Cmd: ACTOR DELETE
+[2019.12.12-22.28.49:326][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.12-22.28.49:352][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.12.12-22.28.49:353][445]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2019.12.12-22.28.57:119][864]LogSlate: FSceneViewport::OnFocusLost() reason 5
