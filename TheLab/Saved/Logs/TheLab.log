@@ -836,3 +836,392 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.13-01.29.27:873][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2019.12.13-01.29.27:899][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
 [2019.12.13-01.29.27:921][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.13-01.31.29:031][480]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Trevor's Animations FBX/Klaus-AskingQuestionsToSchmmeer.fbx)
+[2019.12.13-01.31.29:047][480]LogFbx: Loading FBX Scene from E:/Trevor's Animations FBX/Klaus-AskingQuestionsToSchmmeer.fbx
+[2019.12.13-01.31.29:082][480]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.13-01.31.34:694][480]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.13-01.31.34:709][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Body : The relative matrices do not match
+[2019.12.13-01.31.34:709][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyelashes : The relative matrices do not match
+[2019.12.13-01.31.34:710][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node default1 : The relative matrices do not match
+[2019.12.13-01.31.34:710][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Bottoms : The relative matrices do not match
+[2019.12.13-01.31.34:710][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Shoes : The relative matrices do not match
+[2019.12.13-01.31.34:710][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hair : The relative matrices do not match
+[2019.12.13-01.31.34:710][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Tops : The relative matrices do not match
+[2019.12.13-01.31.34:711][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyewear : The relative matrices do not match
+[2019.12.13-01.31.34:711][480]LogFbx: Valid bind pose for Pose (skinCluster2) - Body
+[2019.12.13-01.31.34:711][480]LogFbx: Valid bind pose for Pose (skinCluster3) - Body
+[2019.12.13-01.31.34:711][480]LogFbx: Valid bind pose for Pose (skinCluster4) - Body
+[2019.12.13-01.31.34:711][480]LogFbx: Valid bind pose for Pose (skinCluster5) - Body
+[2019.12.13-01.31.34:711][480]LogFbx: Valid bind pose for Pose (skinCluster6) - Body
+[2019.12.13-01.31.34:711][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Body : The relative matrices do not match
+[2019.12.13-01.31.34:712][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Eyelashes : The relative matrices do not match
+[2019.12.13-01.31.34:712][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node default1 : The relative matrices do not match
+[2019.12.13-01.31.34:712][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Bottoms : The relative matrices do not match
+[2019.12.13-01.31.34:712][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Shoes : The relative matrices do not match
+[2019.12.13-01.31.34:712][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hair : The relative matrices do not match
+[2019.12.13-01.31.34:713][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Tops : The relative matrices do not match
+[2019.12.13-01.31.34:713][480]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Eyewear : The relative matrices do not match
+[2019.12.13-01.31.34:713][480]LogFbx: Valid bind pose for Pose (skinCluster8) - Body
+[2019.12.13-01.31.34:714][480]LogFbx: Triangulating skeletal mesh Body
+[2019.12.13-01.31.35:299][480]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.13-01.31.35:303][480]LogFbx: Triangulating skeletal mesh default1
+[2019.12.13-01.31.35:355][480]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.13-01.31.35:412][480]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.13-01.31.35:639][480]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.13-01.31.35:799][480]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.13-01.31.35:887][480]LogFbx: Triangulating skeletal mesh Eyewear
+[2019.12.13-01.31.35:962][480]LogFbx: Warning: Bones digested - 28  Depth of hierarchy - 11
+[2019.12.13-01.31.36:645][480]LogSkeletalMesh: Section 0: 22324 vertices, 28 active bones
+[2019.12.13-01.31.36:648][480]LogSkeletalMesh: Section 0: Material=0, 35882 triangles
+[2019.12.13-01.31.36:652][480]LogSkeletalMesh: Building Skeletal Mesh Klaus-AskingQuestionsToSchmmeer...
+[2019.12.13-01.31.36:695][480]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer.Klaus-AskingQuestionsToSchmmeer
+[2019.12.13-01.31.36:706][480]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer_PhysicsAsset': Can't find file.
+[2019.12.13-01.31.36:706][480]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer_PhysicsAsset': Can't find file.
+[2019.12.13-01.31.36:718][480]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(0) Hips
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(1) Spine
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(2) Spine1
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(3) Spine2
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(4) Neck
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(5) Head
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(10) LeftHandIndex1
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(11) LeftHandIndex2
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(12) LeftHandIndex3
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(13) RightShoulder
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(14) RightArm
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(15) RightForeArm
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(16) RightHand
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(17) RightHandIndex1
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(18) RightHandIndex2
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(19) RightHandIndex3
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(20) LeftUpLeg
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(21) LeftLeg
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(22) LeftFoot
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(23) LeftToeBase
+[2019.12.13-01.31.36:721][480]LogFbx: SortedLinks :(24) RightUpLeg
+[2019.12.13-01.31.36:722][480]LogFbx: SortedLinks :(25) RightLeg
+[2019.12.13-01.31.36:722][480]LogFbx: SortedLinks :(26) RightFoot
+[2019.12.13-01.31.36:722][480]LogFbx: SortedLinks :(27) RightToeBase
+[2019.12.13-01.31.36:723][480]LogSkeletalMesh: Building Skeletal Mesh Klaus-AskingQuestionsToSchmmeer...
+[2019.12.13-01.31.36:767][480]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer.Klaus-AskingQuestionsToSchmmeer
+[2019.12.13-01.31.36:778][480]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.13-01.31.36:778][480]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.13-01.31.36:778][480]FBXImport: Warning: Animation Stack Take 001 does not contain any valid key. Try different time options when import. 
+[2019.12.13-01.31.36:779][480]FBXImport: Warning: This does not contain any valid animation takes. 
+[2019.12.13-01.31.36:787][480]LogSkeletalMesh: Building Skeletal Mesh Klaus-AskingQuestionsToSchmmeer...
+[2019.12.13-01.31.36:828][480]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer.Klaus-AskingQuestionsToSchmmeer
+[2019.12.13-01.31.39:604][782]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-01.31.39:608][782]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-01.36.33:101][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.12.13-01.36.33:232][ 77]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/ThirdPersonExampleMap_Auto27FD3A4AC4C27CDF92D580DA2E8FE259A.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.12.13-01.36.33:236][ 77]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.158
+[2019.12.13-01.36.33:236][ 77]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.158
+[2019.12.13-01.36.33:238][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer] ([1] browsable assets)...
+[2019.12.13-01.36.33:249][ 77]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer.Klaus-AskingQuestionsToSchmmeer]
+[2019.12.13-01.36.33:249][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer]
+[2019.12.13-01.36.33:295][ 77]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Klaus-AskingQuestionsToSchmmeer_9E5C2EAD438F09A24053FCA84D3F6165.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer_Auto2.uasset'
+[2019.12.13-01.36.33:297][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer_PhysicsAsset] ([1] browsable assets)...
+[2019.12.13-01.36.33:307][ 77]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer_PhysicsAsset.Klaus-AskingQuestionsToSchmmeer_PhysicsAsset]
+[2019.12.13-01.36.33:307][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer_PhysicsAsset]
+[2019.12.13-01.36.33:322][ 77]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Klaus-AskingQuestionsToSchmmeer_FDD7B8214DACF437DB8F22802B19C4C3.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer_PhysicsAsset_Auto2.uasset'
+[2019.12.13-01.36.33:327][ 77]LogFileHelpers: Auto-saving content packages took 0.090
+[2019.12.13-01.38.05:176][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.12.13-01.38.06:375][947]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.13-01.38.06:940][947]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer_PhysicsAsset.Klaus-AskingQuestionsToSchmmeer_PhysicsAsset
+	Asset Name: /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer.Klaus-AskingQuestionsToSchmmeer
+[2019.12.13-01.38.07:668][947]LogSkeletalMesh: Building Skeletal Mesh Klaus-AskingQuestionsToSchmmeer...
+[2019.12.13-01.38.07:720][947]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-AskingQuestionsToSchmmeer.Klaus-AskingQuestionsToSchmmeer
+[2019.12.13-01.38.07:928][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.12.13-01.38.46:651][304]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Trevor's Animations FBX/Klaus-death.fbx)
+[2019.12.13-01.38.46:665][304]LogFbx: Loading FBX Scene from E:/Trevor's Animations FBX/Klaus-death.fbx
+[2019.12.13-01.38.46:700][304]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.13-01.38.53:070][304]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.13-01.38.53:088][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Body : The relative matrices do not match
+[2019.12.13-01.38.53:088][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyelashes : The relative matrices do not match
+[2019.12.13-01.38.53:088][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node default1 : The relative matrices do not match
+[2019.12.13-01.38.53:089][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Bottoms : The relative matrices do not match
+[2019.12.13-01.38.53:089][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Shoes : The relative matrices do not match
+[2019.12.13-01.38.53:089][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hair : The relative matrices do not match
+[2019.12.13-01.38.53:089][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Tops : The relative matrices do not match
+[2019.12.13-01.38.53:089][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyewear : The relative matrices do not match
+[2019.12.13-01.38.53:089][304]LogFbx: Valid bind pose for Pose (skinCluster2) - Body
+[2019.12.13-01.38.53:089][304]LogFbx: Valid bind pose for Pose (skinCluster3) - Body
+[2019.12.13-01.38.53:090][304]LogFbx: Valid bind pose for Pose (skinCluster4) - Body
+[2019.12.13-01.38.53:090][304]LogFbx: Valid bind pose for Pose (skinCluster5) - Body
+[2019.12.13-01.38.53:090][304]LogFbx: Valid bind pose for Pose (skinCluster6) - Body
+[2019.12.13-01.38.53:090][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Body : The relative matrices do not match
+[2019.12.13-01.38.53:090][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Eyelashes : The relative matrices do not match
+[2019.12.13-01.38.53:090][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node default1 : The relative matrices do not match
+[2019.12.13-01.38.53:091][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Bottoms : The relative matrices do not match
+[2019.12.13-01.38.53:091][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Shoes : The relative matrices do not match
+[2019.12.13-01.38.53:091][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hair : The relative matrices do not match
+[2019.12.13-01.38.53:091][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Tops : The relative matrices do not match
+[2019.12.13-01.38.53:091][304]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Eyewear : The relative matrices do not match
+[2019.12.13-01.38.53:091][304]LogFbx: Valid bind pose for Pose (skinCluster8) - Body
+[2019.12.13-01.38.53:093][304]LogFbx: Triangulating skeletal mesh Body
+[2019.12.13-01.38.53:689][304]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.13-01.38.53:693][304]LogFbx: Triangulating skeletal mesh default1
+[2019.12.13-01.38.53:745][304]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.13-01.38.53:803][304]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.13-01.38.54:036][304]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.13-01.38.54:208][304]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.13-01.38.54:299][304]LogFbx: Triangulating skeletal mesh Eyewear
+[2019.12.13-01.38.54:368][304]LogFbx: Warning: Bones digested - 28  Depth of hierarchy - 11
+[2019.12.13-01.38.55:060][304]LogSkeletalMesh: Section 0: 22324 vertices, 28 active bones
+[2019.12.13-01.38.55:064][304]LogSkeletalMesh: Section 0: Material=0, 35882 triangles
+[2019.12.13-01.38.55:068][304]LogSkeletalMesh: Building Skeletal Mesh Klaus-death...
+[2019.12.13-01.38.55:115][304]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death.Klaus-death
+[2019.12.13-01.38.55:130][304]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death_PhysicsAsset': Can't find file.
+[2019.12.13-01.38.55:130][304]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death_PhysicsAsset': Can't find file.
+[2019.12.13-01.38.55:138][304]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-01.38.55:140][304]LogFbx: SortedLinks :(0) Hips
+[2019.12.13-01.38.55:140][304]LogFbx: SortedLinks :(1) Spine
+[2019.12.13-01.38.55:140][304]LogFbx: SortedLinks :(2) Spine1
+[2019.12.13-01.38.55:140][304]LogFbx: SortedLinks :(3) Spine2
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(4) Neck
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(5) Head
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(6) LeftShoulder
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(7) LeftArm
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(8) LeftForeArm
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(9) LeftHand
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(10) LeftHandIndex1
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(11) LeftHandIndex2
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(12) LeftHandIndex3
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(13) RightShoulder
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(14) RightArm
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(15) RightForeArm
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(16) RightHand
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(17) RightHandIndex1
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(18) RightHandIndex2
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(19) RightHandIndex3
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(20) LeftUpLeg
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(21) LeftLeg
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(22) LeftFoot
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(23) LeftToeBase
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(24) RightUpLeg
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(25) RightLeg
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(26) RightFoot
+[2019.12.13-01.38.55:141][304]LogFbx: SortedLinks :(27) RightToeBase
+[2019.12.13-01.38.55:148][304]LogSkeletalMesh: Building Skeletal Mesh Klaus-death...
+[2019.12.13-01.38.55:187][304]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death.Klaus-death
+[2019.12.13-01.38.55:196][304]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.13-01.38.55:196][304]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.13-01.38.55:196][304]FBXImport: Warning: Animation Stack Take 001 does not contain any valid key. Try different time options when import. 
+[2019.12.13-01.38.55:196][304]FBXImport: Warning: This does not contain any valid animation takes. 
+[2019.12.13-01.38.55:206][304]LogSkeletalMesh: Building Skeletal Mesh Klaus-death...
+[2019.12.13-01.38.55:248][304]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death.Klaus-death
+[2019.12.13-01.39.15:045][481]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-01.39.15:050][481]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-01.43.32:485][447]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death.Klaus-death
+[2019.12.13-01.43.32:520][447]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-01.43.32:536][447]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.13-01.43.38:072][957]LogSlate: Window 'Klaus-death' being destroyed
+[2019.12.13-01.43.38:076][957]LogSlate: Window 'Klaus-death' being destroyed
+[2019.12.13-01.43.38:076][957]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-01.44.20:417][984]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Klaus_T_Pose.fbx)
+[2019.12.13-01.44.20:448][984]LogFbx: Loading FBX Scene from E:/Klaus_T_Pose.fbx
+[2019.12.13-01.44.20:509][984]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.13-01.44.25:956][984]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.13-01.44.25:973][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Body : The relative matrices do not match
+[2019.12.13-01.44.25:973][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyelashes : The relative matrices do not match
+[2019.12.13-01.44.25:973][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node default1 : The relative matrices do not match
+[2019.12.13-01.44.25:974][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Bottoms : The relative matrices do not match
+[2019.12.13-01.44.25:974][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Shoes : The relative matrices do not match
+[2019.12.13-01.44.25:974][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hair : The relative matrices do not match
+[2019.12.13-01.44.25:974][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Tops : The relative matrices do not match
+[2019.12.13-01.44.25:974][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyewear : The relative matrices do not match
+[2019.12.13-01.44.25:975][984]LogFbx: Valid bind pose for Pose (skinCluster2) - Body
+[2019.12.13-01.44.25:975][984]LogFbx: Valid bind pose for Pose (skinCluster3) - Body
+[2019.12.13-01.44.25:975][984]LogFbx: Valid bind pose for Pose (skinCluster4) - Body
+[2019.12.13-01.44.25:975][984]LogFbx: Valid bind pose for Pose (skinCluster5) - Body
+[2019.12.13-01.44.25:975][984]LogFbx: Valid bind pose for Pose (skinCluster6) - Body
+[2019.12.13-01.44.25:976][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Body : The relative matrices do not match
+[2019.12.13-01.44.25:976][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Eyelashes : The relative matrices do not match
+[2019.12.13-01.44.25:976][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node default1 : The relative matrices do not match
+[2019.12.13-01.44.25:976][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Bottoms : The relative matrices do not match
+[2019.12.13-01.44.25:977][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Shoes : The relative matrices do not match
+[2019.12.13-01.44.25:977][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hair : The relative matrices do not match
+[2019.12.13-01.44.25:977][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Tops : The relative matrices do not match
+[2019.12.13-01.44.25:978][984]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Eyewear : The relative matrices do not match
+[2019.12.13-01.44.25:978][984]LogFbx: Valid bind pose for Pose (skinCluster8) - Body
+[2019.12.13-01.44.25:979][984]LogFbx: Triangulating skeletal mesh Body
+[2019.12.13-01.44.26:572][984]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.12.13-01.44.26:576][984]LogFbx: Triangulating skeletal mesh default1
+[2019.12.13-01.44.26:626][984]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.12.13-01.44.26:684][984]LogFbx: Triangulating skeletal mesh Shoes
+[2019.12.13-01.44.26:908][984]LogFbx: Triangulating skeletal mesh Hair
+[2019.12.13-01.44.27:069][984]LogFbx: Triangulating skeletal mesh Tops
+[2019.12.13-01.44.27:163][984]LogFbx: Triangulating skeletal mesh Eyewear
+[2019.12.13-01.44.27:228][984]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2019.12.13-01.44.27:918][984]LogSkeletalMesh: Section 0: 22324 vertices, 28 active bones
+[2019.12.13-01.44.27:922][984]LogSkeletalMesh: Section 0: Material=0, 35882 triangles
+[2019.12.13-01.44.27:946][984]LogSkeletalMesh: Building Skeletal Mesh Klaus_T_Pose...
+[2019.12.13-01.44.27:989][984]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose.Klaus_T_Pose
+[2019.12.13-01.44.28:017][984]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_PhysicsAsset': Can't find file.
+[2019.12.13-01.44.28:017][984]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_PhysicsAsset': Can't find file.
+[2019.12.13-01.44.28:024][984]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(0) Hips
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(1) Spine
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(2) Spine1
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(3) Spine2
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(4) Neck
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(5) Head
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(8) LeftArm
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(10) LeftHand
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(15) RightShoulder
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(16) RightArm
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(17) RightForeArm
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(18) RightHand
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(19) RightHandIndex1
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(20) RightHandIndex2
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(21) RightHandIndex3
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(22) RightHandIndex4
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(23) LeftUpLeg
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(24) LeftLeg
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(25) LeftFoot
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(26) LeftToeBase
+[2019.12.13-01.44.28:028][984]LogFbx: SortedLinks :(27) LeftToe_End
+[2019.12.13-01.44.28:029][984]LogFbx: SortedLinks :(28) RightUpLeg
+[2019.12.13-01.44.28:029][984]LogFbx: SortedLinks :(29) RightLeg
+[2019.12.13-01.44.28:029][984]LogFbx: SortedLinks :(30) RightFoot
+[2019.12.13-01.44.28:029][984]LogFbx: SortedLinks :(31) RightToeBase
+[2019.12.13-01.44.28:029][984]LogFbx: SortedLinks :(32) RightToe_End
+[2019.12.13-01.44.28:031][984]LogFbx: Parsing AnimStack Take 001
+[2019.12.13-01.44.28:032][984]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_Anim': Can't find file.
+[2019.12.13-01.44.28:032][984]LogLinker: Failed to load '/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_Anim': Can't find file.
+[2019.12.13-01.44.28:071][984]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_Anim.Klaus_T_Pose_Anim
+[2019.12.13-01.44.28:071][984]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_Anim.Klaus_T_Pose_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.13-01.44.28:077][984]LogSkeletalMesh: Building Skeletal Mesh Klaus_T_Pose...
+[2019.12.13-01.44.28:119][984]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose.Klaus_T_Pose
+[2019.12.13-01.44.28:132][984]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.13-01.44.28:132][984]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandIndex4  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandIndex4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.13-01.44.28:140][984]LogSkeletalMesh: Building Skeletal Mesh Klaus_T_Pose...
+[2019.12.13-01.44.28:184][984]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose.Klaus_T_Pose
+[2019.12.13-01.44.31:485][353]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-01.44.31:488][353]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-01.44.36:433][885]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-01.44.44:448][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-01.44.44:531][563]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-01.44.44:543][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-01.44.44:543][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-01.44.44:548][563]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 12, 2019, 11:44:44 AM)
+[2019.12.13-01.44.44:549][563]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.13-01.44.44:550][563]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-01.44.44:563][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013083s)
+[2019.12.13-01.44.44:565][563]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-01.44.44:565][563]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2019.12.13-01.44.44:565][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014898s)
+[2019.12.13-01.44.44:594][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.12.13-01.44.44:600][563]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-01.44.44:614][563]LogInit: FAudioDevice initialized.
+[2019.12.13-01.44.44:643][563]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-01.44.44:647][563]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.12-18.44.44
+[2019.12.13-01.44.44:648][563]LogWorld: Bringing up level for play took: 0.004411
+[2019.12.13-01.44.44:649][563]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.13-01.44.44:663][563]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.13-01.44.44:664][563]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.415
+[2019.12.13-01.44.44:664][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-01.44.48:539][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-01.44.48:540][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-01.44.48:540][ 21]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-01.44.48:540][ 21]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-01.44.48:549][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-01.44.48:549][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-01.44.48:576][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-01.44.48:584][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.12.13-01.44.48:648][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.13-01.44.50:311][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-01.46.37:436][641]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-01.46.37:469][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.12.13-01.46.37:603][641]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/ThirdPersonExampleMap_Auto3FC222C544DA713A9EBB7E5B238715A06.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.12.13-01.46.37:606][641]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.159
+[2019.12.13-01.46.37:606][641]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.159
+[2019.12.13-01.46.37:607][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death] ([1] browsable assets)...
+[2019.12.13-01.46.37:617][641]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death.Klaus-death]
+[2019.12.13-01.46.37:617][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death]
+[2019.12.13-01.46.37:666][641]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Klaus-death_Auto3B04639C349B05F7C982FB1BA4E9003BA.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death_Auto3.uasset'
+[2019.12.13-01.46.37:667][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death_PhysicsAsset] ([1] browsable assets)...
+[2019.12.13-01.46.37:678][641]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death_PhysicsAsset.Klaus-death_PhysicsAsset]
+[2019.12.13-01.46.37:678][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death_PhysicsAsset]
+[2019.12.13-01.46.37:694][641]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Klaus-death_PhysicsAsset_Auto38A54CBA544B01A1D1504A8B6D31060CE.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus-death_PhysicsAsset_Auto3.uasset'
+[2019.12.13-01.46.37:695][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose] ([1] browsable assets)...
+[2019.12.13-01.46.37:706][641]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose.Klaus_T_Pose]
+[2019.12.13-01.46.37:706][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose]
+[2019.12.13-01.46.37:755][641]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Klaus_T_Pose_Auto3985908AA4690F83A9B255DBBBE609E58.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_Auto3.uasset'
+[2019.12.13-01.46.37:756][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_PhysicsAsset] ([1] browsable assets)...
+[2019.12.13-01.46.37:767][641]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_PhysicsAsset.Klaus_T_Pose_PhysicsAsset]
+[2019.12.13-01.46.37:767][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_PhysicsAsset]
+[2019.12.13-01.46.37:781][641]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Klaus_T_Pose_PhysicsAsset_Auto3B15967FB46A5BF0C8711B69D90D9B281.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_PhysicsAsset_Auto3.uasset'
+[2019.12.13-01.46.37:783][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_Anim] ([1] browsable assets)...
+[2019.12.13-01.46.37:793][641]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_Anim.Klaus_T_Pose_Anim]
+[2019.12.13-01.46.37:793][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_Anim]
+[2019.12.13-01.46.37:803][641]LogSavePackage: Moving '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Klaus_T_Pose_Anim_Auto336D8BADA48D9847213312F9A851916E2.tmp' to '../../../../../../Users/u1047856/Desktop/TheLab/TheLab/Saved/Autosaves/Game/ThirdPersonBP/Characters/Klaus/Klaus_Animations/NewFolder/Klaus_T_Pose_Anim_Auto3.uasset'
+[2019.12.13-01.46.37:804][641]LogFileHelpers: Auto-saving content packages took 0.198
